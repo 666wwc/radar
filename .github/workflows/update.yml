@@ -1,0 +1,40 @@
+name: 抓取行业资讯
+
+on:
+  schedule:
+    # 每小时的第 7 分钟跑（避开整点的 Actions 高峰）
+    - cron: '7 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 抓取并生成 data/items.json
+        run: node scripts/fetch.mjs
+
+      - name: 提交变化
+        run: |
+          if git diff --quiet -- data/items.json; then
+            echo "数据没有变化，跳过提交"
+            exit 0
+          fi
+          git config user.name  "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/items.json
+          git commit -m "chore(data): 更新资讯 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

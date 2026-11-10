@@ -1,0 +1,8 @@
+# 抓取与生成本地文件
+node_modules/
+preview.png
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
