@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-10T18:56:12.779Z",
+  "generatedAt": "2026-11-10T21:47:29.047Z",
   "total": 148,
-  "promoFiltered": 16,
+  "promoFiltered": 15,
   "promoDroppedTitles": [
     "独立双系统：美的 575L 法式门双变频大冰箱京东 1868 元直降",
     "2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价",
@@ -17,7 +17,6 @@
     "7499 → 5623 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
     "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
     "FE 28-60mm F4-5.6 套装 8693 元：索尼 Alpha 7C II 全画幅微单 11.11 国补直降",
-    "Costco’s New 'Pokémon' 30th Anniversary Bundle Is An Unbelievable Deal",
     "Blender Secrets on sale"
   ],
   "categories": [
@@ -43,122 +42,309 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1376,
-      "ms": 1110
+      "ms": 571
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 1219
+      "ms": 161
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 902,
-      "ms": 748
+      "ms": 129
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 460
+      "ms": 109
     },
     {
       "id": "qbitai",
       "name": "量子位",
       "ok": true,
       "count": 10,
-      "ms": 177
+      "ms": 1654
     },
     {
       "id": "ifanr",
       "name": "爱范儿",
       "ok": true,
       "count": 20,
-      "ms": 206
+      "ms": 1534
     },
     {
       "id": "ithome",
       "name": "IT之家",
       "ok": true,
       "count": 46,
-      "ms": 167
+      "ms": 1686
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
-      "count": 9,
-      "ms": 2427
+      "count": 10,
+      "ms": 199
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 1713
+      "ms": 373
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 692
+      "ms": 161
     },
     {
       "id": "gcores",
       "name": "机核",
       "ok": true,
       "count": 20,
-      "ms": 418
+      "ms": 1194
     },
     {
       "id": "indienova",
       "name": "indienova",
       "ok": true,
       "count": 10,
-      "ms": 359
+      "ms": 1390
     },
     {
       "id": "chuapp",
       "name": "触乐",
       "ok": true,
       "count": 30,
-      "ms": 3036
+      "ms": 4413
     },
     {
       "id": "gamelook",
       "name": "GameLook",
-      "ok": true,
-      "count": 31,
-      "ms": 1784
+      "ok": false,
+      "error": "HTTP 502",
+      "ms": 2362
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 1833
+      "ms": 555
     },
     {
       "id": "blendernation",
       "name": "BlenderNation",
       "ok": true,
       "count": 9,
-      "ms": 2424
+      "ms": 456
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": true,
       "count": 9,
-      "ms": 892
+      "ms": 295
     }
   ],
   "items": [
+    {
+      "title": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works",
+      "link": "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works",
+      "summary": "You know, I'm sure that Sony had every intention of following through on their intention to release 10 live service games by 2026, as they mentioned way back in 2022 . Well, as far as an intention that's designed to please shareholders can go, anyway. And now here we are, almost five years on from that comment that continues to haunt them with the news Fairgame$ has been cancelled. Read more",
+      "image": "https://assetsio.gnwcdn.com/fairgames_gqqTAs3.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-10T21:28:00.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "PlayStation Officially Cancels Live-service Shooter Fairgames",
+      "link": "https://www.polygon.com/sony-cancels-fairgames-live-service-shooter-ps5/",
+      "summary": "Sony has canceled Haven's Fairgames, a live-service shooter revealed in 2023. The studio will now become a support team.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/9a417a36-b37d-4788-8a49-0111aee41351.jpeg",
+      "publishedAt": "2026-11-10T21:27:49.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "image": null,
+      "publishedAt": "2026-11-10T21:08:52.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "4 Upcoming Fantasy RPGs Better Than Waiting for a New Dragon Age",
+      "link": "https://www.polygon.com/dragon-age-alternatives-upcoming-rpgs/",
+      "summary": "Want more Dragon Age? These four upcoming RPGs, one playable today, deliver the companions, tactical fights, and choices that follow you around.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/solasta-2-party-loading-screen.jpg",
+      "publishedAt": "2026-11-10T21:00:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "image": null,
+      "publishedAt": "2026-11-10T20:52:13.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "How to get the Sinking Lure in Zelda Ocarina of Time",
+      "link": "https://www.polygon.com/zelda-ocarina-of-time-oot-remake-sinking-lure-location/",
+      "summary": "The Sinking Lure makes fishing easier in Ocarina of Time, but also helps hook the Hylian loach. Here's where it's located and how to get it.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/obs64_2026-11-10_14-11-36.jpg",
+      "publishedAt": "2026-11-10T20:23:51.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
+      "link": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
+      "summary": "It's a bit of a time for AI and games at the moment, 'ey? A bad time, obviously, as it's infecting everything from game development , to the modding community , to native PC ports of a remake of a very popular game that I won't link to for fear of a certain company finding out where I live and ending me there and then. And of course, the latter may be a concern for one Rockstar Games and the impen",
+      "image": "https://assetsio.gnwcdn.com/gta-6-grand-theft-auto-6-main-characters-hot-4.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-10T19:59:40.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "image": null,
+      "publishedAt": "2026-11-10T19:57:52.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Bloody Hell Hotel Developer on Making a Vampire Management Sandbox",
+      "link": "https://80.lv/articles/bloody-hell-hotel-developer-on-making-a-vampire-management-sandbox/",
+      "summary": "Wlad Marhulets, the former film composer behind DARQ, talked to us about the development of Bloody Hell Hotel, discussing the mechanics of its vampire hotel sandbox, how the procedural dungeons were designed, and why the studio works with contractors instead of full-time employees.",
+      "image": "https://cdn.80.lv/api/upload/post/42206/images/6af375fca73af/cover_800x800.jpg",
+      "publishedAt": "2026-11-10T19:52:00.000Z",
+      "sourceId": "80lv",
+      "sourceName": "80 Level",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Big Walk AI Controversy Is a GOTY Awards Twist Sparking a Bigger Debate",
+      "link": "https://www.polygon.com/big-walks-ai-controversy-goty-2026/",
+      "summary": "Big Walk faces a hurdle ahead of GOTY season, as IGF jury members draw a hardline stance against voting for games that have any AI use whatsoever.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/big-walk.png",
+      "publishedAt": "2026-11-10T19:25:34.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "image": null,
+      "publishedAt": "2026-11-10T19:23:34.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Nobody Said The Legend of Zelda: Ocarina of Time Was This Funny",
+      "link": "https://www.polygon.com/zelda-ocarina-time-remake-funny-moments/",
+      "summary": "It may be impossible to play Zelda: Ocarina of Time totally free of spoilers in 2026, but the jokes are 100% fresh.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_princessruto_lead.jpg",
+      "publishedAt": "2026-11-10T19:19:58.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "2027's Most Stylish Action Game Looks Spectacular in First Official Gameplay",
+      "link": "https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game/",
+      "summary": "Tsarevna is an upcoming hack-and-slash action game that uses motion capture from a real ballerina for its dance-inspired melee combat.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tsarevna-screenshot.jpg",
+      "publishedAt": "2026-11-10T19:07:20.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Batman Just Officially Saved DC Comics From a Terrible Fate",
+      "link": "https://www.polygon.com/absolute-batman-saves-dc-comics-skydance-shakeup-james-gunn-fired/",
+      "summary": "After James Gunn is ousted by Skydance, DC Comics may have avoided a similiar fate thanks to Absolute Batman",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/absolute-batman-cover.jpg",
+      "publishedAt": "2026-11-10T19:06:46.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "image": null,
+      "publishedAt": "2026-11-10T19:03:52.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "How to unlock Fire Arrows in Zelda Ocarina of Time",
+      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-fire-arrow-how-to-unlock/",
+      "summary": "Here's how to unlock fire arrows in The Legend of Zelda: Ocarina of Time remake and the prerequisites you must meet.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fire-arrow_oot.jpg",
+      "publishedAt": "2026-11-10T19:02:49.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
+      "publishedAt": "2026-11-10T19:00:00.000Z",
+      "sourceId": "googleai",
+      "sourceName": "Google AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
     {
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
@@ -215,28 +401,6 @@
       "categoryLabel": "3D / CG"
     },
     {
-      "title": "Doomsday Officially Comes to Marvel Rivals With an X-Men Icon",
-      "link": "https://www.polygon.com/marvel-rivals-new-heroes-nightcrawler-dracula-season-11/",
-      "summary": "Marvel Rivals announced its next two heroes coming to Season 11.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/marvel-rivals-season-10-5-release-time.jpg",
-      "publishedAt": "2026-11-10T18:12:27.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "PlayStation Pulls Back Further From PC With End of PS Plus App",
-      "link": "https://www.polygon.com/sony-shuts-down-playstation-plus-pc-app-december-2026/",
-      "summary": "PlayStation Plus is losing its PC streaming app in December as Sony makes another change to its gaming business.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/ps5-pro-games-list.jpg",
-      "publishedAt": "2026-11-10T18:05:04.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair",
       "link": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
       "summary": "If I wasn't so sick of hearing about AI every day of my life at the moment I might have found it funny to hear that one of the biggest peddlers of the poison around Nvidia CEO Jensen Huang was caught having an affair with an alleged Chinese spy. Oh who am I kidding, it is funny! And despite knowing that this won't likely push Nvidia away from AI, I am a bit tickled to hear that the tech company an",
@@ -259,39 +423,6 @@
       "categoryLabel": "3D / CG"
     },
     {
-      "title": "DMZ key and locations in Modern Warfare 4",
-      "link": "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list/",
-      "summary": "This guide lists all keys that can be found in Modern Warfare 4's DMZ mode and where to use them.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mw4-dmz-keys-header.jpg",
-      "publishedAt": "2026-11-10T17:52:52.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Nintendo Officially Shuts Down Switch 2 Jailbreak in New Update",
-      "link": "https://www.polygon.com/nintendo-switch-2-jailbreak-update/",
-      "summary": "Nintendo Switch 2 firmware update puts an end to a popular jailbreak that allowed hackers acces to the console’s system files and game ROMs",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mario-clash.jpg",
-      "publishedAt": "2026-11-10T17:51:01.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "How to get and use the Song of Storms in Ocarina of Time",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-song-of-storms-unlock-use/",
-      "summary": "What can you actually use the Song of Storms to do in Ocarina of Time, other than open the Bottom of the Well?",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/obs64_2026-11-10_11-37-09.jpg",
-      "publishedAt": "2026-11-10T17:50:42.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
       "link": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
       "summary": "It's not entirely clear what those expectations were, but Take-Two Interactive CEO Strauss Zelnick is boasting about the game's sales on the eve of its long-anticipated release.",
@@ -299,17 +430,6 @@
       "publishedAt": "2026-11-10T17:49:05.000Z",
       "sourceId": "gamedeveloper",
       "sourceName": "Game Developer",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Universes Beyond’s Most Intense Villain Officially Joins Magic: The Gathering’s Top 10 Commanders",
-      "link": "https://www.polygon.com/magic-the-gathering-fire-lord-azula-top-10-commanders/",
-      "summary": "Keep your friends close and your Lightning Bolts closer.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fire-lord-azula-magic-the-gathering.jpg",
-      "publishedAt": "2026-11-10T17:46:18.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -356,17 +476,6 @@
       "sourceName": "TechCrunch AI",
       "category": "ai",
       "categoryLabel": "AI"
-    },
-    {
-      "title": "GTA 6 is Playable on Xbox One, Rockstar Officially Confirms",
-      "link": "https://www.polygon.com/gta-6-xbox-one-cloud-gaming/",
-      "summary": "Grand Theft Auto 6 is coming to Xbox One, Rockstar Games confirms ahead of launch, playable through Xbox Cloud Gaming.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grassrivers_07.jpg",
-      "publishedAt": "2026-11-10T17:01:22.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "Bandai Namco is liquidating Unknown 9: Awakening studio Reflector Entertainment, following multiple previous layoffs since the game's launch",
@@ -754,9 +863,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
       "image": null,
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
@@ -765,9 +874,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
       "image": null,
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
@@ -1095,39 +1204,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "友望 S20 洗地机 2499 → 386 元低过闲鱼，推入式基站更方便 + IPX6 级随便冲洗",
-      "link": "https://www.ithome.com/1/025/128.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 386.11 元： 领 200-20 元券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 PLUS 会员凑单 1 件（ 示例凑单品 ），下单后可立即退款。 晒单再返 100 元 E 卡。 京东 友望 S20 灵犀推入式洗地机 180° 躺平 毛发防缠绕系统 凑单后 486.11 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 此款主打推入基站式设计，机器直接推入基站，无需拎起沉重机身，不让一滴污水留在外面，且这支持 80°C 热流辅助自清洁 。 支持 180° 躺平，可清扫低矮床底",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/444434/27/19283/19145/6a2b9f0aFc1953896/0083320320f9a285.png",
-      "publishedAt": "2026-11-10T11:46:27.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
-      "link": "https://www.ithome.com/1/025/127.htm",
-      "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元 （IT之家注：现汇率约合 4,306.16 亿元人民币） ，并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者 融资 260 亿美元 （现汇率约合 1,738.51 亿元人民币） 。计入博通、美光、微软和台积电等其他基石投资者的出资后，Anthropic 此次股票发行的 募资规模最高可达 904 亿美元 （现汇率约合 6,044.67 亿元人民币） 。 Anthropic 及部分现有投资者计划在 IPO 中出售股票，初步定价区间为每股 70 至 78 美元 （现汇率约合 468.1 至 521.6 元人民币） 。具体发行安排预计近期公布。 而在当地时",
-      "image": null,
-      "publishedAt": "2026-11-10T11:40:20.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "原生支持 3D 高斯泼溅，免费开源 3D 创作软件 Blender 5.3 发布",
-      "link": "https://www.ithome.com/1/025/126.htm",
-      "summary": "IT之家 11 月 10 日消息，免费开源 3D 创作软件 Blender 5.3 现已正式发布。新版本加入了原生 3D 高斯泼溅（Gaussian Splatting）支持，Linux 平台默认图形后端切换为 Vulkan，同时带来了全新的项目管理功能，以及渲染和视频剪辑工具方面的多项改进。 对于 Linux 用户来说，此次更新最显著的变化是 Vulkan 现已取代 OpenGL，成为默认图形后端。Windows 版本也进行了相同调整，但 ARM 设备除外。此外，新版本将 Vulkan 的最低版本要求降低至 1.1，并将部分 GPU 和驱动程序功能调整为可选项，以提升对不同硬件的兼容性。 Blender 开发团队还在持续优化 Vulkan 的运行性能。已公布的基准测试显示，在多个受测场景中，Vulkan 的性能有所提升。不过，具体表现仍然取决于工作负载以及所使用的显卡硬件。 另一项重要更",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/54272993-93c7-48ce-affc-5173333503b4.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-10T11:38:34.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "This Cosmic Horror Action Roguelite Combines Melee & Ranged Combat",
       "link": "https://80.lv/articles/this-cosmic-horror-action-roguelite-combines-melee-ranged-combat/",
       "summary": "Sole Salvation, a UE5 hack-and-slash game, has a free demo, with a major update coming soon.",
@@ -1137,28 +1213,6 @@
       "sourceName": "80 Level",
       "category": "3d",
       "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "NASA 两艘探测器完成特殊地球引力弹弓机动，正式奔赴火星",
-      "link": "https://www.ithome.com/1/025/124.htm",
-      "summary": "IT之家 11 月 10 日消息，美国国家航空航天局（NASA）的两艘火星探测器即将结束为期一年的太空绕行之旅，现在终于可以直奔火星了。 据IT之家了解，这两艘探测器名为“逃逸与等离子体加速及动力学探测器”（ESCAPADE），于 2025 年 11 月搭乘蓝色起源（Blue Origin）新格伦（New Glenn）火箭的第二次飞行任务升空。不过，它们并未直接飞往火星，而是沿着一条迂回的轨道在太空中绕行了一段时间。如今，两艘探测器重新回到地球附近，并完成了一项关键发动机点火操作。如果后续一切顺利，这次机动将帮助它们正式踏上前往火星的旅程。 “此前，NASA 从未执行过这样的任务。”加州大学伯克利分校行星与空间物理学家、ESCAPADE 任务首席研究员罗布 · 利利斯（Rob Lillis）表示，“对于大多数太空任务来说，根本没有必要采用这种方式。” 传统上，NASA 的火星探测任务需要严",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8d8058b5-e0c3-43e0-b248-5062d77bd093.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-10T11:29:46.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板",
-      "link": "https://www.ithome.com/1/025/123.htm",
-      "summary": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。 据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，搭载紫光展锐 T7250 处理器，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。 值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置和机型壁纸。不过 DOOGEE 新机的正面下巴会更宽，同时缺失了鸿蒙系统标志性的系统导航小白条。 ▲ DOOGEE Note60 W ▲ 图源：华为官网 | HUAWEI Pura X View",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/35d64892-1127-4135-91b3-44b3da79c5d5.png",
-      "publishedAt": "2026-11-10T11:25:42.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
     },
     {
       "title": "Following site-wide discussion on AI use, Nexus Mods add a \"daily limit\" to the spots in the new mods tab one person can hog via multiple rapid-fire uploads",
@@ -1214,17 +1268,6 @@
       "sourceName": "机核",
       "category": "game",
       "categoryLabel": "游戏"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "link": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "image": null,
-      "publishedAt": "2026-11-10T10:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
     },
     {
       "title": "【会员抽奖】骑上小轮车去送信！《狸狸：胖哒的夏日》今日正式发售",
@@ -1370,28 +1413,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "ArtStation Adds AI Declarations & Default AI Filtering for Artwork",
-      "link": "https://80.lv/articles/artstation-adds-ai-declarations-default-ai-filtering-for-artwork/",
-      "summary": "Artists can now label how much generative AI was used in a project and report work they suspect is unlabeled, while users can choose how much AI content they see.",
-      "image": "https://cdn.80.lv/api/upload/post/42199/images/6af2bae376d85/cover_800x800.jpg",
-      "publishedAt": "2026-11-10T06:34:00.000Z",
-      "sourceId": "80lv",
-      "sourceName": "80 Level",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "10月全球手游收入与下载量排行榜TOP10：《ROBLOX》位居10月全球手游收入榜榜首",
-      "link": "http://www.gamelook.com.cn/2026/11/606016/",
-      "summary": "2026年10月全球手游收入排行榜 TOP 10 《ROBLOX》位居2026年10月全球手游收入榜榜首。《王者荣耀》、《Gossip Harbor》、《Royal Match》和...",
-      "image": null,
-      "publishedAt": "2026-11-10T06:20:21.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "诺娃独立游戏通讯 2026-#45",
       "link": "https://indienova.com/indie-game-news/nova-post-2026-45/",
       "summary": "介绍一些近期值得开发者关注的内容，内容基本上来自 indienova 站内。",
@@ -1399,83 +1420,6 @@
       "publishedAt": "2026-11-10T06:00:00.000Z",
       "sourceId": "indienova",
       "sourceName": "indienova",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "中国无人机称霸全球！最强“无人机游戏”却出自比利时13人团队？",
-      "link": "http://www.gamelook.com.cn/2026/11/606000/",
-      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/说到无人机，中国可能是全世界最容易让人联想到这个产业的国家之一。 消费级无人机、航拍、FPV、飞控、供应链……中国拥有庞...",
-      "image": null,
-      "publishedAt": "2026-11-10T04:05:52.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "光子开源“原生AI游戏引擎”，要跟AI大模型巨佬们火拼！",
-      "link": "http://www.gamelook.com.cn/2026/11/605953/",
-      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/让AI全权做一款游戏，这事儿还八字没一撇，围绕该怎么做，行业里倒是已经分出了两派。 本月初，月之暗面先是给游戏公司递了一...",
-      "image": null,
-      "publishedAt": "2026-11-10T01:51:46.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "游戏人“吹哨级吐槽”：“3A游戏究竟得了什么重病”？看完直接沉默",
-      "link": "http://www.gamelook.com.cn/2026/11/605930/",
-      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/很多人都不意外的是，持续了多年的游戏业裁员潮并没有停下来的迹象，行业分析师追踪数据显示，2026年迄今为止，游戏业已经减...",
-      "image": null,
-      "publishedAt": "2026-11-10T01:50:58.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "赛事加码升级、PC移动双线发力，《金铲铲之战》在下一盘什么棋？",
-      "link": "http://www.gamelook.com.cn/2026/11/605954/",
-      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/11月6日，西安举办的“金铲铲之战2027共赴新局：电竞升级·PC启航”发布会上，腾讯游戏副总裁、《金铲铲之战》中国总负...",
-      "image": null,
-      "publishedAt": "2026-11-10T01:49:41.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "黄仁勋“绯闻”全网吃瓜，主角竟是第七大道前海外子公司？",
-      "link": "http://www.gamelook.com.cn/2026/11/605934/",
-      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/今天，全球科技板块的新闻头条突然被老黄塌房的消息占据。11月8日，这位全球市值最高的芯片公司创始人向全体员工发去一封公开...",
-      "image": null,
-      "publishedAt": "2026-11-10T01:42:08.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%",
-      "link": "http://www.gamelook.com.cn/2026/11/605986/",
-      "summary": "【GameLook专稿，未经允许禁止转载！】 GameLook报道/恐怖游戏大概是这几年最不显山露水的品类：制作成本可以压得很低，依靠联机卖点和旧作慢慢卖，在行情不好时也照样有人买...",
-      "image": null,
-      "publishedAt": "2026-11-10T01:36:11.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "游戏公司被收购后有多惨？超1/3活不过10年！",
-      "link": "http://www.gamelook.com.cn/2026/11/605915/",
-      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/这几年游戏圈最熟悉的一个话题，就是裁员、项目关闭，以及游戏工作室关门。除了那些融资耗尽而被迫解散的团队之外，其中也有不少...",
-      "image": null,
-      "publishedAt": "2026-11-10T01:35:46.000Z",
-      "sourceId": "gamelook",
-      "sourceName": "GameLook",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1632,6 +1576,61 @@
       "sourceName": "BlenderNation",
       "category": "3d",
       "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "橙光游戏平台：困在浪潮起落间",
+      "link": "http://www.chuapp.com/article/291744.html",
+      "summary": "几乎每天，你都能看到B站UP主逍遥散人的《逆袭之星途闪耀》视频下方在刷新新的弹幕和玩家留言。这是一条发布于2014年的直播回放，截至目前，这条视频的播放量已经接近4000万，并被收录进入B站入站必刷98大视频。 《逆袭之星途闪耀》是2014年最火爆的橙光游戏之一，它讲述了女主在进入娱乐圈后经历一系列起伏，最终成长为超级巨星的故事。这是一款典型的橙光游戏，采用立绘结合大量剧情文本而制作，分支设计夸张惊险。凭借着玛丽苏剧情和逍遥散人的直播效果，《逆袭之星途闪耀》热度一路走高，人气值超1000万，登顶当年橙光人气榜。橙光游戏也因此进入大众视野。 逍遥散人的《逆袭之星途闪耀》直播回放 同样是2014年，橙光开始受到资本市场的关注，当年获得50万美元的天使轮融资。2015年，橙光获得300万美元的融资，同年鲜花商城上线，橙光正式开启付费之旅。 2016年，橙光获得1000万元融资，《逆袭之星途闪耀》",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-11-09/5196af1bf290c877.png?imageView2/2/w/700",
+      "publishedAt": "2026-11-09T15:17:03.000Z",
+      "sourceId": "chuapp",
+      "sourceName": "触乐",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "触乐夜话：翻找了一些游戏说明书",
+      "link": "http://www.chuapp.com/article/291743.html",
+      "summary": "触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 跨越时空（图/小罗） 在前段时间，当我写完&ldquo;在AI战争中幸存的策划&rdquo;时，需要为文章配上一些图片。主人公潇潇的第一份工作来自《仙剑奇侠传四》，他说，在当时说明书最后的&ldquo;感谢人员名单&rdquo;里有他的名字。于是我想把这一页找来，放进配图里。 《仙剑奇侠传四》的说明书目录 过程非常简单，AI已经很大程度上代替了原有的搜索功能。我给豆包下了个指令，问它&ldquo;我可以在哪里找到&lsquo;仙剑四&rsquo;的说明书&rdquo;，十几秒后，它把链接给到我面前（事实上，这其实是个幸运的结果，在之后针对其他说明书的整理中，它给我的大部分链接都是失效的，我不得不逐个手动搜索）。完成了配图工作后，虽然还有许多不足，但稿子在很大程度上尘埃落定了。我开始一页页地翻起《仙剑奇侠传四》的说明书。 曾经，对于一款游戏",
+      "image": "http://img.chuapp.com/wp-content/Picture/2026-11-09/6af12538ad76f.jpg?imageView2/2/w/700",
+      "publishedAt": "2026-11-09T15:05:00.000Z",
+      "sourceId": "chuapp",
+      "sourceName": "触乐",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
+      "link": "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
+      "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different characters is, to put it bluntly, something I reckon will still be a matter of debate in the year 4000. We'll all have evolved in non-corporeal beings floating in a galaxy that's been racked by such chang",
+      "image": "https://assetsio.gnwcdn.com/skyrim-mod-in-game-patcher-get-rid-of-conflicts-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-09T14:30:40.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "92期：AI对游戏工业就是一场去工业化【游戏人有态度】X【Hao的游戏PM笔记】",
+      "link": "https://www.gcores.com/radios/222140",
+      "summary": "大家好，欢迎收听《游戏人有态度》，我是大盛。 这是一期串台。东道主是《Hao的游戏PM笔记》的主理人Hao，一名游戏行业的项目经理。年底了，我们俩把今年游戏行业和AI行业里印象最深的事，摊开来算了一笔账。 节目一开始我抛了一个问题：AI对游戏行业、对这几年我们常说的\"游戏工业化\"，其实是一个去工业化的过程——你信吗？ 我在公司内部分享时用过一张图：古尔丹端着一杯绿色的液体走到兽人面前，说干了这杯MCP，你就能拥有专业设计师的能力。然后对方问他：那么代价呢？ 代价就是这一期的主线。它首先是钱——从25年开始给DeepSeek、硅基流动、阿里云充API，到年初玩小龙虾不到一个月发现消耗太快，果断下单两张显卡做本地部署。到今天，光智能体这一块我的投资已经到了五位数，还是三个字：不够用。但它更是比钱难算的那部分——我失去了我的手。Adobe的产品我用了超过20年，我曾经是Adobe的讲师，今年我明",
+      "image": "https://image.gcores.com/9c539a3d-1745-466e-bda4-9bd7619ae9e5-2048-2048.jpeg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-09T14:19:46.000Z",
+      "sourceId": "gcores",
+      "sourceName": "机核",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
+      "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
+      "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of every size and genre. Even after I hosed away the ones largely made with the assistance of generative AI, the sifting sieves fitted across the drains held a bounty of interesting releases. Let's get t",
+      "image": "https://assetsio.gnwcdn.com/Oboro-no-Ichi-night-market.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-09T14:00:00.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
     },
     {
       "title": "The TZUSOO Way: Digital First, Physical Later",
