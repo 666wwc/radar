@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:22:43.955Z",
+  "generatedAt": "2026-11-10T15:25:38.603Z",
   "total": 130,
   "categories": [
     {
@@ -24,73 +24,103 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1375,
-      "ms": 584
+      "ms": 331
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 1286
+      "ms": 243
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
-      "ok": false,
-      "error": "fetch failed",
-      "ms": 10241
+      "ok": true,
+      "count": 901,
+      "ms": 147
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 875
+      "ms": 99
     },
     {
       "id": "polygon",
       "name": "Polygon",
-      "ok": false,
-      "error": "fetch failed",
-      "ms": 7949
+      "ok": true,
+      "count": 10,
+      "ms": 620
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
-      "ok": false,
-      "error": "HTTP 403",
-      "ms": 842
+      "ok": true,
+      "count": 50,
+      "ms": 1061
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 544
+      "ms": 195
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 2853
+      "ms": 1088
     },
     {
       "id": "cgchannel",
       "name": "CG Channel",
       "ok": false,
-      "error": "fetch failed",
-      "ms": 11854
+      "error": "HTTP 403",
+      "ms": 124
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": false,
       "error": "fetch failed",
-      "ms": 228
+      "ms": 36
     }
   ],
   "items": [
+    {
+      "title": "Nintendo Is Officially Investing in Game Preservation",
+      "link": "https://www.polygon.com/nintendo-game-preservation-archivist-job-posting/",
+      "summary": "Nintendo is hiring an archivist to preserve the company’s storied history spanning franchises like Zelda, Mario, Metroid, and more",
+      "publishedAt": "2026-11-10T15:23:06.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Bandai Namco Shuts Down Once-promising Studio after Colossal Failure",
+      "link": "https://www.polygon.com/bandai-namco-reflector-entertainment-shutdown-unknown-9-awakening/",
+      "summary": "Bandai Namco has shut down Reflector Entertainment after the studio published made only one game since being acquired in 2020, Unknown 9.",
+      "publishedAt": "2026-11-10T15:14:18.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Former Bioware Dev Reveals Incredibly Ambitious Pitch for Dragon Age 4",
+      "link": "https://www.polygon.com/bioware-dragon-age-4-pitch/",
+      "summary": "A former BioWare developer revealed the internal pitch document for an unmade version of Dragon Age 4.",
+      "publishedAt": "2026-11-10T15:05:52.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
     {
       "title": "\"A fight for all workers\": SAG-AFTRA throw weight behind emerging Rockstar union ahead of its GTA 6 release week vote",
       "link": "https://www.rockpapershotgun.com/a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerging-rockstar-union-ahead-of-its-gta-6-release-week-vote",
@@ -98,6 +128,26 @@
       "publishedAt": "2026-11-10T15:04:20.000Z",
       "sourceId": "rps",
       "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Zelda: Ocarina of Time Finally Proves Why Nintendo Needed the Switch 2",
+      "link": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-graphics/",
+      "summary": "The Legend of Zelda: Ocarina of Time makes great use of the Switch 2's power to prove why the console was a necessary upgrade.",
+      "publishedAt": "2026-11-10T15:01:18.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Rockstar Issues Official Statement On GTA 6's PS5 Exclusive Features",
+      "link": "https://www.polygon.com/gta-6-ps5-pro-features-exclusive-what-are-nov-trailer/",
+      "summary": "Rockstar breaks its silence on PS5 Pro, and why GTA 6 plays best on Sony’s platform",
+      "publishedAt": "2026-11-10T14:54:08.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -132,6 +182,16 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "We Need More Games Like Murals",
+      "link": "https://www.polygon.com/murals-hands-on-dlala-studios/",
+      "summary": "Dlala Studios, maker of Battletoads and Disney Illusion Island, is pouring its heart and soul into this fairytale action game",
+      "publishedAt": "2026-11-10T14:00:18.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
       "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
@@ -142,9 +202,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -152,9 +212,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -182,6 +242,16 @@
       "categoryLabel": "游戏"
     },
     {
+      "title": "'Avatar' Officially Unveils a Very Different Version of Zuko in New Book",
+      "link": "https://www.polygon.com/avatar-aang-artbook-exclusive-zuko-kpop/",
+      "summary": "Team Avatar got quite the glow-up, but one member in particular was supposed to look very different in 'Avatar: Aang: The Last Airbender.'",
+      "publishedAt": "2026-11-10T13:00:18.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "Google Cloud launches Gemini for healthcare.",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
       "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
@@ -202,12 +272,42 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "All active Escape From Tarkov codes and rewards",
+      "link": "https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/",
+      "summary": "A guide listing all currently active promo codes for Escape From Tarkov and how to redeem them.",
+      "publishedAt": "2026-11-10T12:37:35.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
       "link": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
       "summary": "Valve have finally made clear what they've been doing with all that hoovered-up performance data and all those \"Framerate Estimator\" text strings : a framerate estimator for the Steam Deck . Or, rather, a framerate avera",
       "publishedAt": "2026-11-10T12:26:20.000Z",
       "sourceId": "rps",
       "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "GTA 6 Presales Are 'Running Far in Excess of Our Expectations,' Take-Two Interactive CEO Says",
+      "link": "https://www.polygon.com/gta-6-grand-theft-auto-preorders-nba-2k27/",
+      "summary": "Take-Two boss reveals that GTA 6 pre-orders surpassed expectations but might've hindered its other releases.",
+      "publishedAt": "2026-11-10T12:24:51.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "James Gunn’s Exit from DC Studios Was Due to Tensions with Skydance's Executives, Report Says",
+      "link": "https://www.polygon.com/james-gunn-dc-studio-exit-skydance/",
+      "summary": "A new report explains the alleged reason for James Gunn and Peter Safran's departure from DC Studios.",
+      "publishedAt": "2026-11-10T12:19:01.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -372,6 +472,16 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "Decision Models in Hugging Face",
+      "link": "https://huggingface.co/blog/decision",
+      "summary": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
       "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
@@ -452,6 +562,16 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
+      "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+      "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
+      "publishedAt": "2026-11-09T17:30:00.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
       "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
       "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed as one such game, wit",
@@ -482,6 +602,16 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
+      "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+      "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
+      "publishedAt": "2026-11-09T16:39:06.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "Cyberattack on Sega third-party newsletter distributor reportedly sees over two million email addresses leaked, but Sega accounts unaffected",
       "link": "https://www.rockpapershotgun.com/cyberattack-on-sega-third-party-newsletter-distributor-reportedly-sees-over-two-million-email-addresses-leaked-but-sega-accounts-unaffected",
       "summary": "Sega have revealed that over two million email addresses have leaked due to a cyberattack on Japanese email delivery provider Arara, whom the Like A Dragon and Sonic publishers use to distribute newsletters. Sega and Ara",
@@ -510,6 +640,16 @@
       "sourceName": "Rock Paper Shotgun",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "summary": "",
+      "publishedAt": "2026-11-09T15:05:57.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "Dungeon Meshi's Laios Reimagined In Beautiful Hand-Drawn 3D Style",
@@ -580,6 +720,16 @@
       "sourceName": "Rock Paper Shotgun",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "summary": "",
+      "publishedAt": "2026-11-09T12:34:29.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "Ahead of The Witcher 3: Songs of the Past, here's a \"lore friendly unofficial expansion to Geralt's life in Toussaint\" from a well-established quest modder",
@@ -722,6 +872,26 @@
       "categoryLabel": "游戏"
     },
     {
+      "title": "SAG-AFTRA introduces new process for hiring union actors in game pitches",
+      "link": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+      "summary": "SAG-AFTRA actors can now be recruited for vertical slices, demos, and other forms of content needed to pitch games.",
+      "publishedAt": "2026-11-06T19:17:10.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition",
+      "link": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+      "summary": "The investment partners recently acquired Electronic Arts and are now reportedly turning their gaze toward software engine Unity.",
+      "publishedAt": "2026-11-06T17:57:21.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
       "link": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
       "summary": "Age of Empires -influenced real-time strategy game The Fertile Crescent 2: Collapse of the Bronze Age leaves early access today, publishers MicroProse have announced, with the 1.0 version adding the final chapters of the",
@@ -742,6 +912,16 @@
       "categoryLabel": "游戏"
     },
     {
+      "title": "Sony insists its next-generation console plans are still on schedule",
+      "link": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
+      "summary": "As part of the media giant's quarterly financial report, Sony states that progress toward the next generation of consoles is proceeding on schedule.",
+      "publishedAt": "2026-11-06T15:36:44.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles \"less frustrating\"",
       "link": "https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating",
       "summary": "Extremely good King's Field-style RPG Queen's Domain &ndash; or is it a Metroid Prime homage? Or a stealth Morrowind-up? We hacks simply cannot decide &ndash; has received its first proper patch, adding a hitherto \"missi",
@@ -750,6 +930,16 @@
       "sourceName": "Rock Paper Shotgun",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "link": "https://huggingface.co/blog/allenai/toyblocks",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:00:48.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "Airframe Ultra's PS1 cyberpunk city is an amazing tribute to G-Police and WipEout, and I wish you people would slow down to appreciate it",
@@ -812,6 +1002,16 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
       "title": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
       "link": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
       "summary": "My favourite kind of game that's obviously going for the vibe of a particular era of gaming is one that doesn't look like it's trying to be any other game from said era, moreso if someone told me it was a PS2 or a Dreamc",
@@ -868,6 +1068,16 @@
       "publishedAt": "2026-11-05T18:00:00.000Z",
       "sourceId": "rps",
       "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Nintendo confident in memory supply in new financial report",
+      "link": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
+      "summary": "As part of the company's quarterly financial report, company president Shuntaro Furukawa affirmed that Nintendo is not suffering due to the ongoing memory crisis, and is confident it has enough supply.",
+      "publishedAt": "2026-11-05T17:40:57.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -992,6 +1202,26 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "summary": "",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Tripwire Interactive expands publishing business to focus on smaller developers and games",
+      "link": "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games",
+      "summary": "The publishing division of Tripwire Interactive seeks to broaden its initiative with a focus on smaller games with scaled support.",
+      "publishedAt": "2026-11-04T19:45:00.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\"",
       "link": "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
       "summary": "Unionised workers at Dishonored developers Arkane Lyon have published a fresh statement about the progress of negotiations with Microsoft over the studio's potential closure. Aside from calling on Xbox management to make",
@@ -1002,22 +1232,22 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "Oblivion and Skyrim’s gap was bridged by forward-looking books about a murderous floating island, so why is The Elder Scrolls 6 stuck reanimating a world that’s stood still since 2011",
-      "link": "https://www.rockpapershotgun.com/oblivion-and-skyrims-gap-was-bridged-by-forward-looking-books-about-a-murderous-floating-island-so-why-is-the-elder-scrolls-6-stuck-reanimating-a-world-thats-stood-still-since-2011",
-      "summary": "Long waits between mainline entries in a series aren&rsquo;t a new phenomenon, if perhaps a bit more common nowadays due to big games' ballooning development cycles. It took about 23 years for BioWare&rsquo;s Baldur's Ga",
-      "publishedAt": "2026-11-04T17:30:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "summary": "",
+      "publishedAt": "2026-11-04T17:50:10.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
-      "title": "Rimworld-inspired colony sim Stardeus gets a huge update representing a year's worth of expansion and revision, with new tools for evil AI overlords",
-      "link": "https://www.rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
-      "summary": "\"Stardeus is in an early stage in terms of bulk and complexity, but it's already a pleasant blend of interesting ideas that generate a mostly relaxing vibe,\" wrote gallant star captain.exe Sin Vega in our 2022 analysis o",
-      "publishedAt": "2026-11-04T17:03:10.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
+      "title": "Ubisoft among the bidders for Arkane as Xbox looks to sell the studio",
+      "link": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
+      "summary": "The Lyon-based studio has a few options on the table to avoid studio closure, including an acquisition from fellow-French video game industry contemporary Ubisoft.",
+      "publishedAt": "2026-11-04T17:37:00.000Z",
+      "sourceId": "gamedeveloper",
+      "sourceName": "Game Developer",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1030,56 +1260,6 @@
       "sourceName": "OpenAI",
       "category": "ai",
       "categoryLabel": "AI"
-    },
-    {
-      "title": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
-      "link": "https://www.rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
-      "summary": "Star Wars has been back in the news recently because, to cut a long story short, the US alt-right have decided that Darth Vader was actually the good guy . We are not here to indulge such buffoonery. We are here to talk ",
-      "publishedAt": "2026-11-04T13:15:44.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
-      "link": "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
-      "summary": "Raw Power Games, an independent studio comprising veteran developers of The Witcher 3 , Total War: Three Kingdoms , and Crusader Kings III (among others), have called on players for support after losing their funding - a",
-      "publishedAt": "2026-11-04T12:43:24.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait",
-      "link": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait",
-      "summary": "Aha. Here it is . Freshly poked live and right on time . Now, we wait for the inevitable flood of mods, like the ceaseless current of add-ons which still flows into Skyrim . Read more",
-      "publishedAt": "2026-11-04T12:08:24.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Smash hit cyberpunk storekeeper Probably Stolen was originally a different, non-cyberpunk game that seemed destined to sink without trace",
-      "link": "https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace",
-      "summary": "Space station trading game Probably Stolen &ndash; Cyberpunk Shopkeeper Sim has been doing rather well on Steam, attracting over 162,000 concurrent players last night. I've been feeling the urge to fire it up again mysel",
-      "publishedAt": "2026-11-04T11:00:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "\"An outright ban will not eliminate AI from the modding process,\" Nexus Mods say as they rule out barring generated creations from their site",
-      "link": "https://www.rockpapershotgun.com/nexus-mods-rule-out-barring-ai-generated-creations-from-their-site",
-      "summary": "The owners of Nexus Mods have ruled out instituting an outright ban on AI-generated works being uploaded the site, instead opting to expand their current rules on modders disclosing how they've used AI in making their mo",
-      "publishedAt": "2026-11-04T10:34:07.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "A thousand fewer paths to root",
@@ -1122,114 +1302,14 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
-      "link": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
-      "summary": "Things are potentially looking up for Arkane, depending on how you feel about Ubisoft (and depending on who actually ends up acquiring them). I mention the Assassin's Creed developer because, reportedly, they're interest",
-      "publishedAt": "2026-11-03T22:51:31.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
-      "link": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
-      "summary": "You might have seen that for today's grub, Edwin decided to in part feed The Maw with Food Devils, an incredibly salacious, foodie take on Fire Emblem, as it was meant to release today. The only problem is, it's not actu",
-      "publishedAt": "2026-11-03T21:41:08.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "The Citadel Project is a Thief-inspired dark fantasy, survival-horror lite stealth-em-up with some lovely shadows set in a medieval megastructure",
-      "link": "https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure",
-      "summary": "You know, given the whole stealthy element of Thief-like immersive sims, I'm surprised there haven't been more of them with horror elements. There's Gloomwood , sure, but it's not as common as I'd like. That in turn then",
-      "publishedAt": "2026-11-03T20:10:03.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Silica, an FPS and RTS hybrid that mixes a smidge of Dune and Helldivers together, has left early access and entered 1.0",
-      "link": "https://www.rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10",
-      "summary": "The concept of fusing an RTS and an FPS always sounds like a fun one, and since 2023 Martin Melich&aacute;rek has been trying to make a new take on the combination under the watchful eye of DayZ devs Bohemia Interactive ",
-      "publishedAt": "2026-11-03T19:00:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Play as water and rain on wildfires in Atuel, a short, free game about the power and vulnerability of nature",
-      "link": "https://www.rockpapershotgun.com/have-you-played-atuel",
-      "summary": "Well, have you played Atuel? If not, you can do so within the next hour - it's a tiny, free, 25-minute walking sim, albeit one with little actual walking on account of you playing most of it as a river. More of a running",
-      "publishedAt": "2026-11-03T18:30:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Frostpunk 2's The Surge DLC keeps the wintery apocalypse and adds in faction-clash-inducing electricity and sets a seasonally appropriate December release date",
-      "link": "https://www.rockpapershotgun.com/frostpunk-2s-the-surge-dlc-keeps-the-wintery-apocalypse-and-adds-in-faction-clash-inducing-electricity-and-sets-a-seasonally-appropriate-december-release-date",
-      "summary": "For the time being, the world of Frostpunk remains a hypothetical, even if it's one that seems just that little bit more likely than I'd like it to be given who's in charge of the world. But at the very least, there are ",
-      "publishedAt": "2026-11-03T18:00:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Venom-toothed Noxious Terminids are soon to infest Helldivers 2, and it's your noble job to sterilise the galaxy for Super Earth",
-      "link": "https://www.rockpapershotgun.com/venom-toothed-noxious-terminids-are-soon-to-infest-helldivers-2-and-its-your-noble-job-to-sterilise-the-galaxy-for-super-earth",
-      "summary": "Helldivers 2 isn't slowing down any time soon, and according to Edwin's recent interview with Arrowhead CCO Johan Pilestedt, it'll continue to be Arrowhead's main priority for the future. As if Helldivers 2 wasn't full o",
-      "publishedAt": "2026-11-03T17:25:23.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Mobile Suit Gundam Battle Operation 3 has been announced, marking another attempt at a free-to-play team game after Gundam Evolution's unfortunate fate",
-      "link": "https://www.rockpapershotgun.com/mobile-suit-gundam-battle-operation-3-has-been-announced-marking-another-attempt-at-a-free-to-play-team-game-after-gundam-evolutions-unfortunate-fate",
-      "summary": "Bandai Namco have released the initial announcement trailer for Mobile Suit Gundam Battle Operation 3, a free-to-play team action game and a sequel to 2018's Battle Operation 2. The trailer is very, very pretty, showing ",
-      "publishedAt": "2026-11-03T16:53:42.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "The Elder Scrolls 6: Sentinel teaser all but confirms Hammerfell setting and means we can finally stop using that eight year old header image with the hills",
-      "link": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-teaser-all-but-confirms-hammerfell-setting-and-means-we-can-finally-stop-using-that-eight-year-old-header-image-with-the-hills",
-      "summary": "Praise Talos and whatever other Elder Scrolls deities you might worship. We here at RPS and in the wider gaming press finally have new material to use when hunting for images to symbolise The Elder Scrolls 6 . No more wi",
-      "publishedAt": "2026-11-03T16:09:52.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "I'm sad that the Like A Dragon creator's new studio is closing, but I wish their now-cancelled debut Gang of Dragon wasn't just LAD again",
-      "link": "https://www.rockpapershotgun.com/im-sad-that-the-like-a-dragon-creators-new-studio-is-closing-but-i-wish-their-now-cancelled-debut-gang-of-dragon-wasnt-just-lad-again",
-      "summary": "Less than a year after the announcement of their first game, and only four years after the studio's creation, Gang of Dragon developers Nagoshi Studio have been dissolved by a shareholders' resolution (thanks, Gematsu .)",
-      "publishedAt": "2026-11-03T14:51:18.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Workers & Resources: Soviet Republic's next DLC is set to expand the city building sim into the one place not corrupted by capitalism: SPACE",
-      "link": "https://www.rockpapershotgun.com/workers-resources-soviet-republics-next-dlc-is-set-to-expand-the-city-building-sim-into-the-one-place-not-corrupted-by-capitalism-space",
-      "summary": "Following not the inherent liberal capitalistic framework of city builders like SimCity but instead a revolutionary (sorry) interpretation of planning and logistical simulation that prioritises centralisation and minute ",
-      "publishedAt": "2026-11-03T14:03:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "summary": "",
+      "publishedAt": "2026-11-03T16:35:36.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "Accelerating engineering for the physical world",
@@ -1272,6 +1352,26 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "link": "https://huggingface.co/blog/cwe-bench",
+      "summary": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "link": "https://huggingface.co/blog/transformers-mic",
+      "summary": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "sourceId": "huggingface",
+      "sourceName": "Hugging Face",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
       "title": "Rewarding defenders with bigger bug bounties",
       "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
@@ -1286,106 +1386,6 @@
       "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
       "publishedAt": "2026-11-02T18:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "publishedAt": "2026-11-02T17:45:00.000Z",
-      "sourceId": "googleai",
-      "sourceName": "Google AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "publishedAt": "2026-11-02T15:30:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "publishedAt": "2026-11-02T15:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "LifeVal",
-      "link": "https://openai.com/index/lifeval",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "publishedAt": "2026-11-02T09:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "publishedAt": "2026-11-02T00:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "link": "https://openai.com/index/dan-driscoll-joins-openai",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "publishedAt": "2026-11-02T00:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "publishedAt": "2026-10-30T09:30:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "link": "https://openai.com/index/updated-model-spec",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
       "sourceId": "openai",
       "sourceName": "OpenAI",
       "category": "ai",
