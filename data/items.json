@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:25:38.603Z",
+  "generatedAt": "2026-11-10T15:26:21.604Z",
   "total": 130,
   "categories": [
     {
@@ -24,70 +24,70 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1375,
-      "ms": 331
+      "ms": 184
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 243
+      "ms": 309
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 901,
-      "ms": 147
+      "ms": 125
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 99
+      "ms": 105
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
       "count": 10,
-      "ms": 620
+      "ms": 650
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 1061
+      "ms": 530
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 195
+      "ms": 207
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 1088
+      "ms": 443
     },
     {
       "id": "cgchannel",
       "name": "CG Channel",
       "ok": false,
       "error": "HTTP 403",
-      "ms": 124
+      "ms": 121
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": false,
       "error": "fetch failed",
-      "ms": 36
+      "ms": 55
     }
   ],
   "items": [
