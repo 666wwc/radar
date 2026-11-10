@@ -49,8 +49,8 @@ function renderHero(item) {
   hero.href = item.link;
   hero.target = '_blank';
   hero.rel = 'noopener noreferrer';
+  hero.className = item.image ? 'hero' : 'hero no-image';
   hero.innerHTML = `
-    ${item.image ? `<div class="hero-bg" style="background-image:url('${encodeURI(item.image)}')"></div>` : ''}
     <div class="hero-inner">
       <div class="hero-eyebrow">
         <span class="tag ${tagClass(item)}">${escapeHtml(item.categoryLabel)}</span>
@@ -62,6 +62,20 @@ function renderHero(item) {
       <h2>${escapeHtml(item.title)}</h2>
       ${item.summary ? `<p>${escapeHtml(item.summary)}</p>` : ''}
     </div>`;
+
+  // 封面图可能被墙/404：先按「无图」排版，真加载出来了再撑开
+  if (item.image) {
+    const probe = new Image();
+    probe.onload = () => {
+      hero.classList.remove('no-image');
+      const bg = document.createElement('div');
+      bg.className = 'hero-bg';
+      bg.style.backgroundImage = `url("${encodeURI(item.image)}")`;
+      hero.prepend(bg);
+    };
+    probe.onerror = () => hero.classList.add('no-image');
+    probe.src = item.image;
+  }
 }
 
 function renderCard(item) {

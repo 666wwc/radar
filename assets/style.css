@@ -112,6 +112,11 @@ body {
   gap: 10px;
 }
 
+/* 封面没加载出来时不摆空架子 */
+.hero.no-image,
+.hero.no-image .hero-inner { min-height: 0; }
+.hero.no-image .hero-inner { padding-top: 24px; }
+
 .hero-eyebrow {
   display: flex;
   align-items: center;

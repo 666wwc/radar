@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:06:12.853Z",
+  "generatedAt": "2026-11-10T18:56:12.779Z",
   "total": 148,
   "promoFiltered": 16,
   "promoDroppedTitles": [
@@ -43,155 +43,122 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1376,
-      "ms": 254
+      "ms": 1110
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 397
+      "ms": 1219
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 902,
-      "ms": 178
+      "ms": 748
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 100
+      "ms": 460
     },
     {
       "id": "qbitai",
       "name": "量子位",
       "ok": true,
       "count": 10,
-      "ms": 1517
+      "ms": 177
     },
     {
       "id": "ifanr",
       "name": "爱范儿",
       "ok": true,
       "count": 20,
-      "ms": 1039
+      "ms": 206
     },
     {
       "id": "ithome",
       "name": "IT之家",
       "ok": true,
       "count": 46,
-      "ms": 1033
+      "ms": 167
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
       "count": 9,
-      "ms": 529
+      "ms": 2427
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 723
+      "ms": 1713
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 206
+      "ms": 692
     },
     {
       "id": "gcores",
       "name": "机核",
       "ok": true,
       "count": 20,
-      "ms": 1217
+      "ms": 418
     },
     {
       "id": "indienova",
       "name": "indienova",
       "ok": true,
       "count": 10,
-      "ms": 1367
+      "ms": 359
     },
     {
       "id": "chuapp",
       "name": "触乐",
       "ok": true,
       "count": 30,
-      "ms": 7108
+      "ms": 3036
     },
     {
       "id": "gamelook",
       "name": "GameLook",
-      "ok": false,
-      "error": "HTTP 502",
-      "ms": 2016
+      "ok": true,
+      "count": 31,
+      "ms": 1784
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 1147
+      "ms": 1833
     },
     {
       "id": "blendernation",
       "name": "BlenderNation",
       "ok": true,
       "count": 9,
-      "ms": 647
+      "ms": 2424
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": true,
       "count": 9,
-      "ms": 434
+      "ms": 892
     }
   ],
   "items": [
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "image": null,
-      "publishedAt": "2026-11-10T19:03:52.000Z",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "How to unlock Fire Arrows in Zelda Ocarina of Time",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-fire-arrow-how-to-unlock/",
-      "summary": "Here's how to unlock fire arrows in The Legend of Zelda: Ocarina of Time remake and the prerequisites you must meet.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fire-arrow_oot.jpg",
-      "publishedAt": "2026-11-10T19:02:49.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
-      "publishedAt": "2026-11-10T19:00:00.000Z",
-      "sourceId": "googleai",
-      "sourceName": "Google AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
     {
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
@@ -389,6 +356,17 @@
       "sourceName": "TechCrunch AI",
       "category": "ai",
       "categoryLabel": "AI"
+    },
+    {
+      "title": "GTA 6 is Playable on Xbox One, Rockstar Officially Confirms",
+      "link": "https://www.polygon.com/gta-6-xbox-one-cloud-gaming/",
+      "summary": "Grand Theft Auto 6 is coming to Xbox One, Rockstar Games confirms ahead of launch, playable through Xbox Cloud Gaming.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grassrivers_07.jpg",
+      "publishedAt": "2026-11-10T17:01:22.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
     },
     {
       "title": "Bandai Namco is liquidating Unknown 9: Awakening studio Reflector Entertainment, following multiple previous layoffs since the game's launch",
@@ -776,9 +754,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
       "image": null,
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
@@ -787,9 +765,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
       "image": null,
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
@@ -1172,6 +1150,17 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板",
+      "link": "https://www.ithome.com/1/025/123.htm",
+      "summary": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。 据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，搭载紫光展锐 T7250 处理器，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。 值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置和机型壁纸。不过 DOOGEE 新机的正面下巴会更宽，同时缺失了鸿蒙系统标志性的系统导航小白条。 ▲ DOOGEE Note60 W ▲ 图源：华为官网 | HUAWEI Pura X View",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/35d64892-1127-4135-91b3-44b3da79c5d5.png",
+      "publishedAt": "2026-11-10T11:25:42.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
       "title": "Following site-wide discussion on AI use, Nexus Mods add a \"daily limit\" to the spots in the new mods tab one person can hog via multiple rapid-fire uploads",
       "link": "https://www.rockpapershotgun.com/following-site-wide-discussion-on-ai-use-nexus-mods-add-a-daily-limit-to-the-spots-in-the-new-mods-tab-one-person-can-hog-via-multiple-rapid-fire-uploads",
       "summary": "The folks behind Nexus Mods have rolled out a new \"daily limit\" system which ensures modders who upload multiple works in bulk during a single 24 hour period can't take up more than one spot in the tabs dedicated to showing off new mods for different games. Instead, those who chuck up their mods in bulk will see one of their works given a spot, while the rest are neatly filed away behind it, ready",
@@ -1225,6 +1214,17 @@
       "sourceName": "机核",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "image": null,
+      "publishedAt": "2026-11-10T10:00:00.000Z",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "【会员抽奖】骑上小轮车去送信！《狸狸：胖哒的夏日》今日正式发售",
@@ -1381,6 +1381,17 @@
       "categoryLabel": "3D / CG"
     },
     {
+      "title": "10月全球手游收入与下载量排行榜TOP10：《ROBLOX》位居10月全球手游收入榜榜首",
+      "link": "http://www.gamelook.com.cn/2026/11/606016/",
+      "summary": "2026年10月全球手游收入排行榜 TOP 10 《ROBLOX》位居2026年10月全球手游收入榜榜首。《王者荣耀》、《Gossip Harbor》、《Royal Match》和...",
+      "image": null,
+      "publishedAt": "2026-11-10T06:20:21.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "诺娃独立游戏通讯 2026-#45",
       "link": "https://indienova.com/indie-game-news/nova-post-2026-45/",
       "summary": "介绍一些近期值得开发者关注的内容，内容基本上来自 indienova 站内。",
@@ -1388,6 +1399,83 @@
       "publishedAt": "2026-11-10T06:00:00.000Z",
       "sourceId": "indienova",
       "sourceName": "indienova",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "中国无人机称霸全球！最强“无人机游戏”却出自比利时13人团队？",
+      "link": "http://www.gamelook.com.cn/2026/11/606000/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/说到无人机，中国可能是全世界最容易让人联想到这个产业的国家之一。 消费级无人机、航拍、FPV、飞控、供应链……中国拥有庞...",
+      "image": null,
+      "publishedAt": "2026-11-10T04:05:52.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "光子开源“原生AI游戏引擎”，要跟AI大模型巨佬们火拼！",
+      "link": "http://www.gamelook.com.cn/2026/11/605953/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/让AI全权做一款游戏，这事儿还八字没一撇，围绕该怎么做，行业里倒是已经分出了两派。 本月初，月之暗面先是给游戏公司递了一...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:51:46.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "游戏人“吹哨级吐槽”：“3A游戏究竟得了什么重病”？看完直接沉默",
+      "link": "http://www.gamelook.com.cn/2026/11/605930/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/很多人都不意外的是，持续了多年的游戏业裁员潮并没有停下来的迹象，行业分析师追踪数据显示，2026年迄今为止，游戏业已经减...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:50:58.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "赛事加码升级、PC移动双线发力，《金铲铲之战》在下一盘什么棋？",
+      "link": "http://www.gamelook.com.cn/2026/11/605954/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/11月6日，西安举办的“金铲铲之战2027共赴新局：电竞升级·PC启航”发布会上，腾讯游戏副总裁、《金铲铲之战》中国总负...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:49:41.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "黄仁勋“绯闻”全网吃瓜，主角竟是第七大道前海外子公司？",
+      "link": "http://www.gamelook.com.cn/2026/11/605934/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/今天，全球科技板块的新闻头条突然被老黄塌房的消息占据。11月8日，这位全球市值最高的芯片公司创始人向全体员工发去一封公开...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:42:08.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%",
+      "link": "http://www.gamelook.com.cn/2026/11/605986/",
+      "summary": "【GameLook专稿，未经允许禁止转载！】 GameLook报道/恐怖游戏大概是这几年最不显山露水的品类：制作成本可以压得很低，依靠联机卖点和旧作慢慢卖，在行情不好时也照样有人买...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:36:11.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "游戏公司被收购后有多惨？超1/3活不过10年！",
+      "link": "http://www.gamelook.com.cn/2026/11/605915/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/这几年游戏圈最熟悉的一个话题，就是裁员、项目关闭，以及游戏工作室关门。除了那些融资耗尽而被迫解散的团队之外，其中也有不少...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:35:46.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1546,61 +1634,6 @@
       "categoryLabel": "3D / CG"
     },
     {
-      "title": "橙光游戏平台：困在浪潮起落间",
-      "link": "http://www.chuapp.com/article/291744.html",
-      "summary": "几乎每天，你都能看到B站UP主逍遥散人的《逆袭之星途闪耀》视频下方在刷新新的弹幕和玩家留言。这是一条发布于2014年的直播回放，截至目前，这条视频的播放量已经接近4000万，并被收录进入B站入站必刷98大视频。 《逆袭之星途闪耀》是2014年最火爆的橙光游戏之一，它讲述了女主在进入娱乐圈后经历一系列起伏，最终成长为超级巨星的故事。这是一款典型的橙光游戏，采用立绘结合大量剧情文本而制作，分支设计夸张惊险。凭借着玛丽苏剧情和逍遥散人的直播效果，《逆袭之星途闪耀》热度一路走高，人气值超1000万，登顶当年橙光人气榜。橙光游戏也因此进入大众视野。 逍遥散人的《逆袭之星途闪耀》直播回放 同样是2014年，橙光开始受到资本市场的关注，当年获得50万美元的天使轮融资。2015年，橙光获得300万美元的融资，同年鲜花商城上线，橙光正式开启付费之旅。 2016年，橙光获得1000万元融资，《逆袭之星途闪耀》",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-11-09/5196af1bf290c877.png?imageView2/2/w/700",
-      "publishedAt": "2026-11-09T15:17:03.000Z",
-      "sourceId": "chuapp",
-      "sourceName": "触乐",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "触乐夜话：翻找了一些游戏说明书",
-      "link": "http://www.chuapp.com/article/291743.html",
-      "summary": "触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 跨越时空（图/小罗） 在前段时间，当我写完&ldquo;在AI战争中幸存的策划&rdquo;时，需要为文章配上一些图片。主人公潇潇的第一份工作来自《仙剑奇侠传四》，他说，在当时说明书最后的&ldquo;感谢人员名单&rdquo;里有他的名字。于是我想把这一页找来，放进配图里。 《仙剑奇侠传四》的说明书目录 过程非常简单，AI已经很大程度上代替了原有的搜索功能。我给豆包下了个指令，问它&ldquo;我可以在哪里找到&lsquo;仙剑四&rsquo;的说明书&rdquo;，十几秒后，它把链接给到我面前（事实上，这其实是个幸运的结果，在之后针对其他说明书的整理中，它给我的大部分链接都是失效的，我不得不逐个手动搜索）。完成了配图工作后，虽然还有许多不足，但稿子在很大程度上尘埃落定了。我开始一页页地翻起《仙剑奇侠传四》的说明书。 曾经，对于一款游戏",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-11-09/6af12538ad76f.jpg?imageView2/2/w/700",
-      "publishedAt": "2026-11-09T15:05:00.000Z",
-      "sourceId": "chuapp",
-      "sourceName": "触乐",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
-      "link": "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
-      "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different characters is, to put it bluntly, something I reckon will still be a matter of debate in the year 4000. We'll all have evolved in non-corporeal beings floating in a galaxy that's been racked by such chang",
-      "image": "https://assetsio.gnwcdn.com/skyrim-mod-in-game-patcher-get-rid-of-conflicts-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-09T14:30:40.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "92期：AI对游戏工业就是一场去工业化【游戏人有态度】X【Hao的游戏PM笔记】",
-      "link": "https://www.gcores.com/radios/222140",
-      "summary": "大家好，欢迎收听《游戏人有态度》，我是大盛。 这是一期串台。东道主是《Hao的游戏PM笔记》的主理人Hao，一名游戏行业的项目经理。年底了，我们俩把今年游戏行业和AI行业里印象最深的事，摊开来算了一笔账。 节目一开始我抛了一个问题：AI对游戏行业、对这几年我们常说的\"游戏工业化\"，其实是一个去工业化的过程——你信吗？ 我在公司内部分享时用过一张图：古尔丹端着一杯绿色的液体走到兽人面前，说干了这杯MCP，你就能拥有专业设计师的能力。然后对方问他：那么代价呢？ 代价就是这一期的主线。它首先是钱——从25年开始给DeepSeek、硅基流动、阿里云充API，到年初玩小龙虾不到一个月发现消耗太快，果断下单两张显卡做本地部署。到今天，光智能体这一块我的投资已经到了五位数，还是三个字：不够用。但它更是比钱难算的那部分——我失去了我的手。Adobe的产品我用了超过20年，我曾经是Adobe的讲师，今年我明",
-      "image": "https://image.gcores.com/9c539a3d-1745-466e-bda4-9bd7619ae9e5-2048-2048.jpeg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
-      "publishedAt": "2026-11-09T14:19:46.000Z",
-      "sourceId": "gcores",
-      "sourceName": "机核",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
-      "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
-      "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of every size and genre. Even after I hosed away the ones largely made with the assistance of generative AI, the sifting sieves fitted across the drains held a bounty of interesting releases. Let's get t",
-      "image": "https://assetsio.gnwcdn.com/Oboro-no-Ichi-night-market.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-09T14:00:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "The TZUSOO Way: Digital First, Physical Later",
       "link": "https://www.blender.org/user-stories/tzusoo/",
       "summary": "A conversation with TZUSOO about her latest project, Agarmon Encyclopedia, the role of Blender in her practice, and the current state of the fine art world.",
@@ -1610,39 +1643,6 @@
       "sourceName": "Blender",
       "category": "3d",
       "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
-      "link": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
-      "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a suspected Chinese spy. Per both the New York Times and Nvidia themselves , Nvidia offered to go under the microscope after US intelligence organisations elected to investigate Huang&rsquo;s paramour, Chin",
-      "image": "https://assetsio.gnwcdn.com/Nvidia-RTX-Spark-reveal.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-09T13:15:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Vol.270.买还是不买，这是个问题",
-      "link": "https://www.gcores.com/radios/222138",
-      "summary": "今年的双十一节目终于在日期前更新 今年电子产品全线拉稀，甚至让人产生了“不买立省100%”的感觉 但是有些东西横竖还是要买，大家三思再购买吧 不过也不耽误大家听听主播们买了或者准备买些啥",
-      "image": "https://image.gcores.com/2219e89d-9e13-4d38-93bd-67b457f8839d-1600-1600.png?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
-      "publishedAt": "2026-11-09T13:00:31.000Z",
-      "sourceId": "gcores",
-      "sourceName": "机核",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Rockstar were \"definitely\" thinking about giving a Japanese studio the keys to GTA, says former tech director - \"I have a name, but I'm not gonna say it\"",
-      "link": "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it",
-      "summary": "Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid Pete. In the late noughties, Microsoft launched a big push to give Japanese youth the Xbox virus with such targeted console exclusives as Blue Dragon and Lost Odyssey. And Rockstar once dreamed of ma",
-      "image": "https://assetsio.gnwcdn.com/gta-6-dnacers.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-09T12:41:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "Koshizu Trees: procedural Japanese garden trees for Blender",
