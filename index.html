@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Radar · AI / 游戏 / 3D 资讯</title>
+<meta name="description" content="每小时自动更新的 AI、游戏与 3D 行业资讯聚合">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -11,10 +12,12 @@
     <div class="brand">
       <span class="dot"></span>
       <h1>Radar</h1>
-      <span class="sub">AI · 游戏 · 3D 行业资讯</span>
+      <span class="sub">AI · 游戏 · 3D</span>
     </div>
     <div class="meta" id="meta">加载中…</div>
   </header>
+
+  <section id="hero" class="hero" hidden></section>
 
   <nav class="filters" id="filters">
     <button class="chip active" data-cat="all">全部 <em id="count-all">0</em></button>
@@ -28,7 +31,7 @@
 
   <footer class="footer">
     <span id="sources"></span>
-    <span>由 GitHub Actions 每小时抓取 · 静态托管</span>
+    <span>GitHub Actions 每小时抓取 · 静态托管</span>
   </footer>
 
   <script src="assets/app.js"></script>

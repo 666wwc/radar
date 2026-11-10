@@ -9,7 +9,8 @@ const OUT = join(process.cwd(), 'data', 'items.json');
 const UA = 'radar-hub/1.0 (personal RSS aggregator; respects robots.txt and rate limits)';
 const TIMEOUT_MS = 20000;
 const MAX_PER_CATEGORY = 60;
-const SUMMARY_CHARS = 220;
+// 加长摘要：外链打不开时，站内也要能看个大概
+const SUMMARY_CHARS = 400;
 
 /** 数据源：只用官方 RSS / Atom，不解析 HTML。 */
 const SOURCES = [
@@ -18,10 +19,17 @@ const SOURCES = [
   { id: 'googleai',    name: 'Google AI',     category: 'ai',   url: 'https://blog.google/technology/ai/rss/' },
   { id: 'huggingface', name: 'Hugging Face',  category: 'ai',   url: 'https://huggingface.co/blog/feed.xml' },
   { id: 'techcrunch-ai', name: 'TechCrunch AI', category: 'ai', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
+  { id: 'qbitai',      name: '量子位',        category: 'ai',   url: 'https://www.qbitai.com/feed' },
+  { id: 'ifanr',       name: '爱范儿',        category: 'ai',   url: 'https://www.ifanr.com/feed' },
+  { id: 'ithome',      name: 'IT之家',        category: 'ai',   url: 'https://www.ithome.com/rss/' },
   // ---------- 游戏 ----------
   { id: 'polygon',     name: 'Polygon',       category: 'game', url: 'https://www.polygon.com/rss/index.xml' },
   { id: 'gamedeveloper', name: 'Game Developer', category: 'game', url: 'https://www.gamedeveloper.com/rss.xml' },
   { id: 'rps',         name: 'Rock Paper Shotgun', category: 'game', url: 'https://www.rockpapershotgun.com/feed' },
+  { id: 'gcores',      name: '机核',          category: 'game', url: 'https://www.gcores.com/rss' },
+  { id: 'indienova',   name: 'indienova',     category: 'game', url: 'https://indienova.com/feed/' },
+  { id: 'chuapp',      name: '触乐',          category: 'game', url: 'https://www.chuapp.com/feed' },
+  { id: 'gamelook',    name: 'GameLook',      category: 'game', url: 'http://www.gamelook.com.cn/feed' },
   // ---------- 3D / CG ----------
   { id: '80lv',        name: '80 Level',      category: '3d',   url: 'https://80.lv/feed/' },
   { id: 'blendernation', name: 'BlenderNation', category: '3d', url: 'https://www.blendernation.com/feed/' },
@@ -65,6 +73,32 @@ function parseLink(block) {
   return tag(block, 'link');
 }
 
+/**
+ * 找一张封面图。优先级：enclosure → media:content/thumbnail → 正文里第一张 <img>。
+ * 只接受绝对 http(s) 地址；找不到就返回 null，卡片自动退化成纯文字。
+ */
+function parseImage(block, rawDescription) {
+  const candidates = [];
+
+  const enclosure = block.match(/<enclosure[^>]*url=["']([^"']+)["']/i);
+  if (enclosure) candidates.push(enclosure[1]);
+
+  const media = block.match(/<media:(?:content|thumbnail)[^>]*url=["']([^"']+)["']/i);
+  if (media) candidates.push(media[1]);
+
+  const img = rawDescription.match(/<img[^>]*\ssrc=["']([^"']+)["']/i);
+  if (img) candidates.push(img[1]);
+
+  for (const raw of candidates) {
+    const url = decodeEntities(raw).trim();
+    if (!/^https?:\/\//i.test(url)) continue;
+    // 有些源的 enclosure 是视频，不能用当封面
+    if (/\.(mp4|webm|mov|m4v|mp3|m4a)(\?|#|$)/i.test(url)) continue;
+    return url;
+  }
+  return null;
+}
+
 /** 同时支持 RSS 2.0（<item>）与 Atom（<entry>）。 */
 function parseFeed(xml, source) {
   const blocks = [...xml.matchAll(/<item[\s>][\s\S]*?<\/item>/gi)].map((m) => m[0]);
@@ -91,6 +125,7 @@ function parseFeed(xml, source) {
       title,
       link,
       summary,
+      image: parseImage(block, rawSummary),
       publishedAt,
       sourceId: source.id,
       sourceName: source.name,
