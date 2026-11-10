@@ -24,8 +24,8 @@ const SOURCES = [
   { id: 'rps',         name: 'Rock Paper Shotgun', category: 'game', url: 'https://www.rockpapershotgun.com/feed' },
   // ---------- 3D / CG ----------
   { id: '80lv',        name: '80 Level',      category: '3d',   url: 'https://80.lv/feed/' },
-  { id: 'cgchannel',   name: 'CG Channel',    category: '3d',   url: 'https://www.cgchannel.com/feed/' },
-  { id: 'blender',     name: 'Blender',       category: '3d',   url: 'https://blog.blender.org/feed/' },
+  { id: 'blendernation', name: 'BlenderNation', category: '3d', url: 'https://www.blendernation.com/feed/' },
+  { id: 'blender',     name: 'Blender',       category: '3d',   url: 'https://www.blender.org/feed/' },
 ];
 
 const CATEGORY_LABELS = { ai: 'AI', game: '游戏', '3d': '3D / CG' };
