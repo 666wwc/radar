@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-10T18:46:47.328Z",
-  "total": 149,
+  "generatedAt": "2026-11-10T18:56:12.779Z",
+  "total": 148,
+  "promoFiltered": 16,
+  "promoDroppedTitles": [
+    "独立双系统：美的 575L 法式门双变频大冰箱京东 1868 元直降",
+    "2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价",
+    "55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝 129 → 76 元国补新低",
+    "大疆 DJI Mic Mini 2 迷你无线麦克风 599 → 220 元国补新低：三种音色预设、两级降噪、续航 48 小时",
+    "11.11 就看这波：全网巅峰狂促 24 小时，iPhone 17 京东 5068 元，18 Pro/ Max 官方焕新立减 1300 元",
+    "2399 → 2055 元：iQOO Z11 Turbo 国补直降，第五代骁龙 8 与 2 亿主摄加持",
+    "7999 → 4184 元：微星“流光 X24 ”显示器国补直降，32\" 第四代 QD-OLED 面板、4K@240Hz",
+    "iPhone 18 Pro / Max 京东焕新 8499 元起 12 期免息，旧机估值满 1000 补贴 1200 元",
+    "京东自营 6799 → 5068 元：苹果 iPhone 17 国补好价，A19 芯片 + 256GB 储存",
+    "国补后 2899 → 1085 元：小米智能门锁 4 Pro 双摄版破冰新低，AI 掌静脉识别技术、天地双摄大屏猫眼",
+    "35kg 承重 + 自带 LED 照明：小米米家智能晾衣机 1S 国补后 949 → 435 元",
+    "7499 → 5623 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
+    "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
+    "FE 28-60mm F4-5.6 套装 8693 元：索尼 Alpha 7C II 全画幅微单 11.11 国补直降",
+    "Costco’s New 'Pokémon' 30th Anniversary Bundle Is An Unbelievable Deal",
+    "Blender Secrets on sale"
+  ],
   "categories": [
     {
       "id": "ai",
@@ -15,7 +34,7 @@
     {
       "id": "3d",
       "label": "3D / CG",
-      "count": 29
+      "count": 28
     }
   ],
   "sources": [
@@ -24,122 +43,133 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1376,
-      "ms": 204
+      "ms": 1110
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 326
+      "ms": 1219
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 902,
-      "ms": 165
+      "ms": 748
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 107
+      "ms": 460
     },
     {
       "id": "qbitai",
       "name": "量子位",
       "ok": true,
       "count": 10,
-      "ms": 1451
+      "ms": 177
     },
     {
       "id": "ifanr",
       "name": "爱范儿",
       "ok": true,
       "count": 20,
-      "ms": 1365
+      "ms": 206
     },
     {
       "id": "ithome",
       "name": "IT之家",
       "ok": true,
-      "count": 60,
-      "ms": 1610
+      "count": 46,
+      "ms": 167
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
-      "count": 10,
-      "ms": 449
+      "count": 9,
+      "ms": 2427
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 532
+      "ms": 1713
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 172
+      "ms": 692
     },
     {
       "id": "gcores",
       "name": "机核",
       "ok": true,
       "count": 20,
-      "ms": 1342
+      "ms": 418
     },
     {
       "id": "indienova",
       "name": "indienova",
       "ok": true,
       "count": 10,
-      "ms": 1473
+      "ms": 359
     },
     {
       "id": "chuapp",
       "name": "触乐",
       "ok": true,
       "count": 30,
-      "ms": 3963
+      "ms": 3036
     },
     {
       "id": "gamelook",
       "name": "GameLook",
-      "ok": false,
-      "error": "HTTP 502",
-      "ms": 4089
+      "ok": true,
+      "count": 31,
+      "ms": 1784
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 653
+      "ms": 1833
     },
     {
       "id": "blendernation",
       "name": "BlenderNation",
       "ok": true,
-      "count": 10,
-      "ms": 661
+      "count": 9,
+      "ms": 2424
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": true,
       "count": 9,
-      "ms": 398
+      "ms": 892
     }
   ],
   "items": [
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "image": null,
+      "publishedAt": "2026-11-10T18:49:52.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
     {
       "title": "Marathon is becoming a whole new game next month with a roguelite PvE mode, a beta for a very Halo-esque team deathmatch mode, a vibey social space and more",
       "link": "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more",
@@ -168,17 +198,6 @@
       "summary": "PlayStation adds new games each month to its PS Plus Games Catalog for subscribers to enjoy. Here's what Extra/Premium users get in November 2026.",
       "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/death-stranding-2-porter-grade-stats.jpg",
       "publishedAt": "2026-11-10T18:19:38.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Costco’s New 'Pokémon' 30th Anniversary Bundle Is An Unbelievable Deal",
-      "link": "https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations/",
-      "summary": "Pokémon TCG collectors can nab a 30th Anniversary ETB and Booster Bundle cheaper than at Target, Walmart, and Best Buy",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikachu-025-thumbnail.jpg",
-      "publishedAt": "2026-11-10T18:18:00.000Z",
       "sourceId": "polygon",
       "sourceName": "Polygon",
       "category": "game",
@@ -625,17 +644,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "独立双系统：美的 575L 法式门双变频大冰箱京东 1868 元直降",
-      "link": "https://www.ithome.com/1/025/176.htm",
-      "summary": "美的 · 双系统法式门冰箱 575L 日常 3900 元左右，今晚京东自营直降至 1868 元好价： 京东 美的 双系统法式门冰箱 575L 券后 1878 元 领 9 折券 京东 11.11 无门槛红包 至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 冷冻室容积 211L，冷藏室容积 364L，合计 575L。 独立双系统，减少串味真保鲜。 支持连接美的美居 App，智慧保鲜自动调温。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/512789/17/13705/33862/6aa12a92F2c91394e/0083320320751e04.png",
-      "publishedAt": "2026-11-10T14:24:13.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "阿维塔副总裁雍军声明“坚决不造速成车”：车一旦速成，一个家庭没了的可能性就会增大",
       "link": "https://www.ithome.com/1/025/175.htm",
       "summary": "IT之家 11 月 10 日消息，阿维塔科技副总裁雍军今日发文，揭秘了直播中提及的价值 6 个亿的「废车场」具体所指： 这些战损车，对阿维塔来说非常重要。不仅是因为这些车不便宜，更有一个共同点是： 都不能卖给受众 。 因为在交到用户手里之前，每一台车都要经历大量严苛的测试。从整车耐久、高温、低温，到强化腐蚀、复杂路面冲击、涉水、碰撞安全、无框车门开合耐久... 等多项测试。 有些车要经历「两冬两夏」 ，有些车要在极寒、极热环境下反复验证，有些车要跑几十万公里，有些车甚至要经历破坏性测试。 说实话，这些投入确实不小，甚至有些测试，做完车就报废了。 雍军表示，汽车研发没有捷径，研发测试的钱一分都不能省。 阿维塔坚决不造速成车，车一旦速成，一个家庭没了的可能性就会增大 。 参考IT之家此前报道，工业和信息化部等四部门 10 月 10 日公开发布关于进一步加强汽车产品创新设计和研发测试验证有关管理",
@@ -713,17 +721,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "2499 → 449 元：格兰仕 DR 空气炸微波炉国补新低再降价",
-      "link": "https://www.ithome.com/1/025/169.htm",
-      "summary": "格兰仕 DR 空气炸变频微波炉上市售价 2499 元，今日京东自营直降至 449 元。 先领 8 折券： 点此领券 点击下方卡片 → 点击宝贝右上方“ 直播浮窗 ”→ 进入直播间下单 下单时选择“ 以旧换新 ” → 个护健康 → 电动牙刷（不回收）实付 549 元 直播间下单返 30 元 E 卡 + 晒单返 50 元 E 卡 + 小红书种草返 20 元 E 卡（详询客服），合计返 100 元 E 卡，返卡后低至 449 元。 京东 格兰仕 25L 微波炉 宇宙厨房系列 以旧换新 549 元 领 8.5 折券 京东 PLUS 会员可领 800-80 元专享券： 点此查看 （需 2 积分明日 10 点、20 点抢），券后仅需 488 元（返卡后 388 元更划算）。 此款集成空气炸锅、微波炉、烤箱、蒸箱等一体，支持 35℃~200℃ 定温烘烤，容量为 25L，一级能效。 下单前要预估好摆放位置",
-      "image": "https://img.ithome.com/newsuploadfiles/2023/3/d84f2a17-d3d0-4d08-9dbb-0f1010ad2c82.png",
-      "publishedAt": "2026-11-10T14:03:02.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "曝小米 SU7 Ultra Extreme 现身北京小米汽车超级工厂，全身伪装但遮不住超大尾翼",
       "link": "https://www.ithome.com/1/025/168.htm",
       "summary": "IT之家 11 月 10 日消息，据博主 @尊川川 透露， 小米 SU7 Ultra Extreme 已现身北京小米汽车超级工厂 。 从画面可以看到，这辆小米 SU7 Ultra Extreme 全身处于伪装状态，还有一块蓝色的遮罩挡住了其超大尾翼。另据外媒 Carscoops 报道，他们的摄影团队拍下了小米 SU7 Ultra Xtreme 的无伪装照片， 该车有望在德国纽博格林赛道上创造新的电动车圈速纪录 。 参考IT之家此前报道，知情人士透露， 新款小米 SU7 Ultra 预计在 2027 年上市 。新车将对外观造型进行调整升级，整套空气动力学套件全面优化，并搭载 DRS 鹅颈尾翼，相比在售版本改动幅度较大。新款小米 SU7 Ultra 无伪装实车也已曝光。 今年 9 月，多位博主分享了小米新款 SU7 Ultra 国内测试车谍照。画面显示，新车采用了超大尾翼设计。另外，侧视图揭露",
@@ -742,17 +739,6 @@
       "publishedAt": "2026-11-10T14:01:39.000Z",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "55W 快充 +20000mAh：酷态科 CP25 电能块自带线充电宝 129 → 76 元国补新低",
-      "link": "https://www.ithome.com/1/025/167.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 酷态科 CP25 电能块 20000mAh 充电宝开售于 2024 年 5 月 31 日，日常售价 159 元，首发价 129 元。 京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 76.82 元： 领 8.5 折券： 点此查看 。 领 111-11 元 PLUS 专享券（需 1 积分 10 点、20 点抢）： 点此查看 。 京东 CUKTECH 酷态科 CP25 电能块 55W 快充 20000mAh 国补后 76.82 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 据官方介绍，这款新品提供银滩白、海湾蓝、落日橙、星云灰四色可选， 具有 20000mAh 大容量（可上飞机）。 支持 55W MAX 快充，小米 14 手机 30 分钟充电约 90%，vivo X1",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/395543/17/1395/22698/6984472eF82f40a29/0083320320bca096.png",
-      "publishedAt": "2026-11-10T14:01:24.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
       "category": "ai",
       "categoryLabel": "AI"
     },
@@ -812,28 +798,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "大疆 DJI Mic Mini 2 迷你无线麦克风 599 → 220 元国补新低：三种音色预设、两级降噪、续航 48 小时",
-      "link": "https://www.ithome.com/1/025/165.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 DJI Mic Mini 2 开售于 2026 年 4 月， 这款轻量化无线麦克风主打多彩磁吸前盖设计和轻量化专业收音功能 ，起售价为 599 元。 京东 11.11 大促期间，叠加 10% 国补后仅需 220.5 元： 京东 大疆 DJI Mic Mini 2 迷你无线麦克风 USB-C 接口 国补后 220.5 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 这款无线麦克风标配墨曜黑、云端白前盖，另提供 8 款彩色磁吸盖板及 4 款插画艺术家合作款（如拂晓、赤圣），用户可自由搭配服饰或拍摄主题。 重量方面，发射器仅重 11 克，磁吸背夹与可拆卸夹片双模式固定，无下坠感，充电盒收纳优化，兼容防风毛套、磁吸配件等，体积较前代缩小 40%。 收音性能方面，该无线麦克风支持 48kHz/24",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/461109/25/16145/710354/6a41dac8Fdaa3b56d/08ee5dc5dc495491.png",
-      "publishedAt": "2026-11-10T13:52:30.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "11.11 就看这波：全网巅峰狂促 24 小时，iPhone 17 京东 5068 元，18 Pro/ Max 官方焕新立减 1300 元",
-      "link": "https://www.ithome.com/1/025/164.htm",
-      "summary": "全网 11.11 高潮狂促 11 月 11 日巅峰 24 小时，有需求的小伙伴可以蹲点抢哦。 京东 无门槛红包至高 26888 元 ，每天抽 3 次： 点此抽取 。 淘宝 无门槛红包至高 26888 元 ，每天 直接领 200 淘金币： 点此抽取 。 唯品会 无门槛红包至高 1111 元津贴 ，每天抽 3 次： 点此抽取 。 一键保价 京东一键保价没事就点点： 点此保价 。 PLUS 会员神券 京东 PLUS 会员 11 月 11 日 10、20 点 可 2 积分抢 800-80 元、1 积分抢 111-11 元券，券后皆好价： 点此兑券 。 京东 iPhone iPhone 17 手机 256G 版官网售价 6799 元，今日叠加 PLUS 立减 + 500 元国补后仅需 5068 元： 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 京东 ",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/326603/8/18627/30503/68c14a51Fdb609aec/82c221ea71704574.png",
-      "publishedAt": "2026-11-10T13:46:06.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "华为鸿蒙 HarmonyOS 7.0.0.111SP12 Patch22 补丁包推送，部分机型可尝试与 Apple Watch 配对",
       "link": "https://www.ithome.com/1/025/163.htm",
       "summary": "IT之家 11 月 10 日消息，华为今日面向 Mate 70、Mate 80 等机型推送了 HarmonyOS 7.0.0.111SP12 Patch22 补丁包。更新内容显示，优化了部分场景系统稳定性。 IT之家实测发现，部分机型（如华为 Pura X 典藏版）已支持与苹果 Apple Watch 尝试配对， 但暂时无法正常使用互联功能 。 虽然无法使用具体功能，但在完成配对步骤后，可以看见与 Apple Watch 互联后支持的具体功能，包括： 查找设备、来电流转、信息流转、通知流转等 。 参考IT之家此前报道， 华为鸿蒙星河互联 App 已正式登陆 Apple Watch 端 。应用介绍页显示，其支持 Apple Watch 与 HarmonyOS 7.0.0.109 及以上版本华为手机配对连接，用户可体验信息流转、查找设备等功能。 华为官网显示，当前仅 Pura X View、M",
@@ -845,33 +809,11 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "2399 → 2055 元：iQOO Z11 Turbo 国补直降，第五代骁龙 8 与 2 亿主摄加持",
-      "link": "https://www.ithome.com/1/025/162.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 iQOO Z11 Turbo 发布于 2026 年 1 月，12GB+256GB 首发价 2399 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2054.93 元： 领 9.5 折券：商品详情页价格处下拉可领。 领 2500-450 元券：点击下方卡片 → 点击右上方 直播浮窗 → 找到商品可领券。 京东 iQOO Z11 Turbo 手机 12GB+256GB 国补后 2054.93 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 IT之家注意到，外观方面，iQOO Z11 Turbo 提供四款配色：沧浪浮光、光晕粉、天光白、极夜黑，其中极夜黑为玻纤后盖，其余为玻璃后盖。新机采用铝合金中框，后置摄像头盖板灵感源自机器人，整体造型依旧是",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/382995/10/10958/37990/69521d77Fd74e6b72/2b33a498c793ef03.png",
-      "publishedAt": "2026-11-10T13:43:30.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "谷歌 DeepMind 用 AI 完成 Signal 协议形式化验证，数学证明其端到端加密可靠性",
       "link": "https://www.ithome.com/1/025/161.htm",
       "summary": "IT之家 11 月 10 日消息，长期以来，Signal 加密协议一直被视为端到端加密消息传递的黄金标准。如今，谷歌 DeepMind 团队利用人工智能，对这一协议的安全性进行了正式验证（Formal Verification）。 据IT之家了解，除了 Signal 应用本身，这套加密协议也被 WhatsApp 和谷歌信息（Google Messages）采用，这项研究成果被描述为“一项具有里程碑意义的进展”。 所谓“形式化验证”，是指通过数学方法，严格证明或证伪某种加密算法或协议是否满足其安全性承诺。与传统测试不同，形式化验证旨在证明协议在所有符合既定模型的条件下都能满足安全要求，而不只是通过测试寻找已知漏洞。传统测试即使没有发现问题，也无法保证不存在其他尚未被发现的漏洞。 利用具备自主执行能力的 AI 智能体完成形式化验证，对密码学和人工智能领域都具有重要意义。不过，这一过程需要消耗大",
       "image": "https://img.ithome.com/newsuploadfiles/2026/11/6113ea43-8400-461c-95f4-9f045330547e.jpg?x-bce-process=image/format,f_auto",
       "publishedAt": "2026-11-10T13:35:41.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "7999 → 4184 元：微星“流光 X24 ”显示器国补直降，32\" 第四代 QD-OLED 面板、4K@240Hz",
-      "link": "https://www.ithome.com/1/025/160.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 微星“流光 X24 ”显示器（型号：MPG 322UR QD-OLED X24）开售于 2026 年 4 月。 其搭载一块 32\" 第四代 QD-OLED 面板，支持 UHD (3840×2160) 分辨率和 240Hz 刷新率，表面覆盖暗影护甲保护膜，黑色深度和抗刮擦性能均得到提升。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 4184.23 元： 领 680 元券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 众筹返现 100 元 E 卡，限时晒单再送《影之刃零》CDK 码。 京东 微星 流光 X24 电竞显示器 MAG 321UP QD-OLED X24 国补后 4184.23 元 领 680 元券 京东 11.11 无门槛红包至高 ",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/455217/5/11870/616219/6a33593bFb67522b2/08ee3203205f38fa.png",
-      "publishedAt": "2026-11-10T13:33:16.000Z",
       "sourceId": "ithome",
       "sourceName": "IT之家",
       "category": "ai",
@@ -900,28 +842,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "iPhone 18 Pro / Max 京东焕新 8499 元起 12 期免息，旧机估值满 1000 补贴 1200 元",
-      "link": "https://www.ithome.com/1/025/158.htm",
-      "summary": "【各地补贴金额需以实际下单为准】 京东 11.11 现已开启，iPhone 18 Pro/ Max 直降 300 元 ，可享 12 期免息 。 先领京东 11.11 iPhone 加补券： 点此领券 。 今日下单时选择以旧换新， 部分地区 可参加国补： 旧机估值满 1000 元，政府补贴 700 元 + 京东补贴 500 元，叠加 300 元立减 合计直降 1500 元 。 京东 iPhone 18 Pro Max 旧机估值满 1000 元 以旧换新 9499 元起 领 300 元券 京东 iPhone 18 Pro 旧机估值满 1000 元 以旧换新 8499 元起 直达链接 以一乖自己的 iPhone 15 128G 为例，京东回收价 1600 元 + 回收补贴 700 元 + 政府补贴 500 元，闲鱼日常 1800 元左右，小伙伴们可按需选购。 京东 iPhone 18 Pro M",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/525245/25/1283/26365/6aa1c074F5a4ef796/0083320320547a76.png",
-      "publishedAt": "2026-11-10T13:28:51.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "京东自营 6799 → 5068 元：苹果 iPhone 17 国补好价，A19 芯片 + 256GB 储存",
-      "link": "https://www.ithome.com/1/025/155.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 iPhone 17 手机 256G 版官网售价 6799 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 5067.87 元： 点击下方卡片，可领 200 元券。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 京东 iPhone 17 手机 256GB 国补后 5067.87 元 领 200 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 京东 iPhone 17 手机 256GB 国补后 5067.87 元 领 200 元券 淘宝 11.11 主会场： 点此前往 京东 11.11 主会场： 点此前往 京东 11.11 手机叠加国补立减千元： 点此查看 京东 11.11 家电家居主会场： 点此前往 ",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/326603/8/18627/30503/68c14a51Fdb609aec/82c221ea71704574.png",
-      "publishedAt": "2026-11-10T13:22:56.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "我国算力总规模达 310 万 PFLOPS，位居世界第二",
       "link": "https://www.ithome.com/1/025/154.htm",
       "summary": "IT之家 11 月 10 日消息，据央视新闻报道，今天，全国数据标准化技术委员会 2026 年第二次“标准周”活动在福建厦门举行。据相关负责人介绍，全国数据标准化技术委员会此次正式成立具身智能数据标准起草工作组及气象、卫生健康、电力、商务等 4 个行业应用标准起草工作组，加快推进“十五五”期间数据领域相关标准制定，赋能行业产业数字化发展。 IT之家从报道中获悉，最新数据显示，我国算力总规模已 达到 310 万 PFLOPS，位居世界第二 。 2025 年 8 月的信息显示，近年来， 我国算力总规模年增速达到 30% 左右 。在人工智能的快速发展带动下，智能算力需求呈现迅猛增长态势。中国电信研究院发布的《智算产业发展研究报告（2025）》显示，随着人工智能大模型加速赋能行业应用和智能终端，将进一步助力智能算力产业蓬勃发展。 根据国家数据局在今年 6 月公布的数据，截至 2025 年底，全国在",
@@ -944,17 +864,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "国补后 2899 → 1085 元：小米智能门锁 4 Pro 双摄版破冰新低，AI 掌静脉识别技术、天地双摄大屏猫眼",
-      "link": "https://www.ithome.com/1/025/152.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 小米智能门锁 4 Pro 双摄版 2025 年 10 月开售，主打“AI 掌静脉识别技术、天地双摄大屏猫眼”，定价为 2899 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1084.5 元： 领 2500-370 元店铺券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 购机另赠 150 元 E 卡（11 月 10 日 20 点 - 24 点下单，下单即获得 E 卡），参与多买多返再返 5 元。 京东 小米智能门锁 4 Pro 双摄版 室内 Type-C 接口 国补后 1084.5 元 领 370 元券 官方提供 3 年质保、免费送装拆旧。 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 ",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/340367/26/16072/22301/68db3846Fecd40d73/7a12923c11a9d77b.png",
-      "publishedAt": "2026-11-10T13:14:43.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "Real-World Jet Engine Recreated With Intricate Blender Rig",
       "link": "https://80.lv/articles/real-world-jet-engine-recreated-with-intricate-blender-rig/",
       "summary": "A single bone controls all the movement.",
@@ -971,17 +880,6 @@
       "summary": "IT之家 11 月 10 日消息，华为 WATCH GT7 系列智能手表今日推送了鸿蒙 HarmonyOS 7.0.0.123 版本更新，包体大小约 122MB，新增支持微信来电接听 / 挂断等能力。 IT之家附华为 WATCH GT7 系列智能手表本次更新内容如下： 新增 1.新增腕上家庭空间，支持实时关注家人健康和运动数据，还可通过手表发送问候，随时传递对家人的关心（请将华为运动健康应用更新至最新版本）。 2.配对 HarmonyOS 7.0.0.115 及以上版本的手机， 手表支持微信来电接听和挂断 （请将华为运动健康应用更新至最新版本）。 3.支持同步 HarmonyOS 7 及以上版本手机的地震预警消息，及时通知提升安全保障。 4.增强录音机同步能力，支持录音文件同步至安卓、iOS 手机的华为运动健康应用，可在华为运动健康应用＞设备＞ 录音机查看（请将华为运动健康应用更新至最新版",
       "image": "https://img.ithome.com/newsuploadfiles/2026/11/4f2611f4-4732-4825-9958-33dfa36f82b2.jpg?x-bce-process=image/format,f_auto",
       "publishedAt": "2026-11-10T13:06:15.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "35kg 承重 + 自带 LED 照明：小米米家智能晾衣机 1S 国补后 949 → 435 元",
-      "link": "https://www.ithome.com/1/025/150.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 小米 · 米家智能晾衣机 1S 开售于 2023 年 4 月，官方上市价为 949 元。 京东 11.11 大促期间，按下方步骤下单，叠加 20% 国补后仅需 434.72 元： 领 800-110 元券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 京东 小米 米家智能晾衣机 1S 超搭容量晾晒 国补后 434.72 元 领 110 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 米家智能晾衣机选购指南： 据IT之家了解，米家智能晾衣机 1S 的特点是超薄机身，可以嵌入吊顶内部，收起后不占空间，晾衣杆收起状态厚度只有 9.9cm，比前代薄了近 30%。 米家智能晾衣机 1S 采用一体化设计，用铝合金和钢丝绳制成的晾杆可以承重 35",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/378600/26/13797/38234/694a9bdfFceb3baf6/14227aad8fbbcebe.png",
-      "publishedAt": "2026-11-10T13:03:18.000Z",
       "sourceId": "ithome",
       "sourceName": "IT之家",
       "category": "ai",
@@ -1017,17 +915,6 @@
       "publishedAt": "2026-11-10T13:00:00.000Z",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "7499 → 5623 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
-      "link": "https://www.ithome.com/1/025/149.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 vivo X300 Ultra 手机 2026 年 4 月开售，新机号称「专业 V 单」，搭载第五代骁龙 8 至尊版处理器、拥有 3+2 蔡司大师镜头群，12GB+512GB 定价 7499 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 5623.42 元： 领 4000-1000 元店铺券： 点此查看 。 领 1200 元直播间券：点击下方卡片 → 点击右上方 直播浮窗 → 找到商品可领券。 京东 vivo X300 Ultra 12GB+512GB 国补后 5623.42 元 领 1000 元券 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 京东 vivo X300 Ultra 12GB+512GB 国补后 5623.42 元 领 1000 元券",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/411099/29/8063/31470/69c9f7ddFaca24c88/008332032067b2e2.jpg",
-      "publishedAt": "2026-11-10T12:58:49.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
       "category": "ai",
       "categoryLabel": "AI"
     },
@@ -1070,17 +957,6 @@
       "summary": "IT之家 11 月 10 日消息，英飞凌今日发布 2026 财年（2025 年 10 月 1 日～2026 年 9 月 30 日）及第四财季（2026 年 7 月 1 日～2026 年 9 月 30 日）报告： 2026 财年年报 营业收入 ：163.53 亿欧元，同比增长 12% 毛利润 ：66.09 亿欧元，同比增长 14.88% 毛利率 ：40.4%，同比提高约 1.2 个百分点 营业利润 ：22.14 亿欧元，同比增长 46.14% 归母净利润 ：15.12 亿欧元，同比增长 48.97% 经营活动现金流 ：41.60 亿欧元，同比增长 29.31% 自由现金流 ：9.93 亿欧元，上财年净流出 10.51 亿欧元，同比由负转正 调整后自由现金流 ：19.25 亿欧元，同比增长 6.77% 基本每股收益 ：1.15 欧元 稀释每股收益 ：1.14 欧元 调整后稀释每股收益 ：1.7",
       "image": null,
       "publishedAt": "2026-11-10T12:42:12.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "国补后 7999 → 6542 元：当贝 X9 Ultra 投影仪新低，至高 5600 CVIA 亮度、80000:1 动态对比度",
-      "link": "https://www.ithome.com/1/025/143.htm",
-      "summary": "【京东活动可能随时变更，需以实付款为准】 京东 11.11 大促期间，按下方步骤下单，叠加当贝 X9 Ultra 投影仪 2026 年 9 月开售，该投影仪提供 5600CVIA 亮度，定价为 7999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 10% 国补后仅需 6542.35 元： 领 9.5 折券：宝贝详情页价格处下拉，即可领取。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 京东 当贝 X9 Ultra 4K 三色激光投影机 国补后 6542.35 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 该机配有一体式调节支架，结合软件四向无损位移功能，可实现 ±135% 垂直与 ±50% 水平画面调节。无需受限于墙面和家具即可进行灵活摆放。 该机",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/517855/19/9226/19612/6aa6ff03Fd7386165/0083258258b7599a.png",
-      "publishedAt": "2026-11-10T12:33:54.000Z",
       "sourceId": "ithome",
       "sourceName": "IT之家",
       "category": "ai",
@@ -1131,6 +1007,17 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "唯一 L3 级架构猎装车：启境 GT7 纯电 / 增程新版型官宣 11 月 13 日上新",
+      "link": "https://www.ithome.com/1/025/138.htm",
+      "summary": "IT之家 11 月 10 日消息，启境汽车官方今日宣布，唯一 L3 级架构猎装 —— 启境 GT7 还有 3 天将迎来上新，纯电 / 增程 新版型 会在 11 月 13 日正式上新。 据IT之家此前报道，启境 GT7 已满足国家 L3 级自动驾驶架构的设计标准，并且完成了 L3 的准入测试与申报。 官方介绍称是 20 万级唯一搭载 L3 级自动驾驶架构的量产车型 ，后续 L3 的规划应用还需等待未来国家部委审核及相关法规要求。 作为参考， 该车是由广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”旗下首款车型 ，该车定位中大型智能猎装轿跑，首批搭载华为乾崑智驾 ADS 5，官方指导价 20.99 万元起。 相关阅读： 《 20.99 万元起启境 GT7 猎装轿跑正式上市：首批搭载华为 ADS 5 智驾 》",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/db24ac9d-e72f-49fe-9509-f89f5ffd16a7.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-10T12:24:28.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
       "title": "【会员抽奖】《战锤幸存者》今日正式发售",
       "link": "https://www.gcores.com/articles/222172",
       "summary": "Auroch Digital 欣然宣布，备受期待的官方《战锤》弹幕幸存者游戏《战锤幸存者》（ Warhammer Survivors ）现已正式发售，登陆 PC（Steam 与 GOG）、Nintendo Switch 1 和 2、PlayStation 5、Xbox Series X|S，以及 iOS 和 Android 移动平台。 发售首周内购买游戏的玩家可享受 九折优惠 ，原价33元人民币，折后价格为 29.7元人民币。 准备好踏入精美的像素风战场，迎战来自《战锤40,000》与《战锤：西格玛时代》世界观的致命敌人。传奇英雄们已做好准备，誓死守护各自的宇宙。更多挑战，等你来战。 Steam地址： https://store.steampowered.com/app/3669620/Warhammer_Survivors/ 什么是《战锤幸存者》？ 《战锤幸存者》由《战锤40,000：爆",
@@ -1140,6 +1027,61 @@
       "sourceName": "机核",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "英格兰收紧校园手机禁令：手机不得放于口袋书包",
+      "link": "https://www.ithome.com/1/025/134.htm",
+      "summary": "IT之家 11 月 10 日消息，为了进一步强化学校是“学习和交友的地方，而不是刷手机的地方”这一理念，英国英格兰地区政府官员宣布，将从明年 9 月起进一步收紧校园手机管理规定，学生不仅不能在校内使用手机，甚至不能将手机放在书包或口袋里。 根据 2026 年 4 月通过、6 月下旬正式成为法律的《2026 年儿童福祉与学校法案》（Children's Wellbeing and Schools Act 2026），英格兰的学校已经被依法要求打造全面禁用手机的校园环境。 不过，此前不少学校采取的是“看不见、不使用”（not seen, not heard）政策，允许学生将手机关机后放在书包或口袋里，只要不在校园内使用即可。 但英国政府近期开展的一项调查发现，只有 16% 的中学生认为，同学能够始终遵守这些规定。调查结果公布后，英国教育部官员露西 · 鲍威尔（Lucy Powell）决定推动学",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/3/c67c2587-c9a0-4bc3-9426-5a81424b1cbf.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/format,f_auto",
+      "publishedAt": "2026-11-10T12:15:12.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "华硕“VY249HG3”23.8 英寸显示器上架：1080P 180Hz，599 元",
+      "link": "https://www.ithome.com/1/025/131.htm",
+      "summary": "IT之家 11 月 10 日消息，华硕现已在京东上架“VY249HG3”23.8 英寸显示器，该机主打 1080P 180Hz，定价为 599 元。 京东 华硕“VY249HG3”显示器 599 元 直达链接 。 该机配备一块 1920x1080 分辨率 180Hz 超频 IPS 面板，亮度 300 尼特，对比度 1500:1，MPRT 响应速度 1ms，覆盖 99% sRGB 色域。 该机支架支持升降 / 倾斜 / 旋转，显示器本体支持 VESA 100x100mm 壁挂，提供 HDMI 2.1、VGA、3.5mm 音频接口。 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3 次： 点此抽红包 。 淘宝 11.11 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 。",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/554027/7/10025/143401/6ae9851aF72d903d1/008332032040d1fc.jpg",
+      "publishedAt": "2026-11-10T12:03:58.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "image": null,
+      "publishedAt": "2026-11-10T12:00:00.000Z",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "任天堂出手封堵 Switch 2 首个公开越狱漏洞：游戏备份与 MOD 修改再次受限",
+      "link": "https://www.ithome.com/1/025/130.htm",
+      "summary": "IT之家 11 月 10 日消息，任天堂已经封堵了 Nintendo Switch 2 首个公开发布的纯软件越狱方案。据悉，最新推出的 Switch 2 系统更新 23.5.0 修复了此前允许玩家绕过系统限制、备份和修改游戏的操作系统漏洞。此前，玩家已经利用这一漏洞对《塞尔达传说：时之笛》重制版等游戏进行文件提取和 MOD 修改。 Switch 数据挖掘者 OatmealDome 在 X 平台发文称：“近期越狱方案所利用的操作系统漏洞，已经在 23.5.0 版本中得到修复。”他补充表示：“从这个版本开始，玩家将再次无法备份和修改游戏。” 不过，OatmealDome 指出仍存在一种例外：部分未来推出的实体卡带游戏，以及可能包括游戏更新在内的内容，仍有可能被用作漏洞利用入口。 IT之家注意到，在后续帖子中，OatmealDome 进一步解释称，游戏本身的漏洞依然存在，但在 23.5.0 系统",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/c876a479-3e9d-4dcb-b0cb-4131c6a9aa2b.jpg",
+      "publishedAt": "2026-11-10T11:59:59.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "十年老宾利跟上时代：2012-19 款部分车型可换原厂车机大屏，代价是空调旋钮没了",
+      "link": "https://www.ithome.com/1/025/129.htm",
+      "summary": "IT之家 11 月 10 日消息，宾利为车龄约 10 年的欧陆 GT 车主推出了官方车机升级方案，2012 至 2019 年生产的 第二代欧陆 GT、欧陆 GT 敞篷版和飞驰 ，都可以通过宾利经销商升级车载信息娱乐系统。 升级方案 将原车中控屏幕和实体空调旋钮一并替换为 9.7 英寸触摸屏 ，增加智能手机互联功能。升级需要到经销商处安装新设备，无法单纯通过软件更新完成。 据IT之家了解，具体适用车型包括 2012 年换代至 2017 年的欧陆 GT 及其敞篷版，以及 2014 年推出至 2019 年的飞驰，覆盖 2012 至 2019 年款的第二代车型。 新系统不仅取代原厂车机，还 取消了实体空调旋钮 。宾利参照现款车型的内饰设计打造新屏幕，使其能够自然融入原车内饰。 新车机的一大亮点，是支持无线 Apple CarPlay 和 Android Auto，既能通过蓝牙连接，也能使用中控台的",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f5922ecd-40e1-473d-8b76-d22fadb4e621.png",
+      "publishedAt": "2026-11-10T11:55:31.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "Skydance Games lay off an undisclosed number of staff in the wake of Paramount-Warner Bros. merger, in latest case of consolidation killing livelihoods",
@@ -1153,6 +1095,39 @@
       "categoryLabel": "游戏"
     },
     {
+      "title": "友望 S20 洗地机 2499 → 386 元低过闲鱼，推入式基站更方便 + IPX6 级随便冲洗",
+      "link": "https://www.ithome.com/1/025/128.htm",
+      "summary": "【京东活动可能随时变更，需以实付款为准】 友望 S20 灵犀洗地机上市价 2499 元，官方日常大促价 699 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 386.11 元： 领 200-20 元券： 点此查看 。 领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）： 点此查看 。 PLUS 会员凑单 1 件（ 示例凑单品 ），下单后可立即退款。 晒单再返 100 元 E 卡。 京东 友望 S20 灵犀推入式洗地机 180° 躺平 毛发防缠绕系统 凑单后 486.11 元 直达链接 京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花： 点此抽取 。 此款主打推入基站式设计，机器直接推入基站，无需拎起沉重机身，不让一滴污水留在外面，且这支持 80°C 热流辅助自清洁 。 支持 180° 躺平，可清扫低矮床底",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/444434/27/19283/19145/6a2b9f0aFc1953896/0083320320f9a285.png",
+      "publishedAt": "2026-11-10T11:46:27.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+      "link": "https://www.ithome.com/1/025/127.htm",
+      "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元 （IT之家注：现汇率约合 4,306.16 亿元人民币） ，并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者 融资 260 亿美元 （现汇率约合 1,738.51 亿元人民币） 。计入博通、美光、微软和台积电等其他基石投资者的出资后，Anthropic 此次股票发行的 募资规模最高可达 904 亿美元 （现汇率约合 6,044.67 亿元人民币） 。 Anthropic 及部分现有投资者计划在 IPO 中出售股票，初步定价区间为每股 70 至 78 美元 （现汇率约合 468.1 至 521.6 元人民币） 。具体发行安排预计近期公布。 而在当地时",
+      "image": null,
+      "publishedAt": "2026-11-10T11:40:20.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "原生支持 3D 高斯泼溅，免费开源 3D 创作软件 Blender 5.3 发布",
+      "link": "https://www.ithome.com/1/025/126.htm",
+      "summary": "IT之家 11 月 10 日消息，免费开源 3D 创作软件 Blender 5.3 现已正式发布。新版本加入了原生 3D 高斯泼溅（Gaussian Splatting）支持，Linux 平台默认图形后端切换为 Vulkan，同时带来了全新的项目管理功能，以及渲染和视频剪辑工具方面的多项改进。 对于 Linux 用户来说，此次更新最显著的变化是 Vulkan 现已取代 OpenGL，成为默认图形后端。Windows 版本也进行了相同调整，但 ARM 设备除外。此外，新版本将 Vulkan 的最低版本要求降低至 1.1，并将部分 GPU 和驱动程序功能调整为可选项，以提升对不同硬件的兼容性。 Blender 开发团队还在持续优化 Vulkan 的运行性能。已公布的基准测试显示，在多个受测场景中，Vulkan 的性能有所提升。不过，具体表现仍然取决于工作负载以及所使用的显卡硬件。 另一项重要更",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/54272993-93c7-48ce-affc-5173333503b4.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-10T11:38:34.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
       "title": "This Cosmic Horror Action Roguelite Combines Melee & Ranged Combat",
       "link": "https://80.lv/articles/this-cosmic-horror-action-roguelite-combines-melee-ranged-combat/",
       "summary": "Sole Salvation, a UE5 hack-and-slash game, has a free demo, with a major update coming soon.",
@@ -1162,6 +1137,28 @@
       "sourceName": "80 Level",
       "category": "3d",
       "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "NASA 两艘探测器完成特殊地球引力弹弓机动，正式奔赴火星",
+      "link": "https://www.ithome.com/1/025/124.htm",
+      "summary": "IT之家 11 月 10 日消息，美国国家航空航天局（NASA）的两艘火星探测器即将结束为期一年的太空绕行之旅，现在终于可以直奔火星了。 据IT之家了解，这两艘探测器名为“逃逸与等离子体加速及动力学探测器”（ESCAPADE），于 2025 年 11 月搭乘蓝色起源（Blue Origin）新格伦（New Glenn）火箭的第二次飞行任务升空。不过，它们并未直接飞往火星，而是沿着一条迂回的轨道在太空中绕行了一段时间。如今，两艘探测器重新回到地球附近，并完成了一项关键发动机点火操作。如果后续一切顺利，这次机动将帮助它们正式踏上前往火星的旅程。 “此前，NASA 从未执行过这样的任务。”加州大学伯克利分校行星与空间物理学家、ESCAPADE 任务首席研究员罗布 · 利利斯（Rob Lillis）表示，“对于大多数太空任务来说，根本没有必要采用这种方式。” 传统上，NASA 的火星探测任务需要严",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8d8058b5-e0c3-43e0-b248-5062d77bd093.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-10T11:29:46.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "DOOGEE 预热 Note60 W 阔直板手机计划 12 月中旬上市，搭 6.38 英寸 90Hz 16:10 比例面板",
+      "link": "https://www.ithome.com/1/025/123.htm",
+      "summary": "IT之家 11 月 10 日消息，据 DOOGEE 公众号，DOOGEE 首款 16:10 阔面直屏手机 Note60 W 将于 2026 年 12 月中旬正式上市。 据介绍，DOOGEE Note60 W 系列手机采用 6.38 英寸 90Hz 阔面屏设计，打破传统屏幕比例；机身厚度约 8.4mm，搭载紫光展锐 T7250 处理器，内置 6500mAh 大容量电池；同时预装最新 Android 17 系统。 值得一提的是，从官方公布的宣传海报来看，DOOGEE Note60 W 的外观与华为 Pura X View 极为相似，包括背部的相机模组造型、摄像头排布、条纹设计、品牌 LOGO 位置和机型壁纸。不过 DOOGEE 新机的正面下巴会更宽，同时缺失了鸿蒙系统标志性的系统导航小白条。 ▲ DOOGEE Note60 W ▲ 图源：华为官网 | HUAWEI Pura X View",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/35d64892-1127-4135-91b3-44b3da79c5d5.png",
+      "publishedAt": "2026-11-10T11:25:42.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "Following site-wide discussion on AI use, Nexus Mods add a \"daily limit\" to the spots in the new mods tab one person can hog via multiple rapid-fire uploads",
@@ -1217,6 +1214,17 @@
       "sourceName": "机核",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "image": null,
+      "publishedAt": "2026-11-10T10:00:00.000Z",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "【会员抽奖】骑上小轮车去送信！《狸狸：胖哒的夏日》今日正式发售",
@@ -1373,6 +1381,17 @@
       "categoryLabel": "3D / CG"
     },
     {
+      "title": "10月全球手游收入与下载量排行榜TOP10：《ROBLOX》位居10月全球手游收入榜榜首",
+      "link": "http://www.gamelook.com.cn/2026/11/606016/",
+      "summary": "2026年10月全球手游收入排行榜 TOP 10 《ROBLOX》位居2026年10月全球手游收入榜榜首。《王者荣耀》、《Gossip Harbor》、《Royal Match》和...",
+      "image": null,
+      "publishedAt": "2026-11-10T06:20:21.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "诺娃独立游戏通讯 2026-#45",
       "link": "https://indienova.com/indie-game-news/nova-post-2026-45/",
       "summary": "介绍一些近期值得开发者关注的内容，内容基本上来自 indienova 站内。",
@@ -1380,6 +1399,83 @@
       "publishedAt": "2026-11-10T06:00:00.000Z",
       "sourceId": "indienova",
       "sourceName": "indienova",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "中国无人机称霸全球！最强“无人机游戏”却出自比利时13人团队？",
+      "link": "http://www.gamelook.com.cn/2026/11/606000/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/说到无人机，中国可能是全世界最容易让人联想到这个产业的国家之一。 消费级无人机、航拍、FPV、飞控、供应链……中国拥有庞...",
+      "image": null,
+      "publishedAt": "2026-11-10T04:05:52.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "光子开源“原生AI游戏引擎”，要跟AI大模型巨佬们火拼！",
+      "link": "http://www.gamelook.com.cn/2026/11/605953/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/让AI全权做一款游戏，这事儿还八字没一撇，围绕该怎么做，行业里倒是已经分出了两派。 本月初，月之暗面先是给游戏公司递了一...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:51:46.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "游戏人“吹哨级吐槽”：“3A游戏究竟得了什么重病”？看完直接沉默",
+      "link": "http://www.gamelook.com.cn/2026/11/605930/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/很多人都不意外的是，持续了多年的游戏业裁员潮并没有停下来的迹象，行业分析师追踪数据显示，2026年迄今为止，游戏业已经减...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:50:58.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "赛事加码升级、PC移动双线发力，《金铲铲之战》在下一盘什么棋？",
+      "link": "http://www.gamelook.com.cn/2026/11/605954/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/11月6日，西安举办的“金铲铲之战2027共赴新局：电竞升级·PC启航”发布会上，腾讯游戏副总裁、《金铲铲之战》中国总负...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:49:41.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "黄仁勋“绯闻”全网吃瓜，主角竟是第七大道前海外子公司？",
+      "link": "http://www.gamelook.com.cn/2026/11/605934/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/今天，全球科技板块的新闻头条突然被老黄塌房的消息占据。11月8日，这位全球市值最高的芯片公司创始人向全体员工发去一封公开...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:42:08.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%",
+      "link": "http://www.gamelook.com.cn/2026/11/605986/",
+      "summary": "【GameLook专稿，未经允许禁止转载！】 GameLook报道/恐怖游戏大概是这几年最不显山露水的品类：制作成本可以压得很低，依靠联机卖点和旧作慢慢卖，在行情不好时也照样有人买...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:36:11.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "游戏公司被收购后有多惨？超1/3活不过10年！",
+      "link": "http://www.gamelook.com.cn/2026/11/605915/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/这几年游戏圈最熟悉的一个话题，就是裁员、项目关闭，以及游戏工作室关门。除了那些融资耗尽而被迫解散的团队之外，其中也有不少...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:35:46.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1538,61 +1634,6 @@
       "categoryLabel": "3D / CG"
     },
     {
-      "title": "橙光游戏平台：困在浪潮起落间",
-      "link": "http://www.chuapp.com/article/291744.html",
-      "summary": "几乎每天，你都能看到B站UP主逍遥散人的《逆袭之星途闪耀》视频下方在刷新新的弹幕和玩家留言。这是一条发布于2014年的直播回放，截至目前，这条视频的播放量已经接近4000万，并被收录进入B站入站必刷98大视频。 《逆袭之星途闪耀》是2014年最火爆的橙光游戏之一，它讲述了女主在进入娱乐圈后经历一系列起伏，最终成长为超级巨星的故事。这是一款典型的橙光游戏，采用立绘结合大量剧情文本而制作，分支设计夸张惊险。凭借着玛丽苏剧情和逍遥散人的直播效果，《逆袭之星途闪耀》热度一路走高，人气值超1000万，登顶当年橙光人气榜。橙光游戏也因此进入大众视野。 逍遥散人的《逆袭之星途闪耀》直播回放 同样是2014年，橙光开始受到资本市场的关注，当年获得50万美元的天使轮融资。2015年，橙光获得300万美元的融资，同年鲜花商城上线，橙光正式开启付费之旅。 2016年，橙光获得1000万元融资，《逆袭之星途闪耀》",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-11-09/5196af1bf290c877.png?imageView2/2/w/700",
-      "publishedAt": "2026-11-09T15:17:03.000Z",
-      "sourceId": "chuapp",
-      "sourceName": "触乐",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "触乐夜话：翻找了一些游戏说明书",
-      "link": "http://www.chuapp.com/article/291743.html",
-      "summary": "触乐夜话，每天胡侃和游戏有关的屁事、鬼事、新鲜事。 跨越时空（图/小罗） 在前段时间，当我写完&ldquo;在AI战争中幸存的策划&rdquo;时，需要为文章配上一些图片。主人公潇潇的第一份工作来自《仙剑奇侠传四》，他说，在当时说明书最后的&ldquo;感谢人员名单&rdquo;里有他的名字。于是我想把这一页找来，放进配图里。 《仙剑奇侠传四》的说明书目录 过程非常简单，AI已经很大程度上代替了原有的搜索功能。我给豆包下了个指令，问它&ldquo;我可以在哪里找到&lsquo;仙剑四&rsquo;的说明书&rdquo;，十几秒后，它把链接给到我面前（事实上，这其实是个幸运的结果，在之后针对其他说明书的整理中，它给我的大部分链接都是失效的，我不得不逐个手动搜索）。完成了配图工作后，虽然还有许多不足，但稿子在很大程度上尘埃落定了。我开始一页页地翻起《仙剑奇侠传四》的说明书。 曾经，对于一款游戏",
-      "image": "http://img.chuapp.com/wp-content/Picture/2026-11-09/6af12538ad76f.jpg?imageView2/2/w/700",
-      "publishedAt": "2026-11-09T15:05:00.000Z",
-      "sourceId": "chuapp",
-      "sourceName": "触乐",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "\"The lesson learned is you can have both\": Skyrim lead designer reckons there's merit in Baldur's Gate 3-style tough choices and Bethesda's do-anything approach",
-      "link": "https://www.rockpapershotgun.com/the-lesson-learned-is-you-can-have-both-skyrim-lead-designer-reckons-theres-merit-in-baldurs-gate-3-style-tough-choices-and-bethesdas-do-anything-approach",
-      "summary": "Whether RPGs are better off prioritising player freedom or endeavouring to have several doors slam shut every time you put another foot forwards in order to encourage multiple runs with different characters is, to put it bluntly, something I reckon will still be a matter of debate in the year 4000. We'll all have evolved in non-corporeal beings floating in a galaxy that's been racked by such chang",
-      "image": "https://assetsio.gnwcdn.com/skyrim-mod-in-game-patcher-get-rid-of-conflicts-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-09T14:30:40.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "92期：AI对游戏工业就是一场去工业化【游戏人有态度】X【Hao的游戏PM笔记】",
-      "link": "https://www.gcores.com/radios/222140",
-      "summary": "大家好，欢迎收听《游戏人有态度》，我是大盛。 这是一期串台。东道主是《Hao的游戏PM笔记》的主理人Hao，一名游戏行业的项目经理。年底了，我们俩把今年游戏行业和AI行业里印象最深的事，摊开来算了一笔账。 节目一开始我抛了一个问题：AI对游戏行业、对这几年我们常说的\"游戏工业化\"，其实是一个去工业化的过程——你信吗？ 我在公司内部分享时用过一张图：古尔丹端着一杯绿色的液体走到兽人面前，说干了这杯MCP，你就能拥有专业设计师的能力。然后对方问他：那么代价呢？ 代价就是这一期的主线。它首先是钱——从25年开始给DeepSeek、硅基流动、阿里云充API，到年初玩小龙虾不到一个月发现消耗太快，果断下单两张显卡做本地部署。到今天，光智能体这一块我的投资已经到了五位数，还是三个字：不够用。但它更是比钱难算的那部分——我失去了我的手。Adobe的产品我用了超过20年，我曾经是Adobe的讲师，今年我明",
-      "image": "https://image.gcores.com/9c539a3d-1745-466e-bda4-9bd7619ae9e5-2048-2048.jpeg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
-      "publishedAt": "2026-11-09T14:19:46.000Z",
-      "sourceId": "gcores",
-      "sourceName": "机核",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "This week in PC games: solve the disappearance of 700 people, build a night market for spirits, and play chess on a board that disobeys physics",
-      "link": "https://www.rockpapershotgun.com/this-week-in-pc-games-solve-the-disappearance-of-700-people-build-a-night-market-for-spirits-and-play-chess-on-a-board-that-disobeys-physics",
-      "summary": "I don't know what Edwin's been feeding the Maw in my off week, but when I entered its chambers this morning it had left game releases everywhere. Ceiling, walls, floor, they all glisten with games of every size and genre. Even after I hosed away the ones largely made with the assistance of generative AI, the sifting sieves fitted across the drains held a bounty of interesting releases. Let's get t",
-      "image": "https://assetsio.gnwcdn.com/Oboro-no-Ichi-night-market.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-09T14:00:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "The TZUSOO Way: Digital First, Physical Later",
       "link": "https://www.blender.org/user-stories/tzusoo/",
       "summary": "A conversation with TZUSOO about her latest project, Agarmon Encyclopedia, the role of Blender in her practice, and the current state of the fine art world.",
@@ -1602,28 +1643,6 @@
       "sourceName": "Blender",
       "category": "3d",
       "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
-      "link": "https://www.rockpapershotgun.com/there-is-no-excuse-for-what-i-did-nvidia-ceo-says-as-affair-with-an-alleged-chinese-spy-makes-the-us-china-ai-race-look-even-more-ridiculous",
-      "summary": "Ostensible graphics card company and definite AI giants Nvidia have commissioned an independent investigation into themselves, amid reports that CEO Jensen Huang had an extramarital affair with a suspected Chinese spy. Per both the New York Times and Nvidia themselves , Nvidia offered to go under the microscope after US intelligence organisations elected to investigate Huang&rsquo;s paramour, Chin",
-      "image": "https://assetsio.gnwcdn.com/Nvidia-RTX-Spark-reveal.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-09T13:15:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Vol.270.买还是不买，这是个问题",
-      "link": "https://www.gcores.com/radios/222138",
-      "summary": "今年的双十一节目终于在日期前更新 今年电子产品全线拉稀，甚至让人产生了“不买立省100%”的感觉 但是有些东西横竖还是要买，大家三思再购买吧 不过也不耽误大家听听主播们买了或者准备买些啥",
-      "image": "https://image.gcores.com/2219e89d-9e13-4d38-93bd-67b457f8839d-1600-1600.png?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
-      "publishedAt": "2026-11-09T13:00:31.000Z",
-      "sourceId": "gcores",
-      "sourceName": "机核",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "Koshizu Trees: procedural Japanese garden trees for Blender",
@@ -1675,17 +1694,6 @@
       "summary": "Paulette Shnier creates a flexible animatable flame system starting with a simple curve and using geometry nodes. Source",
       "image": null,
       "publishedAt": "2026-11-04T05:52:05.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Blender Secrets on sale",
-      "link": "https://www.blendernation.com/2026/11/03/blender-secrets-on-sale/",
-      "summary": "The Blender Secrets sale is live until November 3rd. Get up to 55% off (by getting a bundle) or 30% off the courses or E-book. Check it out on www.3dsecrets.com Source",
-      "image": null,
-      "publishedAt": "2026-11-03T06:11:50.000Z",
       "sourceId": "blendernation",
       "sourceName": "BlenderNation",
       "category": "3d",

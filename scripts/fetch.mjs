@@ -38,6 +38,32 @@ const SOURCES = [
 
 const CATEGORY_LABELS = { ai: 'AI', game: '游戏', '3d': '3D / CG' };
 
+/**
+ * 导购/促销内容过滤。
+ * 各个源（尤其 IT之家、Polygon）的 RSS 里会混进电商促销帖，那不是资讯。
+ * 故意只在**标题**上做匹配，宁可漏掉几条，也不要误杀正文里的正常新闻。
+ */
+const PROMO_PATTERNS = [
+  // 中文电商促销
+  /京东|天猫|淘宝|拼多多|苏宁|唯品会/,
+  /国补|好价|秒杀|直降|满减|优惠券|领券|白菜价|史低|低至|到手价/,
+  /预售价|开启预售|下单立减/,
+  // 英文促销
+  /\b(prime day|black friday|cyber monday|deal of the day)\b/i,
+  /\bcoupon|promo code|discount code\b/i,
+  /\bis (an? )?(unbelievable|great|good|stellar) deal\b/i,
+  /\bon sale\b/i,
+  /\bsave \$\d/i,
+  /\b\d+% off\b/i,
+];
+
+function isPromo(title) {
+  return PROMO_PATTERNS.some((re) => re.test(title));
+}
+
+/** 被过滤掉的促销条目，写进报告方便回看 */
+const promoDropped = [];
+
 function decodeEntities(s) {
   return s
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
@@ -111,6 +137,7 @@ function parseFeed(xml, source) {
     const title = stripHtml(tag(block, 'title'));
     const link = parseLink(block);
     if (!title || !link) continue;
+    if (isPromo(title)) { promoDropped.push({ sourceId: source.id, title }); continue; }
 
     const rawSummary = tag(block, 'description') || tag(block, 'summary') || tag(block, 'content');
     const summary = stripHtml(rawSummary).slice(0, SUMMARY_CHARS);
@@ -189,6 +216,8 @@ async function main() {
   const payload = {
     generatedAt: new Date().toISOString(),
     total: kept.length,
+    promoFiltered: promoDropped.length,
+    promoDroppedTitles: promoDropped.slice(0, 20).map((p) => p.title),
     categories: Object.entries(CATEGORY_LABELS).map(([id, label]) => ({
       id,
       label,
