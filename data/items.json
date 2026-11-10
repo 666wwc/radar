@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T15:26:21.604Z",
-  "total": 130,
+  "generatedAt": "2026-11-10T15:27:00.846Z",
+  "total": 149,
   "categories": [
     {
       "id": "ai",
@@ -15,7 +15,7 @@
     {
       "id": "3d",
       "label": "3D / CG",
-      "count": 10
+      "count": 29
     }
   ],
   "sources": [
@@ -24,70 +24,70 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1375,
-      "ms": 184
+      "ms": 199
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 309
+      "ms": 266
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 901,
-      "ms": 125
+      "ms": 103
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 105
+      "ms": 48
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
       "count": 10,
-      "ms": 650
+      "ms": 200
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 530
+      "ms": 496
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 207
+      "ms": 130
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 443
+      "ms": 655
     },
     {
-      "id": "cgchannel",
-      "name": "CG Channel",
-      "ok": false,
-      "error": "HTTP 403",
-      "ms": 121
+      "id": "blendernation",
+      "name": "BlenderNation",
+      "ok": true,
+      "count": 10,
+      "ms": 662
     },
     {
       "id": "blender",
       "name": "Blender",
-      "ok": false,
-      "error": "fetch failed",
-      "ms": 55
+      "ok": true,
+      "count": 9,
+      "ms": 6801
     }
   ],
   "items": [
@@ -202,9 +202,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -212,9 +212,9 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-      "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
       "publishedAt": "2026-11-10T14:00:00.000Z",
       "sourceId": "techcrunch-ai",
       "sourceName": "TechCrunch AI",
@@ -418,6 +418,26 @@
       "publishedAt": "2026-11-10T08:18:00.000Z",
       "sourceId": "80lv",
       "sourceName": "80 Level",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "3D Print Suite: 18 Blender add-ons for 3D printing",
+      "link": "https://www.blendernation.com/2026/11/10/3d-print-suite-18-blender-add-ons-for-3d-printing/",
+      "summary": "Sonneblom Digitaal has put its whole 3D-printing range for Blender into one bundle: the 3D Print Suite, 18 add-ons for Blender 4.2 LTS and newer, each its own installable zip. It covers repairing a broken model (Print Fi",
+      "publishedAt": "2026-11-10T08:00:54.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Pay It Forward – Fundraiser for 2027",
+      "link": "https://www.blender.org/press/pay-it-forward-fundraiser-for-2027/",
+      "summary": "The Blender Foundation launches its annual fundraiser to meet its funding goal for 2027.",
+      "publishedAt": "2026-11-10T07:46:49.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
       "category": "3d",
       "categoryLabel": "3D / CG"
     },
@@ -642,6 +662,16 @@
       "categoryLabel": "游戏"
     },
     {
+      "title": "Phone Cam Controller: a free phone virtual camera for Blender",
+      "link": "https://www.blendernation.com/2026/11/09/phone-cam-controller-a-free-phone-virtual-camera-for-blender/",
+      "summary": "Motionist.studio has released Phone Cam Controller for Blender, a free add-on that turns your iPhone into a handheld virtual camera (Android version coming soon). The Blender viewport streams to the phone in real time. M",
+      "publishedAt": "2026-11-09T16:00:24.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
       "summary": "",
@@ -690,6 +720,16 @@
       "sourceName": "Rock Paper Shotgun",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "The TZUSOO Way: Digital First, Physical Later",
+      "link": "https://www.blender.org/user-stories/tzusoo/",
+      "summary": "A conversation with TZUSOO about her latest project, Agarmon Encyclopedia, the role of Blender in her practice, and the current state of the fine art world.",
+      "publishedAt": "2026-11-09T13:44:46.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
     },
     {
       "title": "\"There is no excuse for what I did,\" Nvidia CEO says, as affair with an alleged Chinese spy makes the US-China AI race look even more ridiculous",
@@ -760,6 +800,16 @@
       "sourceName": "OpenAI",
       "category": "ai",
       "categoryLabel": "AI"
+    },
+    {
+      "title": "Koshizu Trees: procedural Japanese garden trees for Blender",
+      "link": "https://www.blendernation.com/2026/11/09/koshizu-trees-procedural-japanese-garden-trees-for-blender/",
+      "summary": "Koshizu Space released Koshizu Trees, a procedural tree add-on for Blender, built around Japanese species and the way they are actually grown, pruned and aged in gardens. Version 1.0 includes seven presets across five sp",
+      "publishedAt": "2026-11-09T07:18:53.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
     },
     {
       "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
@@ -980,6 +1030,26 @@
       "sourceName": "Rock Paper Shotgun",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "Best of Blender Artists: 2026-45",
+      "link": "https://www.blendernation.com/2026/11/06/best-of-blender-artists-2026-45/",
+      "summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I’m putting some of the best work in the spotlight in a weekly post here on BlenderNation. Source",
+      "publishedAt": "2026-11-06T10:20:03.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Blender Jobs for November 6, 2026",
+      "link": "https://www.blendernation.com/2026/11/06/blender-jobs-for-november-6-2026/",
+      "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: [Paid] Photorealistic Female Character Artist – Blender / CC5 / Game-Ready GLB Blender Artist Needed — Fit Existing Mediev",
+      "publishedAt": "2026-11-06T10:15:00.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
     },
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -1262,6 +1332,16 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "Creating a Mech Girl Character – Part 4︱Retopology Tips",
+      "link": "https://www.blendernation.com/2026/11/04/creating-a-mech-girl-character-part-4%ef%b8%b1retopology-tips/",
+      "summary": "Daniel Orji is back with part 4 of his mech girl tutorial series. I share a couple of tips that help me get through the retopo process. https://www.youtube.com/watch?v=TP0DYB3mzjU Source",
+      "publishedAt": "2026-11-04T08:00:33.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
       "title": "A thousand fewer paths to root",
       "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
@@ -1280,6 +1360,16 @@
       "sourceName": "OpenAI",
       "category": "ai",
       "categoryLabel": "AI"
+    },
+    {
+      "title": "Create a Procedural Cartoon Flame in Blender with Geometry Nodes",
+      "link": "https://www.blendernation.com/2026/11/04/create-a-procedural-cartoon-flame-in-blender-with-geometry-nodes/",
+      "summary": "Paulette Shnier creates a flexible animatable flame system starting with a simple curve and using geometry nodes. Source",
+      "publishedAt": "2026-11-04T05:52:05.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
     },
     {
       "title": "Introducing Images 2.6",
@@ -1342,6 +1432,26 @@
       "categoryLabel": "AI"
     },
     {
+      "title": "Blender Secrets on sale",
+      "link": "https://www.blendernation.com/2026/11/03/blender-secrets-on-sale/",
+      "summary": "The Blender Secrets sale is live until November 3rd. Get up to 55% off (by getting a bundle) or 30% off the courses or E-book. Check it out on www.3dsecrets.com Source",
+      "publishedAt": "2026-11-03T06:11:50.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Free browser STEP/STL converter: FabRapid 3D",
+      "link": "https://www.blendernation.com/2026/11/03/free-browser-step-stl-converter-fabrapid-3d/",
+      "summary": "FabRapid 3D is a free browser-based 3D model converter, compressor and viewer. It runs locally with WebAssembly so files never leave the device, and supports 70+ formats including STEP, STL, GLB, OBJ and FBX. No signup r",
+      "publishedAt": "2026-11-03T06:09:05.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
       "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
       "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
       "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
@@ -1390,6 +1500,86 @@
       "sourceName": "OpenAI",
       "category": "ai",
       "categoryLabel": "AI"
+    },
+    {
+      "title": "Learn To Model Link’s Shield Step By Step",
+      "link": "https://www.blendernation.com/2026/11/02/learn-to-model-links-shield-step-by-step/",
+      "summary": "Chris Baily shows how to model the Hylian shield from the Legend of Zelda. It may look like a complex surface with curvature and lots of fine detail, but once we break down the steps you’ll see that it isn’t as hard to c",
+      "publishedAt": "2026-11-02T06:25:38.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Blender Conference 2026 Recap",
+      "link": "https://www.blender.org/events/blender-conference-2026-recap/",
+      "summary": "Enjoy the recap of Blender Conference 2026, which took place this September in Amsterdam.",
+      "publishedAt": "2026-10-13T14:35:20.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Blender Survey 2026",
+      "link": "https://www.blender.org/news/blender-survey-2026/",
+      "summary": "Blender Foundation announces its annual user survey.",
+      "publishedAt": "2026-10-06T08:28:01.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Celebrating 20 Years of Open Movies",
+      "link": "https://www.blender.org/press/20-years-open-movies/",
+      "summary": "A thank you message for the community that made this possible.",
+      "publishedAt": "2026-09-25T16:46:28.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Blender Foundation Annual Report 2025",
+      "link": "https://www.blender.org/news/blender-foundation-annual-report-2025/",
+      "summary": "The 2025 Blender Foundation report is now publicly available.",
+      "publishedAt": "2026-09-23T07:39:43.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Show your support for Blender projects",
+      "link": "https://www.blender.org/news/show-your-support-for-blender-projects/",
+      "summary": "New update to Blender Development Fund now lets supporters to highlight favorite projects on the Roadmap page, boosting their visibility and demand.",
+      "publishedAt": "2026-09-21T10:58:44.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Blender 5.2 LTS Release",
+      "link": "https://www.blender.org/press/blender-5-2-lts-release/",
+      "summary": "Blender 5.2 LTS brings node-powered physics, remote access to asset libraries, major rendering advancements and more with 2 years of LTS updates.",
+      "publishedAt": "2026-07-14T15:48:17.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "Blender at SIGGRAPH 2026",
+      "link": "https://www.blender.org/events/blender-at-siggraph-2026/",
+      "summary": "The Blender team is back in Los Angeles to present and take part at SIGGRAPH 2026.",
+      "publishedAt": "2026-07-08T10:01:24.000Z",
+      "sourceId": "blender",
+      "sourceName": "Blender",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
     }
   ]
 }
