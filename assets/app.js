@@ -67,6 +67,7 @@ function renderHero(item) {
 function renderCard(item) {
   const thumb = item.image
     ? `<div class="thumb"><img src="${escapeHtml(item.image)}" alt="" loading="lazy" referrerpolicy="no-referrer"
+         onload="this.classList.add('loaded')"
          onerror="this.parentElement.remove();this.closest('.card').classList.add('text-only')"></div>`
     : '';
   return `

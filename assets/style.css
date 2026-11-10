@@ -210,7 +210,7 @@ body {
 .thumb {
   position: relative;
   aspect-ratio: 16 / 9;
-  background: #0e131a;
+  background: linear-gradient(135deg, #151d27, #0d1218 70%);
   overflow: hidden;
   border-bottom: 1px solid var(--line);
 }
@@ -219,8 +219,10 @@ body {
   height: 100%;
   object-fit: cover;
   display: block;
-  transition: transform .5s ease;
+  opacity: 0;
+  transition: opacity .4s ease, transform .5s ease;
 }
+.thumb img.loaded { opacity: 1; }
 .card:hover .thumb img { transform: scale(1.045); }
 
 .body {

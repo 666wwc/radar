@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T18:36:32.501Z",
-  "total": 149,
+  "generatedAt": "2026-11-10T18:46:02.805Z",
+  "total": 139,
   "categories": [
     {
       "id": "ai",
@@ -15,128 +15,128 @@
     {
       "id": "3d",
       "label": "3D / CG",
-      "count": 29
+      "count": 19
     }
   ],
   "sources": [
     {
       "id": "openai",
       "name": "OpenAI",
-      "ok": true,
-      "count": 1375,
-      "ms": 365
+      "ok": false,
+      "error": "fetch failed",
+      "ms": 337
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 333
+      "ms": 1857
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
-      "ok": true,
-      "count": 902,
-      "ms": 101
+      "ok": false,
+      "error": "fetch failed",
+      "ms": 10637
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 80
+      "ms": 728
     },
     {
       "id": "qbitai",
       "name": "量子位",
       "ok": true,
       "count": 10,
-      "ms": 1286
+      "ms": 165
     },
     {
       "id": "ifanr",
       "name": "爱范儿",
       "ok": true,
       "count": 20,
-      "ms": 1535
+      "ms": 198
     },
     {
       "id": "ithome",
       "name": "IT之家",
       "ok": true,
       "count": 60,
-      "ms": 1026
+      "ms": 132
     },
     {
       "id": "polygon",
       "name": "Polygon",
-      "ok": true,
-      "count": 10,
-      "ms": 185
+      "ok": false,
+      "error": "fetch failed",
+      "ms": 888
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
-      "ok": true,
-      "count": 50,
-      "ms": 575
+      "ok": false,
+      "error": "HTTP 403",
+      "ms": 870
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 192
+      "ms": 932
     },
     {
       "id": "gcores",
       "name": "机核",
       "ok": true,
       "count": 20,
-      "ms": 1230
+      "ms": 1092
     },
     {
       "id": "indienova",
       "name": "indienova",
       "ok": true,
       "count": 10,
-      "ms": 1183
+      "ms": 676
     },
     {
       "id": "chuapp",
       "name": "触乐",
       "ok": true,
       "count": 30,
-      "ms": 11563
+      "ms": 4186
     },
     {
       "id": "gamelook",
       "name": "GameLook",
-      "ok": false,
-      "error": "HTTP 502",
-      "ms": 4676
+      "ok": true,
+      "count": 31,
+      "ms": 1340
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 588
+      "ms": 2443
     },
     {
       "id": "blendernation",
       "name": "BlenderNation",
-      "ok": true,
-      "count": 10,
-      "ms": 467
+      "ok": false,
+      "error": "fetch failed",
+      "ms": 11715
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": true,
       "count": 9,
-      "ms": 409
+      "ms": 1074
     }
   ],
   "items": [
@@ -152,39 +152,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "Target's New 'Pokémon' 30th Anniversary Drawing Is A Must-See For TCG Fans",
-      "link": "https://www.polygon.com/target-pokemon-drawing-30th-anniversary-booster-bundle-tcg-how-to-enter/",
-      "summary": "Target is raffling Ascended Heroes & the best Pokémon TCG set of 2026 for a limited time, and it's a good deal when you break down cost-per-pack",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24836298/pikachu_artwork.jpg",
-      "publishedAt": "2026-11-10T18:23:18.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "PlayStation Plus November Games Lineup Officially Announced, Includes Death Stranding 2",
-      "link": "https://www.polygon.com/ps-plus-game-catalog-november-2026-update-death-stranding-2/",
-      "summary": "PlayStation adds new games each month to its PS Plus Games Catalog for subscribers to enjoy. Here's what Extra/Premium users get in November 2026.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/death-stranding-2-porter-grade-stats.jpg",
-      "publishedAt": "2026-11-10T18:19:38.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Costco’s New 'Pokémon' 30th Anniversary Bundle Is An Unbelievable Deal",
-      "link": "https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations/",
-      "summary": "Pokémon TCG collectors can nab a 30th Anniversary ETB and Booster Bundle cheaper than at Target, Walmart, and Best Buy",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikachu-025-thumbnail.jpg",
-      "publishedAt": "2026-11-10T18:18:00.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "End of Abyss Devs Explain How They Made Top-Down Horror Feel Unsettling",
       "link": "https://80.lv/articles/end-of-abyss-devs-explain-how-they-made-top-down-horror-feel-unsettling/",
       "summary": "Former Little Nightmares developers discuss using practical-effects horror, anime framing, environmental lighting, and Metroidvania design to build their unsettling sci-fi adventure.",
@@ -194,28 +161,6 @@
       "sourceName": "80 Level",
       "category": "3d",
       "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Doomsday Officially Comes to Marvel Rivals With an X-Men Icon",
-      "link": "https://www.polygon.com/marvel-rivals-new-heroes-nightcrawler-dracula-season-11/",
-      "summary": "Marvel Rivals announced its next two heroes coming to Season 11.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/marvel-rivals-season-10-5-release-time.jpg",
-      "publishedAt": "2026-11-10T18:12:27.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "PlayStation Pulls Back Further From PC With End of PS Plus App",
-      "link": "https://www.polygon.com/sony-shuts-down-playstation-plus-pc-app-december-2026/",
-      "summary": "PlayStation Plus is losing its PC streaming app in December as Sony makes another change to its gaming business.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/10/ps5-pro-games-list.jpg",
-      "publishedAt": "2026-11-10T18:05:04.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair",
@@ -238,61 +183,6 @@
       "sourceName": "Blender",
       "category": "3d",
       "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "DMZ key and locations in Modern Warfare 4",
-      "link": "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list/",
-      "summary": "This guide lists all keys that can be found in Modern Warfare 4's DMZ mode and where to use them.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mw4-dmz-keys-header.jpg",
-      "publishedAt": "2026-11-10T17:52:52.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Nintendo Officially Shuts Down Switch 2 Jailbreak in New Update",
-      "link": "https://www.polygon.com/nintendo-switch-2-jailbreak-update/",
-      "summary": "Nintendo Switch 2 firmware update puts an end to a popular jailbreak that allowed hackers acces to the console’s system files and game ROMs",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mario-clash.jpg",
-      "publishedAt": "2026-11-10T17:51:01.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "How to get and use the Song of Storms in Ocarina of Time",
-      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-song-of-storms-unlock-use/",
-      "summary": "What can you actually use the Song of Storms to do in Ocarina of Time, other than open the Bottom of the Well?",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/obs64_2026-11-10_11-37-09.jpg",
-      "publishedAt": "2026-11-10T17:50:42.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
-      "link": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
-      "summary": "It's not entirely clear what those expectations were, but Take-Two Interactive CEO Strauss Zelnick is boasting about the game's sales on the eve of its long-anticipated release.",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt5e107dcc55d1ee5a/6895cbb236fc8156326d8917/GTA_Header.png?width=720&quality=80&disable=upscale",
-      "publishedAt": "2026-11-10T17:49:05.000Z",
-      "sourceId": "gamedeveloper",
-      "sourceName": "Game Developer",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Universes Beyond’s Most Intense Villain Officially Joins Magic: The Gathering’s Top 10 Commanders",
-      "link": "https://www.polygon.com/magic-the-gathering-fire-lord-azula-top-10-commanders/",
-      "summary": "Keep your friends close and your Lightning Bolts closer.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fire-lord-azula-magic-the-gathering.jpg",
-      "publishedAt": "2026-11-10T17:46:18.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
@@ -337,17 +227,6 @@
       "sourceName": "TechCrunch AI",
       "category": "ai",
       "categoryLabel": "AI"
-    },
-    {
-      "title": "GTA 6 is Playable on Xbox One, Rockstar Officially Confirms",
-      "link": "https://www.polygon.com/gta-6-xbox-one-cloud-gaming/",
-      "summary": "Grand Theft Auto 6 is coming to Xbox One, Rockstar Games confirms ahead of launch, playable through Xbox Cloud Gaming.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grassrivers_07.jpg",
-      "publishedAt": "2026-11-10T17:01:22.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "Bandai Namco is liquidating Unknown 9: Awakening studio Reflector Entertainment, following multiple previous layoffs since the game's launch",
@@ -1285,17 +1164,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "3D Print Suite: 18 Blender add-ons for 3D printing",
-      "link": "https://www.blendernation.com/2026/11/10/3d-print-suite-18-blender-add-ons-for-3d-printing/",
-      "summary": "Sonneblom Digitaal has put its whole 3D-printing range for Blender into one bundle: the 3D Print Suite, 18 add-ons for Blender 4.2 LTS and newer, each its own installable zip. It covers repairing a broken model (Print Fix, AI Mesh Fixer), checking it (Printability Check, Wall Thickness Checker, Overhang Finder + Auto-Orient, Asset Preflight), preparing […] Source",
-      "image": null,
-      "publishedAt": "2026-11-10T08:00:54.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
       "title": "Pay It Forward – Fundraiser for 2027",
       "link": "https://www.blender.org/press/pay-it-forward-fundraiser-for-2027/",
       "summary": "The Blender Foundation launches its annual fundraiser to meet its funding goal for 2027.",
@@ -1373,6 +1241,17 @@
       "categoryLabel": "3D / CG"
     },
     {
+      "title": "10月全球手游收入与下载量排行榜TOP10：《ROBLOX》位居10月全球手游收入榜榜首",
+      "link": "http://www.gamelook.com.cn/2026/11/606016/",
+      "summary": "2026年10月全球手游收入排行榜 TOP 10 《ROBLOX》位居2026年10月全球手游收入榜榜首。《王者荣耀》、《Gossip Harbor》、《Royal Match》和...",
+      "image": null,
+      "publishedAt": "2026-11-10T06:20:21.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
       "title": "诺娃独立游戏通讯 2026-#45",
       "link": "https://indienova.com/indie-game-news/nova-post-2026-45/",
       "summary": "介绍一些近期值得开发者关注的内容，内容基本上来自 indienova 站内。",
@@ -1380,6 +1259,83 @@
       "publishedAt": "2026-11-10T06:00:00.000Z",
       "sourceId": "indienova",
       "sourceName": "indienova",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "中国无人机称霸全球！最强“无人机游戏”却出自比利时13人团队？",
+      "link": "http://www.gamelook.com.cn/2026/11/606000/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/说到无人机，中国可能是全世界最容易让人联想到这个产业的国家之一。 消费级无人机、航拍、FPV、飞控、供应链……中国拥有庞...",
+      "image": null,
+      "publishedAt": "2026-11-10T04:05:52.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "光子开源“原生AI游戏引擎”，要跟AI大模型巨佬们火拼！",
+      "link": "http://www.gamelook.com.cn/2026/11/605953/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/让AI全权做一款游戏，这事儿还八字没一撇，围绕该怎么做，行业里倒是已经分出了两派。 本月初，月之暗面先是给游戏公司递了一...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:51:46.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "游戏人“吹哨级吐槽”：“3A游戏究竟得了什么重病”？看完直接沉默",
+      "link": "http://www.gamelook.com.cn/2026/11/605930/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/很多人都不意外的是，持续了多年的游戏业裁员潮并没有停下来的迹象，行业分析师追踪数据显示，2026年迄今为止，游戏业已经减...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:50:58.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "赛事加码升级、PC移动双线发力，《金铲铲之战》在下一盘什么棋？",
+      "link": "http://www.gamelook.com.cn/2026/11/605954/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/11月6日，西安举办的“金铲铲之战2027共赴新局：电竞升级·PC启航”发布会上，腾讯游戏副总裁、《金铲铲之战》中国总负...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:49:41.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "黄仁勋“绯闻”全网吃瓜，主角竟是第七大道前海外子公司？",
+      "link": "http://www.gamelook.com.cn/2026/11/605934/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/今天，全球科技板块的新闻头条突然被老黄塌房的消息占据。11月8日，这位全球市值最高的芯片公司创始人向全体员工发去一封公开...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:42:08.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "恐怖游戏在Steam “杀疯了”：今年10个月入账86亿元，同比大涨17%",
+      "link": "http://www.gamelook.com.cn/2026/11/605986/",
+      "summary": "【GameLook专稿，未经允许禁止转载！】 GameLook报道/恐怖游戏大概是这几年最不显山露水的品类：制作成本可以压得很低，依靠联机卖点和旧作慢慢卖，在行情不好时也照样有人买...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:36:11.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "游戏公司被收购后有多惨？超1/3活不过10年！",
+      "link": "http://www.gamelook.com.cn/2026/11/605915/",
+      "summary": "【GameLook专稿，禁止转载！】 GameLook报道/这几年游戏圈最熟悉的一个话题，就是裁员、项目关闭，以及游戏工作室关门。除了那些融资耗尽而被迫解散的团队之外，其中也有不少...",
+      "image": null,
+      "publishedAt": "2026-11-10T01:35:46.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1439,17 +1395,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
-      "link": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
-      "summary": "A few months after the game's release, it looked like maybe Bit Reactor was putting itself back together, but a new report indicates that the Star Wars tactical title's developer is suffering layoffs.",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3701c4dcdeecdcab/6af1ee7a91f097778ae4f4ad/starwarszerocompanysteam.jpg?width=720&quality=80&disable=upscale",
-      "publishedAt": "2026-11-09T17:30:00.000Z",
-      "sourceId": "gamedeveloper",
-      "sourceName": "Game Developer",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "Warhammer 40,000: Dark Heresy releases in January, leaving not very long to prepare for all the crunchy cRPG choices and secret wars it'll lob your way",
       "link": "https://www.rockpapershotgun.com/warhammer-40000-dark-heresy-releases-in-january-leaving-not-very-long-to-prepare-for-all-the-crunchy-crpg-choices-and-secret-wars-itll-lob-your-way",
       "summary": "Oh shit, that's not too far away. Terrifyingly, that last sentence is now a thing I can accurately write about games coming out in January 2027. Warhammer 40,000: Dark Heresy has just been confirmed as one such game, with the cRPG's heresy investigation set to commence towards the end of the month. Read more",
@@ -1479,17 +1424,6 @@
       "publishedAt": "2026-11-09T16:53:27.000Z",
       "sourceId": "gcores",
       "sourceName": "机核",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
-      "link": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-      "summary": "The highly-anticipated launch from Blizzard has been a bright spot in the Xbox portfolio.",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf906d4df85e7ab85/6af1f3c7c2a5a2122223e928/worldofwarcraftforever.jpg?width=720&quality=80&disable=upscale",
-      "publishedAt": "2026-11-09T16:39:06.000Z",
-      "sourceId": "gamedeveloper",
-      "sourceName": "Game Developer",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1525,17 +1459,6 @@
       "sourceName": "Rock Paper Shotgun",
       "category": "game",
       "categoryLabel": "游戏"
-    },
-    {
-      "title": "Phone Cam Controller: a free phone virtual camera for Blender",
-      "link": "https://www.blendernation.com/2026/11/09/phone-cam-controller-a-free-phone-virtual-camera-for-blender/",
-      "summary": "Motionist.studio has released Phone Cam Controller for Blender, a free add-on that turns your iPhone into a handheld virtual camera (Android version coming soon). The Blender viewport streams to the phone in real time. Move the phone and the active camera follows in six degrees of freedom; hold the record button and walk through the […] Source",
-      "image": null,
-      "publishedAt": "2026-11-09T16:00:24.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
     },
     {
       "title": "橙光游戏平台：困在浪潮起落间",
@@ -1626,92 +1549,59 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "Koshizu Trees: procedural Japanese garden trees for Blender",
-      "link": "https://www.blendernation.com/2026/11/09/koshizu-trees-procedural-japanese-garden-trees-for-blender/",
-      "summary": "Koshizu Space released Koshizu Trees, a procedural tree add-on for Blender, built around Japanese species and the way they are actually grown, pruned and aged in gardens. Version 1.0 includes seven presets across five species: Kusunoki (camphor tree), Momiji (Japanese maple), Aodamo (Japanese ash), Manryo (Ardisia crenata) and Sakura (cherry, in bloom). Momiji and Aodamo […] Source",
-      "image": null,
-      "publishedAt": "2026-11-09T07:18:53.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
+      "title": "Rockstar were \"definitely\" thinking about giving a Japanese studio the keys to GTA, says former tech director - \"I have a name, but I'm not gonna say it\"",
+      "link": "https://www.rockpapershotgun.com/rockstar-were-definitely-thinking-about-giving-a-japanese-studio-the-keys-to-gta-says-former-tech-director-i-have-a-name-but-im-not-gonna-say-it",
+      "summary": "Since time immemorial, North American and European publishers have racked their brains over ways to make their games sell in Japan, ancient heartland of mythical beings like Mario, Sonic, and Polaroid Pete. In the late noughties, Microsoft launched a big push to give Japanese youth the Xbox virus with such targeted console exclusives as Blue Dragon and Lost Odyssey. And Rockstar once dreamed of ma",
+      "image": "https://assetsio.gnwcdn.com/gta-6-dnacers.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-09T12:41:00.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
     },
     {
-      "title": "Best of Blender Artists: 2026-45",
-      "link": "https://www.blendernation.com/2026/11/06/best-of-blender-artists-2026-45/",
-      "summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I’m putting some of the best work in the spotlight in a weekly post here on BlenderNation. Source",
-      "image": null,
-      "publishedAt": "2026-11-06T10:20:03.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
+      "title": "Ahead of The Witcher 3: Songs of the Past, here's a \"lore friendly unofficial expansion to Geralt's life in Toussaint\" from a well-established quest modder",
+      "link": "https://www.rockpapershotgun.com/ahead-of-the-witcher-3-songs-of-the-past-heres-a-lore-friendly-unofficial-expansion-to-geralts-life-in-toussaint-from-a-well-established-quest-modder",
+      "summary": "While its remastered upgrade might have broken cover in late September, The Witcher 3 's extra expansion isn't set to join it until next year. With 2027 still a month and a bit away, a modder's taken it upon themselves to add a few more adventures to Geralt's time in Toussaint, Blood and Wine's gorgeous French-ish duchy, before the bloke from the river heads off to Letten for Songs of the Past. Re",
+      "image": "https://assetsio.gnwcdn.com/witcher-3-mod-quest-annals-of-the-duchy-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-09T11:25:50.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
     },
     {
-      "title": "Blender Jobs for November 6, 2026",
-      "link": "https://www.blendernation.com/2026/11/06/blender-jobs-for-november-6-2026/",
-      "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: [Paid] Photorealistic Female Character Artist – Blender / CC5 / Game-Ready GLB Blender Artist Needed — Fit Existing Medieval Armor to CK3 Character Body Senior VFX Artist｜Unity Real-Time Game Effects Senior 3D Environment Artist Senior AI-Driven Environment / Level Artist […] Source",
+      "title": "模拟越少，模拟越多——《深空当铺》碎思",
+      "link": "https://indienova.com/indie-game-review/probably-stolen-reivew/",
+      "summary": "把现实劳动转化成一套游戏规则，在这种“翻译”过程中被舍弃和损耗，未被纳入游戏规则的东西，并不一定就此消失。它们有时反而会以另一种方式重新进入玩家的体验，甚至成为游戏最想强调的部分，成为游戏叙事和主题的来源。",
       "image": null,
-      "publishedAt": "2026-11-06T10:15:00.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
+      "publishedAt": "2026-11-09T06:00:00.000Z",
+      "sourceId": "indienova",
+      "sourceName": "indienova",
+      "category": "game",
+      "categoryLabel": "游戏"
     },
     {
-      "title": "Creating a Mech Girl Character – Part 4︱Retopology Tips",
-      "link": "https://www.blendernation.com/2026/11/04/creating-a-mech-girl-character-part-4%ef%b8%b1retopology-tips/",
-      "summary": "Daniel Orji is back with part 4 of his mech girl tutorial series. I share a couple of tips that help me get through the retopo process. https://www.youtube.com/watch?v=TP0DYB3mzjU Source",
+      "title": "腾讯投资战车又开始“全球扫货”！为何押宝休闲游戏？",
+      "link": "http://www.gamelook.com.cn/2026/11/605819/",
+      "summary": "【GameLook专稿，未经允许禁止载！】 GameLook报道/最近几年，随着全球游戏行业增速放缓，存量竞争加剧，腾讯在提出长青游戏战略后，很快就吸引了国内外一大批游戏厂商自发地...",
       "image": null,
-      "publishedAt": "2026-11-04T08:00:33.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
+      "publishedAt": "2026-11-09T02:14:41.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
     },
     {
-      "title": "Create a Procedural Cartoon Flame in Blender with Geometry Nodes",
-      "link": "https://www.blendernation.com/2026/11/04/create-a-procedural-cartoon-flame-in-blender-with-geometry-nodes/",
-      "summary": "Paulette Shnier creates a flexible animatable flame system starting with a simple curve and using geometry nodes. Source",
+      "title": "塔科夫之父新游戏实机首曝！单张地图大4倍、50人混战，玩家担忧饼太大",
+      "link": "http://www.gamelook.com.cn/2026/11/605815/",
+      "summary": "【GameLook专稿，未经允许禁止载！】 GameLook报道/熟悉尼基塔的玩家都知道，他从来不是一个安于现状的人，在塔科夫更新PvE模式后步入稳定运营期的同时，他早已悄悄开启了...",
       "image": null,
-      "publishedAt": "2026-11-04T05:52:05.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Blender Secrets on sale",
-      "link": "https://www.blendernation.com/2026/11/03/blender-secrets-on-sale/",
-      "summary": "The Blender Secrets sale is live until November 3rd. Get up to 55% off (by getting a bundle) or 30% off the courses or E-book. Check it out on www.3dsecrets.com Source",
-      "image": null,
-      "publishedAt": "2026-11-03T06:11:50.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Free browser STEP/STL converter: FabRapid 3D",
-      "link": "https://www.blendernation.com/2026/11/03/free-browser-step-stl-converter-fabrapid-3d/",
-      "summary": "FabRapid 3D is a free browser-based 3D model converter, compressor and viewer. It runs locally with WebAssembly so files never leave the device, and supports 70+ formats including STEP, STL, GLB, OBJ and FBX. No signup required. Source",
-      "image": null,
-      "publishedAt": "2026-11-03T06:09:05.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Learn To Model Link’s Shield Step By Step",
-      "link": "https://www.blendernation.com/2026/11/02/learn-to-model-links-shield-step-by-step/",
-      "summary": "Chris Baily shows how to model the Hylian shield from the Legend of Zelda. It may look like a complex surface with curvature and lots of fine detail, but once we break down the steps you’ll see that it isn’t as hard to create as it first appears. In the bonus material we’ll go on […] Source",
-      "image": null,
-      "publishedAt": "2026-11-02T06:25:38.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
+      "publishedAt": "2026-11-09T02:10:56.000Z",
+      "sourceId": "gamelook",
+      "sourceName": "GameLook",
+      "category": "game",
+      "categoryLabel": "游戏"
     },
     {
       "title": "Blender Conference 2026 Recap",
