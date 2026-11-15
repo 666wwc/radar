@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-15T01:49:28.270Z",
+  "generatedAt": "2026-11-15T09:15:29.880Z",
   "total": 149,
-  "promoFiltered": 2,
-  "promoDroppedTitles": [
-    "京东京造推出 130W 自带线车载充电器：2C + 1A 设计，99 元",
-    "京东京造推出“铝膜复合水刺棉材质”全罩汽车车衣：可疏水防暴晒，189 元起"
-  ],
+  "promoFiltered": 0,
+  "promoDroppedTitles": [],
   "categories": [
     {
       "id": "ai",
@@ -29,122 +26,881 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1387,
-      "ms": 199
+      "ms": 203
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 183
+      "ms": 175
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 907,
-      "ms": 72
+      "ms": 107
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 67
+      "ms": 84
     },
     {
       "id": "qbitai",
       "name": "量子位",
       "ok": true,
       "count": 10,
-      "ms": 1776
+      "ms": 3744
     },
     {
       "id": "ifanr",
       "name": "爱范儿",
       "ok": true,
       "count": 20,
-      "ms": 1547
+      "ms": 1410
     },
     {
       "id": "ithome",
       "name": "IT之家",
       "ok": true,
-      "count": 58,
-      "ms": 190
+      "count": 60,
+      "ms": 425
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
       "count": 10,
-      "ms": 169
+      "ms": 344
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 318
+      "ms": 378
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 171
+      "ms": 123
     },
     {
       "id": "gcores",
       "name": "机核",
       "ok": true,
       "count": 20,
-      "ms": 1624
+      "ms": 1194
     },
     {
       "id": "indienova",
       "name": "indienova",
       "ok": true,
       "count": 10,
-      "ms": 1576
+      "ms": 1172
     },
     {
       "id": "chuapp",
       "name": "触乐",
       "ok": true,
       "count": 30,
-      "ms": 3694
+      "ms": 4429
     },
     {
       "id": "gamelook",
       "name": "GameLook",
       "ok": true,
       "count": 31,
-      "ms": 4704
+      "ms": 3426
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 434
+      "ms": 752
     },
     {
       "id": "blendernation",
       "name": "BlenderNation",
       "ok": true,
       "count": 10,
-      "ms": 411
+      "ms": 499
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": true,
       "count": 9,
-      "ms": 453
+      "ms": 786
     }
   ],
   "items": [
+    {
+      "title": "消息称苹果 iPhone 18 Pro 系列手机销量已达 782.87 万台",
+      "link": "https://www.ithome.com/1/027/411.htm",
+      "summary": "IT之家 11 月 15 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，截至 2026 年第 45 周（11 月 1 日至 11 月 7 日）， 苹果 iPhone 18 Pro 系列手机销量达到 782.87 万台 。 参考IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上， iPhone 18 Pro 系列正式发布 ，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。 iPhone 18 Pro 系列首发搭载 2 纳米制程工艺 A20 Pro 芯片，其封装方式借鉴了 M 系列芯片，性能和能效均创 iPhone 新高。两款机型均配备更小的灵动岛，全新 4800 万像素融合式主摄配备可变光圈。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e5fea2a1-d589-4fae-8448-3085873b55a5.jpg",
+      "publishedAt": "2026-11-15T09:06:10.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "遭受网络攻击后，世嘉日服 11 款街机游戏陆续恢复线上功能",
+      "link": "https://www.ithome.com/1/027/410.htm",
+      "summary": "IT之家 11 月 15 日消息，世嘉于 11 月 2 日通报公司部分服务器遭到黑客非法访问， 临时关闭部分日服街机游戏的在线服务 。目前公司宣布相应服务陆续恢复运行，玩家可以重新使用在线游玩及 IC 卡功能。 具体来看，最初暂停服务的 13 款游戏中《SEGA NET 麻雀 MJ Arcade》和《HOUSE OF THE DEAD ～SCARLET DAWN～》经确认暂时无法恢复服务。实际恢复运行的世嘉街机游戏共 11 款，IT之家随附列表： 《ONGEKI》（音击） 《Card Maker》 《舰队 Collection Arcade》 《占いコレクショントロッテ》 《头文字 D THE ARCADE》 《初音未来 Project DIVA Arcade Future Tone》 《Wonderland Wars》 《Wonderland LIBRARY》 《StarHorse4》 ",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/5a5f522b-c175-40b5-b79a-a554004d1763.jpg",
+      "publishedAt": "2026-11-15T09:03:14.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "首款获得 HSK 官方授权的中文学习机，荣耀中文学习机 HSK 专业版首秀",
+      "link": "https://www.ithome.com/1/027/408.htm",
+      "summary": "IT之家 11 月 15 日消息，荣耀智慧生活今日发文，在 2026 世界中文大会，荣耀中文学习机 HSK 专业版（HONOR Pad HSK Official Edition）全球首秀。 这款产品由荣耀与“爱中文”社区、九学王联合打造， 这也是首款获得 HSK 官方授权的中文学习机 。 据介绍，产品内置官方独家正版资源，全级别覆盖 HSK2.0&3.0 备考，搭载全新 AI 能力，支持屏上书写练习、双系统自由切换。 IT之家注：11 月 13 日至 15 日，2026 世界中文大会在北京举行，来自 160 多个国家和地区的约 5000 名代表参会。 据央视新闻报道， 今年中文水平考试（HSK）考生人数首次突破 100 万人次 。 该考试被不少网友称为“外国人的四六级”， 目前已在 169 个国家设立了 1500 余个考点 ，考点覆盖国家数量居全球语言考试首位，累计服务考生超过 900 万",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8e293a27-05a7-4bbe-aab4-cecb8d0d12db.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T09:02:44.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "索尼新专利：PlayStation 手柄或支持手机一碰传输，付款、登录更方便",
+      "link": "https://www.ithome.com/1/027/407.htm",
+      "summary": "IT之家 11 月 15 日消息，如今，消费者越来越追求便捷，购买数字版游戏本身就省去了前往实体店的麻烦。而索尼在 2025 年提交的一项临时专利，似乎还想进一步简化购买流程。 这项名为“由电子游戏控制器驱动的信息传输”（Video game controller-driven information transfer）的专利，描述了一种可能应用于 PlayStation 手柄的新功能：通过类似智能手机和超市收银台常见的近场交互技术，让手柄与附近的手机通信，一键向游戏主机传输付款信息或账户资料。 IT之家注意到，索尼此前已经宣布，将从 2028 年起全面转向数字化游戏，并停止生产实体游戏光盘。在这种情况下，进一步简化 PlayStation 用户的购买流程也显得顺理成章。 索尼这项手柄专利最终能否变成实际产品，目前还是未知数，但从使用体验来看，确实有一定吸引力。 根据专利描述，手柄能够检测",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0b99f1d2-d5b0-4640-85c5-2d9a411a2694.jpg",
+      "publishedAt": "2026-11-15T09:00:52.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "25 Funniest 'Peanuts' Comics from the 1960s That Prove Charles M. Schulz Is Unbeatable",
+      "link": "https://www.polygon.com/funniest-peanuts-comics-1960s/",
+      "summary": "In 1964, Charles Schulz told a 25-part story that was some of his best work",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/lucy-van-pelt-peanuts.jpg",
+      "publishedAt": "2026-11-15T09:00:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "开发者借助 Claude 开发出体积仅 97KB 水下探索模拟项目 Abyssal Garden",
+      "link": "https://www.ithome.com/1/027/406.htm",
+      "summary": "IT之家 11 月 15 日消息，据 XDA 报道，一位开发者 Any-Reputation8118 利用 Anthropic Claude 编写代码，开发出一款名为“Abyssal Garden”的浏览器水下探索模拟项目，相应项目体积仅 97 KB，场景中的所有视觉元素均由代码在页面加载时实时生成。 从演示视频来看，Abyssal Garden 的项目完成度相当高，包含海带森林、沉船、石制鲸鱼尾雕塑、蝠鲼、鱼群，以及从水面照射下来的光束等元素，整体视觉效果相当出色，IT之家附项目 GitHub 地址（ 点此访问 ）。 开发者表示，项目中的全部代码均由 Claude 编写，AI 甚至会自行检查代码，避免场景出现异常的视觉效果。最初，开发者仅通过一条提示词便生成了项目的基础版本，随后又通过追加提示词，逐步加入主菜单、碰撞检测和画质调节等功能。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/157cabd9-0c0c-4ad6-bea7-46307f2f092f.png",
+      "publishedAt": "2026-11-15T08:58:39.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "社交 VR 平台 Somnium Space 宣布即将重返 Steam，预计相应版本将全面清除加密货币内容",
+      "link": "https://www.ithome.com/1/027/405.htm",
+      "summary": "IT之家 11 月 15 日消息，据外媒 RoadtoVR 报道，社交 VR 平台 Somnium Space 在 2021 年因涉及虚拟货币交易被 V 社从 Steam 平台下架，如今该平台计划于下个月重新登陆 Steam，未来还将推出苹果 Vision Pro 版本。 Somnium Space 此前与虚拟货币/ NFT 有着密切联系。2019 年 10 月，该平台开始拍卖虚拟土地；一年后，其推出了虚拟货币 CUBE。2021 年，Valve 开始清理 Steam 平台上的加密货币及 NFT 相关游戏，Somnium Space 也因此受到影响，转而通过引导玩家使用自有启动器的方式继续运营。 从目前的安排来看，Somnium Space 重返 Steam 平台意味着其必须遵守 Steam 对加密货币和 NFT 的全面禁令，参考其 Steam 页面介绍，“我们的目标是让所有符合平台 18",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8d8d6d8f-b348-4714-ae83-a4125132117b.png",
+      "publishedAt": "2026-11-15T08:53:37.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "当贝 H5 第二代电视盒子发售：升级全志 H626 处理器、支持双频 Wi-Fi 6，469 元",
+      "link": "https://www.ithome.com/1/027/404.htm",
+      "summary": "IT之家 11 月 15 日消息，当贝旗下 H5 第二代电视盒子现已在京东发售，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为 469 元，部分地区国补后低至 399 元。 京东 当贝电视盒子 H5 469 元 领 70 元券 该产品尺寸为 98 x 98 x 21.5mm，采用白色配色，正面配备一条多彩呼吸灯，提供五种灯光效果模式。机身背部提供了一个 HDMI 2.1 接口、一个 USB-A 接口、一个 3.5mm 的复合音视频接口。 该机搭载了全志 H626 芯片，配备了 2GB RAM 以及 16GB 机身存储空间，具备 8K@24fps 的视频解码能力与 4K@60fps 画面输出能力，并支持 HDR10 与 HDR10+ 技术。机器支持双频 Wi-Fi 6、蓝牙 5.4，运行基于安卓 14 的当贝 OS。 IT之家附产品参数：",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/420796/32/11322/21184/69e71d20Ffd5b8e87/0083320320563e5c.png",
+      "publishedAt": "2026-11-15T08:46:19.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "蔚来：警惕“气囊召回”诈骗短信",
+      "link": "https://www.ithome.com/1/027/403.htm",
+      "summary": "IT之家 11 月 15 日消息，蔚来汽车官方辟谣账号“蔚来小喇叭”今日发文，表示警惕“气囊召回”诈骗短信。 近日，有不法分子冒用蔚来及相关监管部门名义，向部分用户发送涉及“气囊召回”的虚假短信，并附带非官方链接，诱导车主填报个人信息、办理虚假召回手续，实施诈骗。 蔚来郑重声明： 一、该类短信及附带文件均非蔚来官方发布的召回通知，相关召回信息为虚假信息。 二、请广大车主提高警惕，切勿点击可疑链接、回复短信内容，切勿向不明主体提供个人信息、车辆资料，谨防电信网络诈骗。 三、如需核实车辆召回相关信息，请通过国家市场监督管理总局缺陷产品召回技术中心官网（ www.samrdprc.org.cn ）或蔚来官方渠道查询确认。 蔚来提醒各位用户：凡官方召回通知，不会通过陌生短信要求用户提交隐私信息，如遇可疑情况，请第一时间联系蔚来官方客服进行核实。 综合IT之家此前报道， 已有多家车企遭遇被不法分子冒",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/631edea1-4e9b-42c3-925b-0885cdd804bf.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T08:43:44.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "瓦尔基里 PG 铂金 ATX 电源发售：提供 850/1000/1200W 款，599 元起",
+      "link": "https://www.ithome.com/1/027/402.htm",
+      "summary": "IT之家 11 月 15 日消息，瓦尔基里 (Valkyrie, Vk) 旗下 PG 系列 PC 电源现已在京东发售。该系列产品采用 IP 主题设计，可选洛基-黑 / 梅林-白 2 种外观，覆盖 850W / 1000W / 1200W 三个功率，定价 599 元起： 850W：黑色 599 元，白色 619 元； 1000W：黑色 699 元，白色 719 元； 1200W：黑色 799 元，白色 819 元。 PG 系列电源采用标准长度的 ATX 外形规格，符合 ATX12V 3.1 和 PCIe CEM 5.1 规范，配套全模组（包含端子撞色 16AWG 镀锡铜芯 600W 12V-2×6），获得 80 PLUS 与 PPLP 铂金转换效率认证。 其应用氮化镓 (GaN) 材料、全日系电解 / 固态电容（主电容耐温 105℃），拥有主动式 PFC + 同步整流 + LLC + DC-",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/f6f89957-f14b-4ce4-befd-44f2ce53d4cd.jpg",
+      "publishedAt": "2026-11-15T08:42:31.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "快手公益启动“启智星计划”：利用 AI 创新教育、未来三年将覆盖 2000 所乡村学校",
+      "link": "https://www.ithome.com/1/027/400.htm",
+      "summary": "IT之家 11 月 15 日消息，快手公益宣布启动“启智星”AI 赋能教育共建计划，将在 10 个县域各建立由教育局、学校、基金会三方协作的共建单元，为 10 所案例校引入“一校一策”教学方法。 官方同步公布 30 个可复制、可迁移的人工智能应用案例，教师们使用 AI 进行双语教学、分层教学，打造科创体育融合、红色思政等场景。‏ 快手表示，未来三年，将为超过 2000 所乡村学校、3 万名教师引入相应 AI 案例，可服务超过 500 万人次乡村学生。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/dc062bce-3f41-48e4-b9a7-2ffe3d58b2fb.jpg",
+      "publishedAt": "2026-11-15T08:39:40.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "游族网络：控股子公司收到 14.28 亿元闪存颗粒采购订单",
+      "link": "https://www.ithome.com/1/027/399.htm",
+      "summary": "IT之家 11 月 15 日消息，游族网络今日公告称，控股子公司智存合盈于 2026 年 11 月 2 日与 B 公司签订了《采购合同》，约定 B 公司以订单的形式， 向智存合盈采购闪存颗粒产品 ，合同自双方盖章之日起生效，有效期 2 年。 《采购合同》未约定合同金额，具体价格以采购订单为准。2026 年 11 月 12 日，B 公司向智存合盈出具采购订单采购闪存颗粒产品， 订单金额为 14.28 亿元人民币 （含税）。 据IT之家此前报道，游族网络 11 月 4 日发布公告，全资子公司上海游族信息技术有限公司于近日与 A 公司签署了《销售合同》， 游族信息向 A 公司采购型号为 PRO5500 (PCIe) 的 GPU 产品 ， 协议总金额为人民币 42.25 亿元 （含税，订单价格可能会因原厂或上级供应商调整而发生变动）。 游族网络当时表示，该合同的签订对公司财务指标的具体金额影响目前",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/35a2cc9b-760e-4c01-ad4f-c5ef83185bd7.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T08:38:22.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "新世代宝马 iX4 正式投产：WLTP 续航最高 828 公里，明年 3 月上市",
+      "link": "https://www.ithome.com/1/027/398.htm",
+      "summary": "IT之家 11 月 15 日消息，宝马 iX4 已经在匈牙利德布勒森工厂正式投产，将于 2027 年 3 月上市。这是宝马在该工厂生产的第二款新世代（Neue Klasse）车型，此前投产的是 iX3。 其中，续航更长的 iX4 50 xDrive 按照 WLTP 测试标准，续航里程最高可达 828 公里，超过 iX3 的表现。内部代号为 NA7 的 iX4 延续了宝马 X4 的设计思路，将 SUV 车身与向下倾斜的溜背车顶相结合，并采用新世代车型的技术平台。 iX4 将于 2027 年 3 月推出两个版本，目前两个版本均已开始下线生产。40 xDrive 上路起售价 60,170 英镑 （现汇率约合 53.2 万元人民币） ，50 xDrive 起售价 66,075 英镑 （现汇率约合 58.4 万元人民币） ；M60 xDrive 售价暂未公布。 iX4 50 xDrive 的 WLT",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/7cb2c96c-8f91-42ae-9896-23feaa2db097.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T08:38:06.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "因零件成本涨价，任天堂明起上调日本市场 Switch 初代 / 二代维修价格",
+      "link": "https://www.ithome.com/1/027/397.htm",
+      "summary": "IT之家 11 月 15 日消息，综合任天堂公告，任天堂将于当地时间 11 月 16 日（明天）上调日本市场 Switch 初代及 Switch 2 主机维修服务的价格。 官方称，维修零件成本的不断上涨，是本次提价的主要原因。其中 Switch2 主板（CPU 基板）维修价将由 27,500 日元 （IT之家注：现汇率约合 1,166 元人民币） 提高至 37,400 日元 （现汇率约合 1,586 元人民币） ，Switch 主板（CPU 基板）维修价将由 14,300 日元 （现汇率约合 606.3 元人民币） 提高至 24,200 日元 （现汇率约合 1,026 元人民币） 。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d3912b50-21f1-4782-bfb1-b2b8f92b938f.jpg",
+      "publishedAt": "2026-11-15T08:31:22.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "当地极端最低温可达 -48℃，中国最北蔚来换电站在黑龙江黑河上线运营",
+      "link": "https://www.ithome.com/1/027/396.htm",
+      "summary": "IT之家 11 月 15 日消息，蔚来宣布，11 月 15 日，中国最北蔚来换电站 —— 黑河自贸区蔚来换电站正式上线运营。 黑河是中国最北的地级市，当地冬季漫长，全年结冰期约 200 天， 极端最低温可达-48℃ 。 官方表示，常见充电设备低温易造成设备结霜结冰、电池活性衰减、充电效率大幅下滑。蔚来换电站站体采用保温围护结构，形成独立恒温仓； 站内电池仓搭载 7×24 小时持续恒温热管理系统 ，将仓内电池稳定维持在 15—30℃ 最优工作区间，减少外部零下几十度低温对充电速度的降低；换电机械设备自动预热，确保整套换电流程在极端低温下稳定运行。即便在极致低温环境下， 蔚来、乐道、firefly 萤火虫用户依旧可以享受换电 3 分钟 ，全程不下车，不用在寒风中等待充电。 IT之家获悉，今年 10 月，蔚来已先后完成吉林、辽宁两省「换电市市通」。截至今日，蔚来在东北地区已累计布局充换电站 49",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8a428d9a-5f1f-4f10-8626-c9c86291bbb8.jpg",
+      "publishedAt": "2026-11-15T08:30:34.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "利用 AI 将国漫角色改成情色形象，7 名“黄图画师”获刑",
+      "link": "https://www.ithome.com/1/027/395.htm",
+      "summary": "IT之家 11 月 15 日消息，据“婺城检察”公众号，近期金华市婺城区检察院对一批“黄图画师”提起公诉，涉案嫌疑人陈某等 7 人被判有期徒刑二年至八个月不等。 据报道，涉案嫌疑人陈某等掌控了数十个漫画爱好者群，群名大多带着“国漫”“同人”“角色交流”之类的字眼，其在群内以每份 5 元至 20 元的价格销售利用 AI 生成的国漫角色黄色图片，除了直接在群内售卖已制作好的图片压缩包之外，为了笼络客源、提升用户体验，陈某还陆续开发了投票、众筹、定制等多种玩法，以此牟利。 警方在接举报后顺藤摸瓜，很快锁定了陈某、宋某、李某等 7 名“黄图画师”。经查， 一年多的时间内，相应 7 人共销售淫秽图片 13 万余张，获利 16 万余元 。 8 月 21 日，金华市婺城区检察院对陈某等 7 人提起公诉。10 月 26 日，法院综合考量陈某等 7 人均无犯罪前科、主动退缴违法所得、自愿认罪认罚等情节，以制",
+      "image": null,
+      "publishedAt": "2026-11-15T08:21:22.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "洛图科技：2026 年第三季度中国电视零售市场均价 4055 元同比增长 3.4%，销量降 5.3%",
+      "link": "https://www.ithome.com/1/027/393.htm",
+      "summary": "IT之家 11 月 15 日消息，洛图科技最新发布的报告显示，2026 年第三季度，中国电视市场（不含激光电视）的全渠道 零售销量为 554 万台 ，同比下降 5.3%；销额为 224.7 亿元，同比下降 2.1%； 均价 4055 元 ，同比上涨 3.4%（+132 元），环比下降 5.9%（-255 元）。 前三季度累计来看，零售总量为 1752 万台，同比下降 10.5%；销额为 724.1 亿元，同比下降 6.0%。 洛图科技表示，无论是第三季度还是前三季度， 零售额的降幅明显小于零售量 ，反映出电视机在中国的消费结构正在向中高端升级，大尺寸、Mini LED 等高价值产品占比提升，共同支撑了均价的上行趋势。 ▲ 2025-2026Q3 中国电视零售市场季度规模及变化，单位：万台，亿元，% IT之家获悉，前三季度， 市场平均尺寸为 64.7 英寸 ，同比提升 2.0 英寸。75、8",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/31a9b26c-905c-4b66-b833-b110c53eb4fa.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T08:19:09.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "消息称 SK 海力士加快设备投资进度，进一步扩大 HBM4 产能",
+      "link": "https://www.ithome.com/1/027/392.htm",
+      "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，尽管英伟达 CEO 更替等因素加剧 AI 行业不确定性，但 SK 海力士仍认为 HBM（IT之家注：高带宽内存）需求强劲。该公司计划重点投资 HBM 封装和测试环节的设备， 并计划于明年上半年正式投入使用 。 据多位半导体设备行业人士透露，SK 海力士正与合作伙伴商讨采购 HBM4 生产设备。该公司主要与负责 HBM 键合、切割和检测等后道工序的设备供应商协调采购时间和数量。 一位熟悉相关情况的 SK 海力士合作伙伴表示：“SK 海力士正推进 HBM4 生产设备的追加投资，正加快相关安排，目标是在明年上半年完成设备进场和安装调试。”据悉，SK 海力士计划加快设备投资进度，部分设备甚至要求供应商在第一季度前完成交付。 同时，SK 海力士此次扩产的新增生产基地可能选在韩国忠清北道清州的 P&T6 封装测试厂。这座半导体工厂过去被",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4de7e21d-36d0-4d32-8a66-b98944ea3b06.jpg",
+      "publishedAt": "2026-11-15T08:15:09.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "倍思推出 60W 单 USB-C 充电头：支持 AVS 协议，89 元",
+      "link": "https://www.ithome.com/1/027/374.htm",
+      "summary": "IT之家 11 月 15 日消息，倍思现已在京东上架一款 60W“小冰充”单 USB-C 接口充电头， 定价为 89 元 。 京东 倍思 60W 单 USB-C 充电头 89 元 直达链接 该产品尺寸为 36.5x36.5x48mm，整体重量 102g，匹配可折叠插脚，正面配备一个 USB-C 60W 接口，兼容 AVS、UFCS、PD、QC、PPS 协议。 IT之家附产品参数：",
+      "image": "https://img14.360buyimg.com/pop/jfs/t1/557142/16/10166/58207/6af12de7F05498a45/00833203202c3e74.png",
+      "publishedAt": "2026-11-15T08:07:07.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "TCL 华星赵军：内存价格飙涨抑制 OLED 屏终端需求，苦日子要熬但不悲观",
+      "link": "https://www.ithome.com/1/027/372.htm",
+      "summary": "IT之家 11 月 15 日消息，TCL 科技集团高级副总裁、TCL 华星首席执行官赵军接受每日经济新闻采访时谈及内存涨价话题。 “内存价格的飙涨，让我们的客户在定价和销量之间产生了巨大的纠结， 带来的影响是 OLED 下游的需求受到较大抑制 。”但他同时表示，“苦日子可能还得熬，但我们对未来也不完全悲观”。 “我们对未来不能一味地乐观，但也没理由一味地悲观。”赵军认为， 未来需求还是会有所复苏 。对于复苏的变量，他归纳为三条：一是存储价格回归理性；二是 OLED 从中高端往入门级产品渗透；三是过去没有用 OLED 的产品，现在也开始导入，比如车载显示、平板等。 此外，苹果布局折叠屏“是一个加速器”—— 他援引机构数据分析，预计 2026 年折叠机市场需求约 2800 万台，2031 年折叠机市场规模预计增长至 4600 万台。当折叠机达到 4000 多万、接近 5000 万台时，赵军判断",
+      "image": null,
+      "publishedAt": "2026-11-15T08:06:35.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Sensor Tower：《GTA6》预购销量突破 1200 万份，收入突破 11.8 亿美元",
+      "link": "https://www.ithome.com/1/027/362.htm",
+      "summary": "IT之家 11 月 15 日消息，分析机构 Sensor Tower 现已更新《GTA6》预购销量测算，目前本作预购销量已达到 1,213 万份，预购收入约为 11.8 亿美元 （IT之家注：现汇率约合 78.94 亿元人民币） 。其中 PlayStation 和 XBOX 平台占比依旧是 75% 和 25%。 Take-Two CEO 施特劳斯 · 泽尔尼克此前表示，本作预购表现远超预期，但游戏正式发售后的表现仍有待观察。 此外，游戏业界都在期待《GTA6》发售后的商业表现能否突破此前。许多人预计，本作将超越《GTA5》在 2013 年发售时创造的超 10 亿美元（现汇率约合 66.88 亿元人民币）惊人首发纪录。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/29ec0d95-4c10-4a24-9f8b-b2adb0f39f3e.jpg",
+      "publishedAt": "2026-11-15T08:01:35.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Charging Animation Tutorial",
+      "link": "https://www.blendernation.com/2026/11/15/charging-animation-tutorial/",
+      "summary": "Let’s practice some hard-surface modeling and shader tricks to create a sci-fi battery charging animation in Blender. Source",
+      "image": null,
+      "publishedAt": "2026-11-15T08:00:38.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "I Can't Wait to Ignore the Main Story of GTA 6",
+      "link": "https://www.polygon.com/gta-6-main-story-side-activities/",
+      "summary": "GTA 6's side activities like mini-golf, parachuting, and working out sound more fun than stealing cars and getting chased by the cops",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-18-at-10-16-01-am.jpg",
+      "publishedAt": "2026-11-15T08:00:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "美国电商平台新蛋补货 RTX 5090 显卡：起售价 6599 美元，是官方建议零售价的三倍多",
+      "link": "https://www.ithome.com/1/027/360.htm",
+      "summary": "IT之家 11 月 15 日消息，据科技媒体 TechPower Up 今天报道，美国电商平台 Newegg（新蛋）近期补充了 GeForce RTX 5090 显卡库存。但在自营渠道中，售价最低的技嘉 AORUS RTX 5090 Xtreme Waterforce 要价 6,599 美元 （现汇率约合 44,145 元人民币） ， 相比 1,999 美元 （现汇率约合 13,373 元人民币） MSRP 高了 3.3 倍 。 此次补货的 RTX 5090 有华硕、技嘉和微星等品牌的少数商品。所有商品均为新蛋自营，非第三方商家。其中技嘉 AORUS Master ICE 售价 6,759.99 美元 （现汇率约合 45,222 元人民币） ；微星 Gaming Trio OC、Ventus 3X OC 和 Suprim Liquid SOC 均售价 6,999.99 美元 （IT之家注：",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/decee1e8-fbd8-4a02-992a-cbe2328af0e1.jpg",
+      "publishedAt": "2026-11-15T07:56:27.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "大众 ID.Buzz 变身自动驾驶出租车，May Mobility 计划到 2031 年投放 1 万辆",
+      "link": "https://www.ithome.com/1/027/358.htm",
+      "summary": "IT之家 11 月 15 日消息，当地时间周四，自动驾驶技术公司 May Mobility 宣布，计划将自家的自动驾驶系统整合到大众 ID. Buzz 上，让这款电动面包车进入允许无人驾驶出租车运营的市场。 May Mobility 希望利用现有技术平台，为 ID. Buzz 加装相应的硬件和软件，使车辆具备“提前 10 秒预判未来路况”的能力。 这并不意味着车辆真的能够预知未来，May Mobility 的技术主要依靠车载预测模型，提前判断周围环境中其他交通参与者可能采取的行动，原理与人类驾驶员观察周围车辆、预判其行驶轨迹类似。 具体来说，系统会在数字模型中模拟多种可能出现的场景，再通过模型推理，判断哪种情况最符合当前环境，并据此决定车辆应该如何应对。 IT之家注意到，这套技术还将使车辆能够接入全球各大无人驾驶出租车平台。这也是 May Mobility 坚持以合作伙伴为核心的商业模式的",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/c4b6105e-900e-473a-8c5e-b9639c8008e9.jpg",
+      "publishedAt": "2026-11-15T07:56:03.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "韩国税务师“状元”考生 160 题仅错 1 题，利用 AI 作弊惊动青瓦台",
+      "link": "https://www.ithome.com/1/027/357.htm",
+      "summary": "IT之家 11 月 15 日消息，据韩联社今日报道，韩国总统秘书室长（幕僚长）林光铉 15 日表示，针对今年税务师考试第一名利用微型摄像头和人工智能（AI）作弊一事，青瓦台将于当天下午召开由政策室长主持的会议，商讨应对措施。 这名考生此前因成绩异常突出受到质疑。税务师第一阶段考试共 160 道题， 他仅错一题 ，四门科目中三门满分。15 日，他向警方自首并承认，在税务师一、二试及注册会计师一试中，曾用微型摄像头拍摄考题传输给生成式 AI，再借助智能手机获取答案。 林光铉表示，青瓦台对此事高度重视。 鉴于韩国高考将于 19 日举行 ，有关部门正全力研究制定相关防范措施。 IT之家注意到，韩国第 63 届税务师考试第一名考生 A 某近日接受一名律师采访时，承认自己的作弊行为。A 某表示，他在考试中利用微型摄像头拍摄考试题目，再将照片发给 AI 查看答案。他声称自己在今年 4 月、7 月举行的第",
+      "image": null,
+      "publishedAt": "2026-11-15T07:55:52.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "日本京成电铁特急列车“京成 Skyliner”座位预约系统遭黑客攻击，致成田机场至东京上野旅客购票受阻",
+      "link": "https://www.ithome.com/1/027/356.htm",
+      "summary": "IT之家 11 月 15 日消息，日本京成电铁于 11 月 13 日发布公告，称往返成田机场与东京上野的特急列车「京成 Skyliner」座位预约系统于 11 月 11 日深夜遭到黑客非法访问，最多可能有约 337 万条用户个人信息泄露，涉及的信息包括用户 ID、密码、片假名姓名、电话号码及电子邮箱地址。 京成电铁表示，为防止进一步的安全风险， 公司已对官方网站进行紧急维护，并暂停多项 Skyliner 在线预约及购票服务 ，包括 Skyliner Ticketless Service、Skyliner e-ticket、人脸识别购票系统，以及通过旅行社购买 Skyliner 车票等渠道。目前整个座位预约系统均已停止运行，官方尚未公布具体恢复时间。 此次服务中断给往返成田机场与东京的旅客带来不便。由于线上预约和购票渠道全部暂停，乘客目前只能前往车站现场购票，导致京成上野站售票窗口前出现大量",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d0b899a4-a936-439f-94c9-a08f77a6c439.png",
+      "publishedAt": "2026-11-15T07:52:37.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "研究员破解 Switch 2 实现操控特斯拉：方向盘、油门、刹车都能控制",
+      "link": "https://www.ithome.com/1/027/355.htm",
+      "summary": "IT之家 11 月 15 日消息，特斯拉正努力让车主不再需要亲自操控方向盘，但与此同时，一些车主却在尝试用各种新奇方式重新掌握驾驶权。 汽车网络安全研究员马修 · 库卡尼奇（Matthew KuKanich）近日在 Reddit 上分享了一段视频，展示自己使用任天堂 Switch 2 手柄控制特斯拉汽车。库卡尼奇表示，这套系统能够让他全面控制车辆功能，包括方向盘、油门、刹车、转向灯、喇叭、挡位以及雨刮器。 库卡尼奇并没有直接破解特斯拉汽车，而是对 Switch 2 进行了越狱，并开发了一款名为 CAN Commander 的定制应用。该应用通过汽车的 CAN 总线向车辆发送控制指令。CAN 总线是汽车内部各个电子部件相互通信的网络。 库卡尼奇在 X 平台上解释说：“我为自己的特斯拉开发了定制版 Switch 2 软件，以及一套外部 CAN 控制系统。” 这款应用将车辆的各项功能映射到了 S",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/db29d017-eedc-4b38-a6ca-85866e6dcd26.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T07:49:22.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "消息称科技界预期黄仁勋将在硅谷“东山再起”，业内高管称多家公司有意伸出橄榄枝",
+      "link": "https://www.ithome.com/1/027/354.htm",
+      "summary": "IT之家 11 月 15 日消息，据美媒 Politico 引述多位硅谷高管及行业内部人士报道称，科技界普遍预期黄仁勋将在硅谷“东山再起”。 国防科技巨头 Anduril 创始人帕尔默 · 拉奇（Palmer Luckey）与 Perplexity AI 首席执行官阿拉温德 · 斯里尼瓦斯（Aravind Srinivas）已率先发声为黄仁勋辩护，埃隆 · 马斯克（Elon Musk）甚至放风称考虑将其招致麾下。 另有五名科技行业内部人士也向该媒体透露， 他们预计黄仁勋最终将以重磅姿态重返硅谷领导层 ；此外还有三人虽未如此笃定，但也表示若此事成真，他们丝毫不会感到意外。 “凭借他所创造的巨大价值，以及业界公认的‘AI 教父’地位，他迎来事业第二春几乎是必然的，”一位匿名的加州知名初创企业高管表示，“ 无论此前有过怎样的过失，大批超大规模云服务商和初创公司都在争先恐后地向他抛出橄榄枝，力邀他",
+      "image": null,
+      "publishedAt": "2026-11-15T07:47:49.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "免费犯罪沙盒游戏《ROB RUN》Steam 在线峰值破 41 万，玩家评价褒贬不一",
+      "link": "https://www.ithome.com/1/027/353.htm",
+      "summary": "IT之家 11 月 15 日消息，据 4Gamers 报道，开发团队 Kefir 推出的免费犯罪题材沙盒游戏《ROB RUN》 自 11 月 5 日以免费游戏形式登陆 Steam 抢先体验以来 ，迅速吸引大量玩家涌入，如今本作在线玩家峰值已达 418,021 人，创下历史新高，Steam 玩家评价数量也累计达到 41,127 条。不过，由于游戏平衡性等问题，目前整体评价为“褒贬不一”。 公开信息显示，《ROB RUN》采用开放世界玩法，玩家可以在一座最多容纳 5,000 名玩家的城市中活动，并选择加入罪犯或警察阵营。罪犯可以通过抢劫银行、袭击敌对帮派据点等方式获取资源，也可以组建帮派、争夺地盘。警察阵营则负责巡逻城市、追捕罪犯。不过，玩家辛苦收集的装备和资源随时可能被其他玩家抢走。 根据第三方平台 SteamDB 的统计数据，截至 11 月 15 日，《ROB RUN》过去 24 小时在线",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/2699464f-5542-47c4-bd0c-59f925cc1880.jpg",
+      "publishedAt": "2026-11-15T07:47:24.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "TGA 2026 入围名单 11 月 18 日凌晨公布，《GTA 6》将角逐年度游戏",
+      "link": "https://www.ithome.com/1/027/351.htm",
+      "summary": "IT之家 11 月 15 日消息，游戏行业年度颁奖盛会 The Game Awards（TGA）宣布，2026 年度各奖项入围名单将于北京时间 11 月 18 日凌晨 1 点正式公布。届时，TGA 创办人兼主持人杰夫 · 吉斯利（Geoff Keighley）将主持特别直播节目，揭晓今年获得提名的游戏、开发工作室及游戏创作者，其中包括最高荣誉「年度游戏」（Game of the Year，GOTY）的候选作品。 按照往年惯例，TGA 入围名单特别节目通常只持续约 10 分钟，年度游戏候选名单则安排在节目最后公布。随着今年的揭晓时间确定，玩家最关注的焦点之一是 11 月 19 日发售的《GTA 6》，以及 Switch 2 重制版《塞尔达传说：时之笛》能否成功入围。 参考 TGA 官方网站公布的评选规则，本届一般奖项的参选资格涵盖所有在北京时间 11 月 21 日凌晨 0 点前正式面向消费者",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/a0e9f42c-df95-4dbf-8390-b207eaca9117.png",
+      "publishedAt": "2026-11-15T07:41:53.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "买下特斯拉 Cybercab 还有一堆限制：禁止贴膜、改装，订阅费可能会变动",
+      "link": "https://www.ithome.com/1/027/350.htm",
+      "summary": "IT之家 11 月 15 日消息，购买特斯拉 Cybercab，面临的限制可能比购买普通特斯拉汽车多得多。除了 29,990 美元 （IT之家注：现汇率约合 20.1 万元人民币） 的购车费用，车主还必须订阅特斯拉每月收费 299 美元 （现汇率约合 2,000 元人民币） 的 Autonomy 自动驾驶服务。根据订阅协议，即使车辆已经付费买下，车主在使用过程中仍须遵守一系列规定。 特斯拉可以随时调整 Autonomy 订阅服务的价格。根据协议，特斯拉表示：“未来可能会调整你的订阅价格，但我们会提前一个月通知你。” 特斯拉也可以修改订阅协议条款。如果车主在条款变更后继续订阅，就意味着接受新的协议内容。 不过，价格调整也可能对车主有利。马斯克此前已经表示，每月 299 美元 （现汇率约合 2,000 元人民币） 的订阅费太贵，应该降至每月 115 美元 （现汇率约合 769.3 元人民币） ",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e82098cc-3b0d-4b38-8716-ee816d714550.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T07:39:56.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "消息称三星 One UI 9.5 系统将为多数自带应用带来智能体 AI 功能",
+      "link": "https://www.ithome.com/1/027/349.htm",
+      "summary": "IT之家 11 月 15 日消息，据科技媒体 Sammobile 昨天报道，三星 One UI 9.5 系统将为高端 Galaxy 手机和平板电脑带来系统级 AI 智能体， 进一步拓展 Galaxy AI 的能力 。 IT之家从原报道获悉，三星已在设计 Personal Agent Core 功能，旨在将 AI 助手与系统自带应用深度整合。与传统语音助手不同，它能够通过自然语言对话管理多步骤工作流程，并主动提供后续跟进服务。 例如，该功能可以将电子邮件、快递配送、预订信息整合在一个中心界面，为用户提供统一的每日信息概览，看起来像是 Now Brief 功能的自然延伸。用户不再只是查看日程安排，还可以让助手检查日历、向联系人安排见面、跟踪对方的回复，并在计划得到确认后自动将相关安排添加到日历应用中。 该功能还能够将谷歌和 One UI 应用结合操作，提取重要信息。通过整合联系人、电子邮件、消",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e98bc38b-1054-44c0-8675-71faed4bc67c.png",
+      "publishedAt": "2026-11-15T07:35:42.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "苹果 iPhone 20 Pro 屏幕盖板曝光：3D 四曲面设计、开孔尺寸缩小",
+      "link": "https://www.ithome.com/1/027/348.htm",
+      "summary": "IT之家 11 月 15 日消息，消息源 @i冰宇宙 发文，展示了苹果 iPhone 20 Pro 手机所用的屏幕盖板样品，相应盖板采用 3D 四曲面设计，同时 Face ID 和前置摄像头对应的开孔尺寸似乎也有所缩小。 苹果通常会在新款 iPhone 发布前一年左右敲定产品设计，因此 iPhone 18 Pro 发布后不久便出现新一代机型的盖板样品，并不令人意外。 不过，这并不意味着上述设计最终一定会投入量产。如果后续先进测试阶段出现问题，苹果仍可能调整设计方案。此前，苹果就曾搁置过一项更为激进的设计方案，该方案采用了面积更大的玻璃结构，但最终未能通过可靠性测试。 参考相应盖板设计，可以看出苹果 iPhone 20 Pro 有望引入近乎无边框的显示效果，此外新机可能还会搭载三星供应的 OLED 面板，在提升屏幕亮度的同时进一步降低面板厚度。 事实上，苹果为相应设计已经筹备了相当长时间。去",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0102fea7-2358-497c-ad1c-dc17d4502295.png",
+      "publishedAt": "2026-11-15T07:33:07.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "美国市场入门版特斯拉 Model Y 续航提升 8.5%，售价保持不变",
+      "link": "https://www.ithome.com/1/027/347.htm",
+      "summary": "IT之家 11 月 15 日消息，美国市场特斯拉入门版 Model Y 的续航能力迎来提升。根据特斯拉官网公布的信息，Model Y 后轮驱动版（RWD）的 EPA 预估续航里程已从 321 英里（约 517 公里）提高至 348 英里（约 560 公里），增幅约为 8.5%。不过，该车型售价保持不变，仍为 39,990 美元 （IT之家注：现汇率约合 26.8 万元人民币） （约合人民币 28.5 万元）。 这款车型就是特斯拉去年 10 月推出的 Model Y Standard。今年 2 月，特斯拉取消了车型名称中的“Standard”标识，同时推出售价 41,990 美元 （现汇率约合 28.1 万元人民币） 的四轮驱动版本。 除了续航数据更新，这款入门版 Model Y 的其他规格并未发生变化。车辆从静止加速至 60 英里 / 小时（约 97 公里 / 小时）仍需 6.8 秒，最高",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/360b5bbd-737d-416b-8f62-4c44678b3ddd.jpg",
+      "publishedAt": "2026-11-15T07:31:55.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "上汽大众傅强：新能源车明年下半年甚至有可能会超过 80% 的市场占比",
+      "link": "https://www.ithome.com/1/027/346.htm",
+      "summary": "IT之家 11 月 15 日消息，上汽大众汽车有限公司销售与市场执行副总经理、上海上汽大众汽车销售有限公司总经理傅强接受每日经济新闻采访时表示，新能源汽车购置税优惠政策将于 2027 年底到期，可能促使部分原计划 2028 年上半年购车的消费者提前释放需求。 我觉得明年可能会有一个 先抑后扬的市场发展走势 。从新能源的结构上来看， 明年下半年甚至有可能会超过 80% 的市场占比 。 IT之家注意到，乘联分会发布的 2026 年 10 月份全国乘用车市场分析 数据显示，10 月新能源车在国内总体乘用车的 零售 渗透率 67.5% ，较去年同期增长 10.5 个百分点，环比增长 0.5 个百分点。 对于汽车市场的整体表现，傅强表示，目前行业内存在不同预测，乐观情形下可能同比增长 3% 至 3.5%，中性情形下基本持平，悲观情形下则可能下降 3% 至 4%。 傅强坦言，如果汽车市场持续负增长，不",
+      "image": null,
+      "publishedAt": "2026-11-15T07:26:45.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "《GTA 6》即将发售，游戏虚构快餐品牌 Burger Shot 登陆佛罗里达现实门店",
+      "link": "https://www.ithome.com/1/027/344.htm",
+      "summary": "IT之家 11 月 15 日消息，《GTA 6》将游戏中的虚构世界进一步带入现实。随着发售日期临近，Rockstar Games（R 星）不断推出更具创意的宣传活动，让玩家提前感受这款期待已久的开放世界游戏。 据IT之家了解，Burger Shot 是《侠盗猎车手》（Grand Theft Auto）系列中最具代表性的虚构品牌之一，已经存在 20 多年。该品牌最早出现在《GTA：罪恶都市》中，此后一直延续到《GTA 5》。Burger Shot 本质上是对现实快餐连锁品牌的戏仿，不仅拥有夸张的广告宣传，菜单上的各种食品也颇具讽刺意味。 2026 年 10 月，Burger Shot 首次走进现实世界，在迈阿密热火队主场卡西亚中心（Kaseya Center）亮相。同场登场的还有《GTA》系列另一家知名虚构餐饮品牌 Cluckin' Bell。这次活动是 R 星围绕《GTA 6》展开的大规模",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e844768c-a56b-4274-925f-3719d6288104.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T07:23:33.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "爱好者将索尼 PS5 独占的 TGA 2024 年度游戏《宇宙机器人》移植到 PC 平台",
+      "link": "https://www.ithome.com/1/027/343.htm",
+      "summary": "IT之家 11 月 15 日消息，据外媒 ComputerBase 报道，近期有爱好者 imnotsharingmyname 将索尼 PS5 独占的 TGA 2024 年度游戏 《宇宙机器人（Astro Bot）》移植到 PC 平台，同时为相应版本加入了英伟达 DLSS、帧生成和 Reflex 等技术。 与近期出现的部分主机游戏 PC 移植项目类似，该项目并未通过模拟器运行游戏，而是将主机代码重新编译为原生 PC 代码运行，其中图形处理部分采用了从 KytyPS5 项目移植而来的 GPU 组件，负责处理 AGC 命令数据、着色器和 VideoOut 等内容，并将图形指令转换为 Vulkan 指令。 此外，该爱好者还为移植版加入了英伟达专用适配层，可在运行时识别游戏原本采用的时域升频处理流程，并通过 Vulkan 将颜色、深度信息、运动矢量、抖动数据及摄像机矩阵等参数，经由 NVIDIA S",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/78ec2108-cba4-4dc5-be16-634b5b0d575c.png",
+      "publishedAt": "2026-11-15T07:16:23.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "日媒：微软 Microsoft 365 服务宕机时，不少企业只能重新启用传真机",
+      "link": "https://www.ithome.com/1/027/342.htm",
+      "summary": "IT之家 11 月 15 日消息，据《日本时报》报道，当地时间 13 日上午，日本许多员工打完卡、准备开电脑工作时，屏幕上却弹出了 Microsoft 365 无法访问的提示。许多人不得不重新安排会议、日程，工作受到干扰。 一名用户在 X 平台发帖称：“我打不开 Outlook，当时一下子慌了…… 我联系了老板，结果被告知今天待在家里。”；另一名用户写道：“我们集团所有公司都深度依赖微软系统…… 现在唯一能做的就是去生产车间清理咖啡机。” IT之家从原报道获悉，日本许多企业都依赖微软提供的数字基础设施。Keyman's Net 去年的一项调查显示，超 78% 受访者所在的企业都在用微软产品。 日本内阁官房副长官尾崎正直已确认，日本政府信息系统受到此次故障影响。大型信用卡发行商 Credit Saison 发布通知称，由于外部服务发生系统故障，通过咨询表单收到的请求，回复时间将有所延迟。九州",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/bba7c85e-3a25-4a51-92f5-076c3b81c521.jpg",
+      "publishedAt": "2026-11-15T07:12:19.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Pura X“实锤”登陆 PC：华为何刚揭秘 MateBook Fold S 小折电脑 Live 小方屏玩法",
+      "link": "https://www.ithome.com/1/027/341.htm",
+      "summary": "IT之家 11 月 15 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 已于昨日 10:08 正式开启预订。该机折叠态 10.2 英寸、展开态 14.7 英寸，会在 11 月 24 日 17:00~11 月 25 日 17:00 支付尾款，支持 12 期 0 分期利息购买。 华为董事、终端 BG CEO 何刚今日发布视频，介绍了这款电脑更多配置信息。他表示， 很多用户特别喜欢 Pura X 的外屏体验 ，所以华为一开始设计的时候就在思考能不能改变传统电脑的设计思路，给电脑开发一块外屏。 于是，华为 MateBook Fold S 在形态上做了创新，设计一块 Live 小方屏，不用展开电脑，支持随时看日程、看消息、刷社媒等操作，同时锁屏状态下还支持直接开启小艺慧记等功能。同时，电脑展开又拥有一块 14.7 英寸大屏，更适合写文档、看电影等场景使用。 据IT之家今日早些时候报",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/22a1b183-b834-46bf-a880-39ad2c5c2c4d.jpg",
+      "publishedAt": "2026-11-15T07:11:41.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "谋先飞 Motphys 发布物理仿真引擎 MotrixSim 1.0，核心采用 Rust 开发",
+      "link": "https://www.ithome.com/1/027/340.htm",
+      "summary": "IT之家 11 月 15 日消息，谋先飞（Motphys）新一代物理仿真引擎 MotrixSim 1.0 昨日正式发布。 据介绍，MotrixSim 是一个 高性能的物理仿真引擎 ，专为多体动力学和机器人仿真设计，支持广泛的应用场景，包括机器人控制、强化学习、工业仿真等。主要特性如下： 物理仿真：支持刚体动力学、碰撞检测等完整的物理仿真功能 广义坐标建模：采用广义坐标系统，支持复杂的多体系统建模 全新求解器：采用自研的约束模型和求解器，提供高效、稳定的多体动力学计算 高性能计算：CPU 版本基于 Rust 开发，提供出色的性能和内存安全性 Python API：简洁易用的 Python 接口，便于快速开发和原型制作 机器人支持：专门优化的机器人仿真功能，高度兼容 MJCF 模型格式 官方表示，MotrixSim 将真实世界的物理参数 1:1 复刻进仿真环境中，结合多模态传感器与高保真渲染，",
+      "image": null,
+      "publishedAt": "2026-11-15T07:11:00.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "黄仁勋辞任英伟达 CEO，AI 初创企业融资面临变局",
+      "link": "https://www.ithome.com/1/027/339.htm",
+      "summary": "IT之家 11 月 15 日消息，这是一场震动全球科技行业的人事变动。执掌英伟达 33 年、共同创立这家芯片巨头的首席执行官黄仁勋（Jensen Huang）已正式辞职。TechCrunch 援引一位新兴云计算公司的创始人的话称，他第一次听到这一消息时的反应是：“这就像一颗炸弹突然爆炸了。” 过去几年，英伟达一直是科技初创企业的重要投资者，每年向初创公司投入数百亿美元。根据 PitchBook 的数据，仅今年一年，英伟达就参与了 105 轮融资，而且经常担任最大投资方。 Relational Capital 创始人玛丽亚 · 戴维森（Maria Davidson）表示：“如果英伟达改变这一方向，对许多年轻公司来说都将是一个沉重打击。” 多位投资者认为，黄仁勋的离开意味着初创企业生态系统失去了一位最重要的支持者，短期内也将面临资金大幅减少的问题。这可能对融资交易、企业估值、资金供给乃至行业竞",
+      "image": "https://img.ithome.com/newsuploadfiles/2025/9/1562f93a-f0f8-4fa7-95b3-912803ba3a84.png?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T07:10:41.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "微软 XBOX 旗下游戏工作室 InXile 办公楼遭枪击，警方已逮捕一名嫌疑人",
+      "link": "https://www.ithome.com/1/027/337.htm",
+      "summary": "IT之家 11 月 15 日消息，据外媒 Kotaku 报道，微软旗下 XBOX 游戏工作室 InXile Entertainment 位于美国加利福尼亚州塔斯廷市的办公楼于当地时间 11 月 11 日下午 1 时 10 分左右遭遇一起驾车枪击事件，建筑受到多发子弹击中，现场还发现了 5 至 8 个弹壳，所幸没有人员受伤。 Kotaku 进一步了解到，子弹击中了 InXile Entertainment 所在办公楼的底层。警方一度调查工作室是否为此次枪击事件的目标，但目前尚未确认这一可能性。 InXile Entertainment 发言人向 Kotaku 表示：“我们很庆幸 InXile 办公室没有人员受伤。目前，我们的工作重点是为团队成员提供支持，并正与执法部门密切合作，配合相关调查。” 塔斯廷警方于 11 月 13 日，即枪击事件发生两天后逮捕了一名嫌疑人，但尚未查明事件动机。塔斯廷",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/deb5f4bc-b476-4258-bda0-748b53c95468.png",
+      "publishedAt": "2026-11-15T07:05:25.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "华为 WATCH 5 智能手表从鸿蒙 HarmonyOS 7 适配清单暂时移除",
+      "link": "https://www.ithome.com/1/027/336.htm",
+      "summary": "IT之家 11 月 15 日消息，华为官网最新信息显示， 鸿蒙 HarmonyOS 7 系统更多机型从公测转为正式版 ，覆盖 nova 12 / 13 系列、畅享 70X 等手机。MatePad Pro 13.2 英寸 2023 系列平板等产品仍处于公测阶段。 IT之家注意到，HarmonyOS 7 适配机型清单暂时移除了华为 WATCH 5 和 ULTIMATE DESIGN 星钻绽放款智能手表。 今年 10 月底，华为 WATCH 5 系列、ULTIMATE DESIGN 星钻绽放等手表开启 HarmonyOS 7 花粉 Beta 版招募。随后 7.0.0.107 SP18 版本开启推送，新增 AI 通话降噪、同步手机地震预警消息等功能。但据用户反馈，部分设备在更新该版本后出现 BUG，因此版本升级活动暂缓。 华为官方 11 月 11 日发布《HUAWEI WATCH 5 系列 Har",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9dc24209-6cb2-41e5-a16f-8c8399454b95.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T07:01:57.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "苹果为老款 Apple Watch 机型推送 watchOS 26.6.1 版本，聚焦修复安全漏洞",
+      "link": "https://www.ithome.com/1/027/335.htm",
+      "summary": "IT之家 11 月 15 日消息，苹果于当地时间 11 月 9 日为 Apple Watch Series 6、Series 7、Series 8、Apple Watch SE（第二代）和 Apple Watch Ultra 机型发布 watchOS 26.6.1 系统更新（版本号 23U95），主要修复了多项安全漏洞。 根据苹果公布的安全公告，其中一项漏洞涉及 AirPlay，编号为 CVE-2026-113968，攻击者在蓝牙通信范围内可能绕过配对验证码尝试次数限制。苹果通过改进状态管理机制修复了这一逻辑问题。 苹果还修复蓝牙组件中一项编号为 CVE-2026-113970 的释放后使用（Use-after-free）漏洞。攻击者在蓝牙通信范围内可能利用该问题破坏进程内存，苹果已通过改进内存管理机制完成修复。 此外，苹果还修复了 CoreUtils 组件中的两项漏洞。其中，CVE-20",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/bbf29a05-0edc-4edc-998b-f509af789e73.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T07:00:45.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "飞利浦推出 100 英寸 The One QLED 电视：支持 Ambilight 灯光系统、三面配备 LED 氛围灯带",
+      "link": "https://www.ithome.com/1/027/334.htm",
+      "summary": "IT之家 11 月 15 日消息，飞利浦宣布扩展旗下 The One QLED 系列产品线，新增 100 英寸版本（具体型号为 100PQS9001），该机采用 4K 分辨率面板、直下式 LED 背光，支持最高 144Hz 刷新率，并配备 Ambilight 灯光系统和四个 HDMI 2.1 接口。 飞利浦表示，该电视机身三侧均布置 LED 氛围灯带，可根据屏幕画面将对应色彩投射到电视后方的墙壁上，同时还支持飞利浦今年推出的最新 AmbiScape 功能，可将灯光效果与飞利浦 Hue、宜家及 WiZ 的无线智能灯具同步。 其他规格方面，100PQS9001 支持 Dolby Vision 2、HDR10 和 HDR10+。音频方面，该机能够解码 Dolby Atmos 和 DTS:X 音频，并搭载 Titan OS 智能电视系统，内置 Alexa 语音助手。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/cb837c62-db7a-438c-9307-24e56d253d41.png",
+      "publishedAt": "2026-11-15T06:56:18.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Stellantis 获新型电动拖车专利，利用 AI 助力让普通小车也能拖挂房车",
+      "link": "https://www.ithome.com/1/027/332.htm",
+      "summary": "IT之家 11 月 15 日消息，据外媒 electrek 报道，Stellantis 近期获得了一项颇具创意的电动拖车装置专利，计划通过搭载电机、电池及 AI 辅助控制系统的电动拖车底盘，让几乎任何车型都具备拖挂能力。 据报道，这项专利最初于 2023 年提交，Stellantis 已于 2026 年 11 月 3 日正式获得美国专利号 US 12779916。专利主要描述了一种电动拖车装置，可以通过自身的球头挂钩或第五轮牵引盘承担拖车连接及部分垂直载荷，同时利用内置电机和电池为拖车提供驱动力。此外， 相应装置还配备能量回收制动系统，以及由 AI 辅助的转向和牵引力控制系统，确保拖车行驶过程中保持稳定 。 Stellantis 还在专利文件中明确描述了这套拖车装置的自动控制系统，其中包括摄像头、传感器、控制器及四轮线控转向系统。由于拖车本身拥有独立的加速、制动和转向能力，这意味着包括菲亚",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e28e76b8-b544-4caf-a63b-3b20100f3526.png",
+      "publishedAt": "2026-11-15T06:50:54.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "消息称欧盟拟推迟对英国产电动汽车征收 10% 关税",
+      "link": "https://www.ithome.com/1/027/331.htm",
+      "summary": "IT之家 11 月 15 日消息，据金融时报报道，知情人士透露，欧盟计划推迟对来自英国的电动汽车征收 10% 的关税。 欧盟正就相关提案征询业界意见，拟推迟原定于明年 1 月 1 日起对大多数电动汽车加征 10% 关税的措施。 英国脱欧后与欧盟达成的协议规定，电动汽车若要享受零关税待遇，其价值中至少须有 55% 产自欧盟或英国，其中电芯和电池模组的本地价值占比须达到 65%，电池包须达到 70%。 未达到上述标准的电动汽车将面临 10% 的进口关税。不过，欧盟已于 2023 年底提议将这一收紧后的原产地规则推迟三年实施。 待该三年宽限期届满后，自 2027 年 1 月起，“脱欧”后相关规则将正式生效，届时英国与欧盟之间贸易往来的纯电动汽车和插电式混合动力汽车中， 预计将有 70% 的车型被征收 10% 的关税 。 英国主要汽车行业游说团体 —— 英国汽车制造商和贸易商协会今年 6 月曾发出",
+      "image": null,
+      "publishedAt": "2026-11-15T06:49:50.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "领克 900L SPA Evo 数字架构明日发布：2.0T 插混大七座 SUV，预计年底上市",
+      "link": "https://www.ithome.com/1/027/329.htm",
+      "summary": "IT之家 11 月 15 日消息，领克汽车今日宣布，领克汽车超纲安全公开课暨领克 900L SPA Evo 数字架构发布将于 08:50-12:00 举行。该车预计将于 2026 年底正式上市，搭载 2.0T 插混系统，CLTC 纯电续航为 320km/430km，综合油耗 0.26L/100km。 这款旗舰大七座 SUV 于 11 月 11 日进行了全球首秀，长宽高分别为 5280/1999/1810mm， 轴距 3170mm 。相比领克 900 车长增加 40mm，车高与轴距各增加 10mm，车宽保持不变。 其外观延续家族分体式灯组轮廓，前脸将大灯与中央饰板整合为一体式结构，车尾贯穿式 LED 尾灯中央嵌入可发光的“LYNK&CO”标识。车顶前部集成激光雷达，车身侧面采用半隐藏式门把手。 座舱内部采用浅色内饰基调， 前排提供双 30 英寸屏幕 ，搭配 31 扬声器哈曼卡顿音响系统。中控",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1c86fb0d-f81b-4ed1-9750-6f152f253de0.jpg",
+      "publishedAt": "2026-11-15T06:48:01.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "《我的世界》将迎来回旋飞盘武器，基岩版解锁完整副手功能",
+      "link": "https://www.ithome.com/1/027/328.htm",
+      "summary": "IT之家 11 月 15 日消息，虽然这次并不是正式的《我的世界》Live 发布会，但在当地时间周六举行的 TwitchCon 直播活动中，开发商 Mojang 还是公布了几项游戏后续更新计划，介绍了未来将通过 Game Drop 更新加入游戏的新内容。 IT之家注意到，《我的世界》目前已经提供了不少武器选择，但远程武器的种类一直比较有限。此前，玩家只能使用弓、弩和三叉戟等武器攻击远处的敌人。虽然冰球即将在今年 12 月作为全新道具加入游戏，但 Mojang 今天又公布了一款即将推出的新武器：投掷飞盘（Throwing Disc）。 这款武器最有意思的地方在于，它具有自动返回机制。与回旋镖类似，玩家将飞盘投掷出去后，它会在飞行一段距离后返回手中。从目前展示的效果来看，飞盘的有效投掷距离似乎比较有限，但它可以在坚硬的表面之间反弹，从而延长飞行时间。 此外，飞盘还能直接穿过敌对生物。这意味着，",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e377a271-ccc7-4bf2-a852-ce6beb693b96.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T06:46:46.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "洛图科技：2026 年三季度中国闺蜜机市场全渠道销量 5.4 万台，同比下降 22.9%",
+      "link": "https://www.ithome.com/1/027/327.htm",
+      "summary": "IT之家 11 月 15 日消息，据洛图科技今日公布数据，2026 年第三季度，中国移动智慧屏（俗称闺蜜机）市场的全渠道销量为 5.4 万台， 同比下降 22.9% ；销售额为 2.3 亿元，同比下降 14.0%。均价为 4240 元，同比增长 11.5%，环比第二季度上涨 6.1%。 ▲ 2025-2026Q3 中国移动智慧屏市场销量及变化 IT之家从洛图科技公众号获悉，闺蜜机销量和销额的降幅相差达到近 9 个百分点，说明市场并非单纯的缩量。该机构认为，均价上行除了反映成本上行所推动的售价上涨之外， 还反映出了产品结构向上的迁移 。事实上，4K、长续航等高规格机型 Q3 成交占比显著提升，有效带动了整体客单价走高。 Q3 线下渠道的销售占比有所提升。数据显示，闺蜜机线下销量的占比为 26.3%，同比提升 3.3 个百分点，环比提升 0.9 个百分点；销售额的占比为 27.5%，同比提升 ",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/f401310a-c148-4638-8346-a9a05e3824dc.png",
+      "publishedAt": "2026-11-15T06:45:20.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "经典动作游戏《超级肉肉男孩》高清重制版《Super Meat Boy Again+》公布，将加入全新关卡和隐藏内容",
+      "link": "https://www.ithome.com/1/027/326.htm",
+      "summary": "IT之家 11 月 15 日消息，开发团队 Team Meat 宣布将推出经典游戏《超级肉肉男孩（超级食肉男孩，Super Meat Boy）》的高清重制版《Super Meat Boy Again+》，不过目前相应游戏具体上市时间尚未公布。 公开信息显示，《超级肉肉男孩》前身是一款 2008 年推出的 Flash 游戏，作品讲述了主角 Meat Boy 为了从 Dr. Fetus 手中救出 Bandage Girl，穿越重重危险关卡的故事。玩家需要在超过 300 个高难度关卡中不断奔跑、闪避，并利用墙壁跳跃躲避各种致命陷阱。 《Super Meat Boy》曾在当年取得巨大成功。联合创作者 Edmund McMillen 随后于 2011 年推出了人气更高的《以撒的结合》，并在今年早些时候推出 Roguelike RPG 游戏《Mewgenics》。另一位创作者 Tommy Refene",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b306a25e-9f66-4352-8903-bdadb2c2dfd1.png",
+      "publishedAt": "2026-11-15T06:44:06.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "微软 2026 最严重宕机重创全球行业，部分客户寻求费用补偿",
+      "link": "https://www.ithome.com/1/027/325.htm",
+      "summary": "IT之家 11 月 15 日消息，微软近期发生的大规模全球服务中断持续近一天，不仅影响 Outlook、Exchange、SharePoint 等自家服务，还波及其他关联平台。如今，部分受影响客户正寻求向微软申请服务费用补偿，要求该公司为此次故障造成的损失承担相应责任。 综合 Neowin 报道，目前许多客户集中在 Reddit 论坛 r/msp 板块的一篇帖子中，要求微软为此次服务故障付出相应的经济代价，呼吁受影响的客户提交服务级别协议（SLA）补偿申请，相应客户其应当将相关故障编号、客户租户 GUID，以及能够证明服务中断的材料通过客户自身企业域名提交给 Microsoft Partner Center 。 参考微软公布的故障编号。其中 EX1550543 对应 Exchange Online 服务故障，主要影响 Outlook 邮箱访问及电子邮件收发；MO1550821 则涉及更大范",
+      "image": null,
+      "publishedAt": "2026-11-15T06:38:47.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "失落 20 年的任天堂 DS 宝可梦游戏《PokéPark: Tsuri Taikai》重现，全球唯一可运行卡带现身",
+      "link": "https://www.ithome.com/1/027/324.htm",
+      "summary": "IT之家 11 月 15 日消息，据 IGN 报道，一名收藏爱好者 Daniel Quadri 近期意外获得了一份极为罕见的宝可梦游戏收藏品，即“目前已知唯一一份能够正常运行的任天堂 DS 游戏”《PokéPark: Tsuri Taikai》（PokéPark:Fishing Rally）。这款游戏曾于 2005 年限时提供下载，此后长期被视为失落的宝可梦游戏作品。 公开信息显示，《PokéPark: Tsuri Taikai》也被称为《PokéPark: Fishing Rally》，是一款任天堂 DS 独占小游戏，仅面向 2005 年夏季前往日本名古屋限时主题公园 PokéPark 的现场游客开放。 本作玩法类似集章活动，也有些类似早期的《Pokémon Go》，玩家可以在占地规模接近美国开市客超级市场停车场的主题公园内四处探索，捕捉各种水属性宝可梦。 这款游戏最初只能通过任天堂 D",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/c88cfabb-f34a-4a49-8744-f4689f78f1d3.png",
+      "publishedAt": "2026-11-15T06:31:35.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "GDC 调查：40% 游戏产业从业者在使用 AI，55% 对其持批评态度",
+      "link": "https://www.ithome.com/1/027/323.htm",
+      "summary": "IT之家 11 月 15 日消息，游戏开发者大会（GDC）近日发布《游戏行业现状：2026 年 11 月》，对 2600 多名游戏产业从业者进行调查，其中 40% 受访者表示，他们会在工作中使用生成式 AI。 据介绍，在使用 AI 的受访者中，57% 称他们每天都会使用相关工具。但问题在于，游戏行业人士对 AI 的态度都比较谨慎。55% 受访者认为，生成式 AI 对游戏行业产生了负面影响，另有 35% 认为喜忧参半，只有 8% 的受访者给出了正面评价，与上一轮调查相比没太大变化。 同时 73% 的 AI 使用者表示，他们会将 AI 用于资料调研、头脑风暴，62% 人士将其用于分析和内容总结，56% 的使用者会借助相关工具编写和检查代码。相比之下，AI 在创意工作中的应用要少得多。只有 22% 的使用者会利用 AI 制作概念图或构思视觉创意。 此外，受访者们最担心 AI 产生的版权问题、取代",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b9b78aad-c401-47f3-b209-898be182b32e.jpg",
+      "publishedAt": "2026-11-15T06:28:57.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "R 星《GTA6: The Album》官方原声专辑完整歌曲列表意外曝光，原定 11 月 19 日才公开",
+      "link": "https://www.ithome.com/1/027/322.htm",
+      "summary": "IT之家 11 月 15 日消息，据 IGN 报道，一家“疑似为 Barnes & Noble”的经销商已经提前展示《Grand Theft Auto VI：The Album》双 LP 黑胶唱片的包装，导致专辑内全部歌曲及演唱者名单曝光，相应专辑原定于 11 月 19 日才会正式上架开放购买，定价为 50 美元 （IT之家注：现汇率约合 334.5 元人民币） 。 需要注意的是，此次曝光的《Grand Theft Auto VI：The Album》与 法国电子音乐组合 Justice 制作的《Grand Theft Auto VI：Original Score》 并非同一张专辑。后者由获得格莱美奖的 Justice 负责制作，同样计划推出实体版本，发行日期定于 2026 年 12 月 11 日。 目前，外媒 Rolling Stone 也通过消息人士确认了这份曲目列表真实性，IT之家整",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/14bd27eb-4990-40ea-9430-c9049df863fe.png",
+      "publishedAt": "2026-11-15T06:23:24.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "中科曙光万伟：高速互连是破解算力集群规模瓶颈的关键",
+      "link": "https://www.ithome.com/1/027/320.htm",
+      "summary": "IT之家 11 月 15 日消息，据界面新闻报道，11 月 15 日，在第八届中国超级算力大会（ChinaSC 2026）暨中国智能计算产业联盟理事会年会上，中科曙光高速网络互联产品部总工程师万伟提出高速互连是算力基础设施实现规模扩展的关键，需要通过系统级创新，让更大规模的计算资源高效协作。 万伟表示，中科曙光自研的 scaleFabric 高速网络将组网架构与通信优化相结合，减少计算资源之间的通信等待，并通过故障快速恢复降低网络异常对任务执行的影响，保障超大规模智算集群高效运行。 据IT之家 2026 年 3 月报道，中科曙光 3 月 12 日发布首款全栈自研 400G 无损高速网络 scaleFabric，官方称其从底层 112G SerDes IP、交换与网卡芯片到整机、驱动及管理软件均实现自主研发。 据官方公布信息，scaleFabric400 网卡端口带宽达 400Gbps，端到",
+      "image": null,
+      "publishedAt": "2026-11-15T06:17:25.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "彭博社澄清“《GTA6》在线模式明年末推出”传闻：视频脚本有误，消息不实",
+      "link": "https://www.ithome.com/1/027/319.htm",
+      "summary": "IT之家 11 月 15 日消息，彭博社于 11 月 13 日在 YouTube 上发布了一段视频，主要探讨了《GTA6》开发过程，然而视频在结尾时称“2026 年发售的游戏甚至还不是它的最终形态。真正的长期驱动力将在一年后随多人游戏模式到来”，对此，粉丝们认为相应视频暗示《GTA6》在线模式将于 2027 年年末推出。 目前， 彭博社记者 Jason Schreier 发文，称视频脚本有误，所谓“《GTA6》在线模式将于 2027 年年末推出”的消息不实 。 IT之家注意到，截至目前，R 星尚未正式确认《GTA 6》存在对应的多人在线模式。此前该工作室曾明确表示，《GTA 6》发售时将是一款“单人游戏”，未来 R 星可能延续《GTA 5》的做法，将游戏单人剧情模式和在线模式分开运营。 作为参考，《GTA 5》本身也并非首发即提供多人模式，本作于 2013 年 9 月 17 日发售，而《G",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ad2fab11-de37-438d-9d3d-56b19b179b11.jpg",
+      "publishedAt": "2026-11-15T06:14:14.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "美国迈阿密国际机场发生客机与货机相撞事故，造成 2 人轻伤",
+      "link": "https://www.ithome.com/1/027/318.htm",
+      "summary": "IT之家 11 月 15 日消息，据 CNN 报道，当地时间 11 月 14 日晚，在迈阿密国际机场的停机坪上，两架飞机发生了相撞。而就在一天前，全美范围内的航班停飞导致了大量航班被取消，旅行秩序严重混乱。 IT之家从报道获悉，两架飞机是在滑行时相碰，一架巴拿马航空波音 737 的翼尖撞上一架 UPS 波音 767 的机头。据美国联邦航空管理局（FAA）通报，碰撞发生在两架飞机滑行过程中，塔台管制员此前已指示 UPS 机组避让巴拿马航空的航班，该局正在调查这起事故。 迈阿密国际机场传播总监 Greg Chin 向 CNN 表示，事故发生于当晚约 9:15， 2 名伤者伤势轻微 ，已由消防和救援人员在现场处理。 一名巴拿马航空乘客描述，飞机落地后以正常速度滑行，突然周围说话声变大，随后是一片惊呼，接着另一架飞机撞了上来；客舱内飞机猛地横向一顿，部分乘客一度慌乱，机组迅速让大家保持坐姿。 巴拿",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/45536724-3051-4967-8fc5-3024c69a5dca.png",
+      "publishedAt": "2026-11-15T06:11:12.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "华为星芒 OSTA O1 Pro 新机包装盒曝光，新品牌 11 月 20 日首秀",
+      "link": "https://www.ithome.com/1/027/317.htm",
+      "summary": "IT之家 11 月 15 日消息，博主 @宁静的哲理 今日曝光了华为星芒 OSTA O1 Pro 新机的包装盒。 画面显示，包装盒印有 OSTA 的英文标识和华为图形 LOGO，并揭示新机预装了鸿蒙 HarmonyOS 系统。博主还透露，新机不支持无线充电和卫星通信，采用普通双卡设计。 据IT之家此前报道，华为旗下全新品牌“OSTA 星芒手机”官方微博账号 11 月 12 日发布了其第一条内容，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东不久后转发了这条微博。 余承东表示：“欢迎“星”朋友！看到大家对 OSTA 星芒#的关注和期待， 我们希望通过这个全新品牌，探索更多 AI 新可能 ！11 月 20 日发布会，我们接着聊！” 相关阅读： 《 关海涛欢迎华为推子品牌星芒：这件事最大的意义，就是让大家知道荣耀是荣耀 》 《 华为余承东：希望通过 OSTA 星芒全新品牌，探索更",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/a7b0ac86-0eeb-43f5-b118-f1ce8f2141d4.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-15T06:09:43.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "谷歌 Pixel 系列手机 11 月更新后出问题：屏保无法进入低亮度模式",
+      "link": "https://www.ithome.com/1/027/316.htm",
+      "summary": "IT之家 11 月 15 日消息，据科技媒体 Android Authority 前天报道，谷歌为 Pixel 系列手机推出的 11 月大型更新似乎出现多项故障，据多名用户反馈，他们的手机充电时显示的屏保不再自动调暗。 IT之家从原报道获悉，谷歌 Pixel 系列手机的屏幕保护程序允许屏幕自动调暗，用户可以设置仅充电时、手机竖直放置并充电时，或仅在无线充电时启用屏保。考虑到很多人习惯在夜间给手机充电，屏保配套的低光照模式是相当实用的功能。 然而许多用户在谷歌支持论坛和 Reddit 表示，他们的手机安装 11 月更新后，屏幕保护程序就无法进入低亮度模式。更有用户发现，即使手动调低亮度也无法解决问题， 因为屏幕亮度会逐渐恢复到原来的水平 。 截至目前，谷歌公司暂未就此事作出回应。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6559ab32-733b-44d1-9d47-008e988e4d4e.jpg",
+      "publishedAt": "2026-11-15T06:08:59.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Epic CEO 炮轰“Steam 强制要求游戏标注 AI 使用情况”，称开发公司不接受 AI 将丧失竞争力",
+      "link": "https://www.ithome.com/1/027/315.htm",
+      "summary": "IT之家 11 月 15 日消息，Epic Games 首席执行官蒂姆 · 斯威尼（Tim Sweeney）在接受外媒 GamesBeat 采访时，认为 Valve 要求开发者在 Steam 平台中“标注 AI 使用情况”的做法不合理。 斯威尼表示，大型游戏开发商（独立游戏开发者及其细分领域不在此列）未来将因 AI 技术发生彻底改变。 如果开发团队拒绝采用 AI，必然会被竞争对手甩在身后，最终因成本效率问题失去竞争力，甚至无法继续经营 。 他进一步指出，如果一支团队能够以其他团队四分之一的成本或时间完成同样的游戏，而未来这一效率差距甚至可能扩大到 10 倍，那么传统开发模式将很难与之竞争。 斯威尼认为，游戏公司已经没有忽视这些工具的余地。他表示，游戏开发商并没有高达 75% 至 95% 的利润率，能够承受因生产效率不足而带来的竞争风险。 对于 Valve 要求开发者披露 AI 使用情况的政",
+      "image": null,
+      "publishedAt": "2026-11-15T06:04:52.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Godot 4 入门教程：主角碰撞基础、获取节点",
+      "link": "https://indienova.com/indie-game-development/liangxie-beginners-guide-to-godot-and-gdscript-part-11/",
+      "summary": "凉鞋的Godot 4 入门教程：跟着示例学 Godot & GDScript",
+      "image": null,
+      "publishedAt": "2026-11-15T06:00:00.000Z",
+      "sourceId": "indienova",
+      "sourceName": "indienova",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "实况平台 Twitch 联动《GTA 6》推出限定活动，将赠送超 1 万组游戏激活码",
+      "link": "https://www.ithome.com/1/027/313.htm",
+      "summary": "IT之家 11 月 15 日消息，Twitch 宣布将配合 Rockstar Games 旗下新作《GTA 6》发售推出一系列限定活动，从游戏正式发售的 11 月 19 日起至月底，平台将每天向观众赠送游戏激活码，总量将“超过 1 万组”。 此外，Twitch 还将于 11 月 18 日开启《GTA 6》主题 Twitch Drops 活动，玩家可以通过观看直播、订阅频道等方式收集限定徽章和表情。 除了游戏激活码，Twitch 还将于 11 月 18 日至 30 日推出《GTA 6》主题 Drops 活动。玩家通过观看指定直播频道以及订阅频道，可以获得多款限定徽章和表情。其中，购买新的定期订阅或赠送订阅可以解锁《GTA 6》主题订阅奖励，但 Prime Gaming 订阅不参与此次活动。 Twitch 还将为参与活动的《GTA 6》直播频道推出特别版“发烧列车（Hype Train）”效果",
+      "image": null,
+      "publishedAt": "2026-11-15T05:59:38.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
+      "link": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
+      "summary": "These sci-fi miniseries accomplish so much within 12 or less episodes.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mv5bnwyzmda5mjqtzmnlns00nwrllwexmtqtogexowmwnjq2ntexxkeyxkfqcgc-_v1_.jpg",
+      "publishedAt": "2026-11-15T05:00:18.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
+      "link": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
+      "summary": "The latest Tomb Raider remake gameplay deep dive gives a look at controversial RPG elements in Legacy of Atlantis",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tomb-raider-legacy-of-atlantis-lara-croft.jpg",
+      "publishedAt": "2026-11-15T03:14:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
+      "link": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
+      "summary": "The Legend of Zelda: Ocarina of Time is a good reminder that the Zelda universe has more great villains than Ganon.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-twinrova-fire.jpg",
+      "publishedAt": "2026-11-15T03:00:27.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "9 Giant-Sized Changes Marvel Made to Ant-Man After Edgar Wright Left",
+      "link": "https://www.polygon.com/edgar-wright-ant-man-script-differences/",
+      "summary": "Wright left Ant-Man in 2015, citing differences with Marvel. Here’s how his film would have been different",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24465365/AntManWaspAnts.jpeg",
+      "publishedAt": "2026-11-15T02:00:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "【会员抽奖】原作者执导，原版演员回归！游戏版《东北往事》登陆主机平台",
+      "link": "https://www.gcores.com/articles/222316",
+      "summary": "由 NiuGamer 发行、二狗科技开发的真人互动影视作品《东北往事》（DONGDA Gangster）现已正式登陆 Xbox 与 PlayStation 5 平台，Nintendo Switch 版将于11月26日正式发售。游戏将玩家带回上世纪80、90年代暗流汹涌的中国东北街头，在这个新旧秩序交替的时代，你将扮演主角赵红兵，在兄弟义气、地盘争夺与红颜羁绊的漩涡中，走出独属于你的江湖之路。 PlayStation游戏页面： https://store.playstation.com/zh-hans-hk/concept/10019990 XBOX游戏页面： https://www.xbox.com/zh-HK/games/store/5p2x5yyx5b6a5lql/9n3f6w0jdmwj 【金牌班底，原味再造】 本作深度改编自孔二狗所著的国民级畅销小说《东北往事之黑道风云20年》（全",
+      "image": "https://image.gcores.com/0961fd8d2ffed891082ce06791f72f48-1267-713.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "publishedAt": "2026-11-15T02:00:00.000Z",
+      "sourceId": "gcores",
+      "sourceName": "机核",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
     {
       "title": "Stephen King’s Underrated 1980 Horror Thriller Gets New Prime Video Adaptation",
       "link": "https://www.polygon.com/stephen-king-prime-video-crouch-end-tv-show/",
@@ -155,61 +911,6 @@
       "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
-    },
-    {
-      "title": "华为 Mate X 系列折叠屏走过第八年，余承东官宣 Mate X8 新机“就要来了”",
-      "link": "https://www.ithome.com/1/027/272.htm",
-      "summary": "IT之家 11 月 15 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，回顾了华为 Mate X 系列折叠屏手机走过的岁月， 并宣布 Mate X8 新机“就要来了” 。 今年是华为 Mate X 系列走过的第八年。从最初少数用户尝鲜，到如今成为越来越多用户的主力机，折叠屏一步步走进日常，也陪伴大家记录了许多重要时刻。感谢大家一路以来的选择和支持！每一份信任，都是我们继续创新、不断进步的动力 [抱拳] 新一代的故事，我们共同见证。华为 Mate X8 ，敬请期待！ 据IT之家此前报道，11 月 13 日，余承东手持紫色新机的画面在网上流传开来， 被认为是华为 Mate X8 真机 ，圆形镜头模组回归。 据博主 @数码闲聊站 今日爆料，华为 Mate X8 为常规比例的大折叠产品，搭载 8 英寸广色域京东方新屏 + 超平整折痕技术，后置 50MP 18E",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/204a68b3-d7bd-4edf-8c13-35284bbbb6c9.jpg",
-      "publishedAt": "2026-11-15T01:34:49.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "老外今年考“中文四六级”人数首破百万人次，169 国设 1500 余个考点",
-      "link": "https://www.ithome.com/1/027/270.htm",
-      "summary": "IT之家 11 月 15 日消息，11 月 13 日至 15 日，2026 世界中文大会在北京举行，来自 160 多个国家和地区的约 5000 名代表参会。 据央视新闻报道， 今年中文水平考试（HSK）考生人数首次突破 100 万人次 。随着中文学习需求不断增长，中文的应用场景也在不断拓展。 IT之家注：中文水平考试（HSK），被不少网友称为“外国人的四六级”， 目前已在 169 个国家设立了 1500 余个考点 ，考点覆盖国家数量居全球语言考试首位，累计服务考生超过 900 万人次。与此同时，全球中文学习的规模也在不断扩大， 海外学习和使用中文的人数达 2.1 亿 。 美国纽约曼哈顿中文学习测试中心联合创始人成大海表示：“过去几年里，我们在纽约开设的成人课程发展非常迅速。 一些学生希望更多了解科技、制造业等行业 ，并学习在中国从事相关工作时所必需的专业词汇。”",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ce4f4754-3a9f-4bd1-aa24-bd2735056e4a.jpg",
-      "publishedAt": "2026-11-15T01:21:43.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "日本制造商 Kyodo 推出 Myofree 护眼平板，号称能让 40cm 近距离观看等效 5m 远距离眺望",
-      "link": "https://www.ithome.com/1/027/269.htm",
-      "summary": "IT之家 11 月 15 日消息，日本制造商 Kyodo（株式会社協同）近日推出 Myofree 护眼平板电脑。官方宣称该产品为全球首款基于脑科学、眼科学研究成果开发的平板，将于 11 月 18 日通过众筹平台 Makuake 预售。 据介绍，这款平板通过自研的平行视图像生成技术和专用眼镜， 让用户在 40cm 距离观看屏幕时 ， 可获得观看 5m 外景物的“平行视”眺望状态 ，有望减轻长时间观看电子设备带来的压力。 同时，该产品配备 15.6 英寸 Full HD 显示屏，搭载 Android 16 系统，可用于观看视频、浏览网站、玩游戏，以及工作和学习等多种场景。并具备 USB Type-C、HDMI 输入 / 输出等接口。 需要注意的是，该产品需要配合专用圆偏振光眼镜使用。该眼镜提供三种款式：适合日常使用的标准眼镜款、可以轻松夹在现有眼镜上的夹片款，以及尺寸较小、更适合儿童脸型的儿童",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6cb1fe5e-1210-4e32-b144-56d5a486cfae.jpg",
-      "publishedAt": "2026-11-15T01:18:49.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "马斯克晒 SpaceX 星舰“筷子夹”飞船近距离照片：“我拥抱了它”",
-      "link": "https://www.ithome.com/1/027/265.htm",
-      "summary": "IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船， 这是星舰飞船首次完成发射塔捕获 。 随后，该公司创始人马斯克在社交平台连续发文并分享该飞船近距离照片，他写道：“多亏了 SpaceX 那群才华横溢的团队，这一伟大时刻终于到来了”“当 42 号飞船返回时，我拥抱了它。” 据IT之家此前报道，SpaceX 第 15 次试飞的星舰组合体于美国中部时间 13 日下午（北京时间 14 日清晨）从得克萨斯州星际基地升空，由超重型助推器与飞船组成。 任务原计划让两级同时返回发射场 ，由发射塔上俗称“筷子”的机械臂分别捕获。 第二级飞船捕获发生在 11 月 14 日 16:20（IT之家注：北京时间 11 月 15 日 5:20）， 距升空约 22.5 小时 。飞船完成约 14 圈轨道飞行后启动发动机离轨，",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e4672411-c5b7-4881-a051-21151be43e7f.png",
-      "publishedAt": "2026-11-15T01:04:53.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "华为：智能车灯原车拨杆闪灯为独立功能，不会被高精 ADB 主动控制干预，随时可用",
-      "link": "https://www.ithome.com/1/027/264.htm",
-      "summary": "IT之家 11 月 15 日消息，华为智能汽车解决方案 BU 官方微博昨晚发布了乾崑答网友问（第 18 期），针对 华为智能车载光 相关的四个热门问题进行了集中解答。 ▲ 图源：华为乾崑智能汽车解决方案官网 IT之家附重点内容及全文截图如下： 在夜间行驶遇到对向来车时，怎么在保证远光灯不晃对向来车驾驶员眼睛的情况下，确保我的驾驶安全？ HUAWEI XPIXEL 智能车灯模组的高精 ADB (智能远光照明)，依托百万像素精准控制车灯。在整个远光灯照射范围， 高精 ADB 功能会识别到对方前挡风玻璃的位置，然后将这个区域的灯光做调整 ，避免远光照射对向来车驾驶员。同时，保持其他远光灯照射区域的基础照明，驾驶员照样能看清行人和路面情况。 遇到对向车辆打开远光灯影响我的驾驶视野时，如果正在使用智能车灯，还能闪灯提示对方吗？ 原车拨杆闪灯为独立功能， 不会被高精 ADB 主动控制干预，随时可以使用",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/10/d0d8eeb1-e85c-4674-9f93-0e159ed77b9b.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1",
-      "publishedAt": "2026-11-15T01:01:56.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
     },
     {
       "title": "10 Must-Play Co-Op Games for People With Real-Life Schedules",
@@ -223,39 +924,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "华为首款鸿蒙小折叠电脑 MateBook Fold S 现身官网：至高 32GB/1TB 规格，可选黑白蓝三色",
-      "link": "https://www.ithome.com/1/027/263.htm",
-      "summary": "IT之家 11 月 15 日消息，华为首款鸿蒙小折叠电脑 MateBook Fold S 已于昨日 10:08 正式开启预订。 目前这款新机已现身官网，相关页面显示， 该机折叠态 10.2 英寸、展开态 14.7 英寸 ，会在 11 月 24 日 17:00~11 月 25 日 17:00 支付尾款， 支持 12 期 0 分期利息购买 。 颜色 幻夜黑 天际白 云海蓝 配置 16GB/256GB（含键盘 + 内胆包） 16GB/512GB（含键盘 + 内胆包） 24GB/512GB（含键盘 + 内胆包） 32GB/1TB（含键盘 + 手写笔 + 内胆包） IT之家注意到，华为鸿蒙电脑依旧支持鸿蒙有礼活动， 可在 13 项会员权益中任领其中 8 项 （需登录华为账号后第 9 天领取），同时还会赠送 3 个月音乐超钻会员、华为视频会员和主题会员。 根据预热信息，华为 MateBook Fold",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/22a1b183-b834-46bf-a880-39ad2c5c2c4d.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-15T00:44:19.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "韩国电信运营商 LG U+ 明年进军 AI Token 业务，帮助企业降低 AI 转型成本",
-      "link": "https://www.ithome.com/1/027/262.htm",
-      "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国电信运营商 LG U+ 将于明年进军 AI Token 业务，利用自主研发的 Token 优化技术，帮助企业降低 AI 转型（AX）成本。 据介绍，这项服务拥有用于设计 Agent 任务执行路径的“Harness Engineering”、根据问题类型分配模型的“智能路由”，以及为优化推理过程而采用异构半导体的“芯片组合”三项技术。 IT之家从原报道获悉，LG U+ 将减少 AI Agent 执行任务时不必要的重复搜索和验证，并根据任务难度匹配最合适的模型。同时结合模型轻量化和推理技术，该公司的自研端侧 AI 模型在体积缩小三分之一的情况下，性能仍达到通用云端模型的 95% 以上。通过让小模型快速生成答案、再由大模型进行验证的技术，Token 生成速度提升两倍以上。 基础设施方面，LG U+ 采用芯片组合策略，将英伟达、",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/7cd9e249-263f-4fe9-817d-95facdace114.jpg",
-      "publishedAt": "2026-11-15T00:42:33.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
-      "link": "https://www.ithome.com/1/027/260.htm",
-      "summary": "IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束， 来自 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队 ，“一穿四”LCK 赛区，勇夺《英雄联盟》S16 冠军。 IT之家注意到，B站官方今日宣布，为了和大家一起分享这份喜悦， 哔哩哔哩为所有人送大会员 。今日中午 12 点起登录B站，搜索“大会员”即可免费领取， 站内直接到账 。 领取时间：11 月 15 日 12:00 — 11 月 16 日 12:00 领取方式：上B站搜索“大会员”即可免费领取，站内直接到账。 公开资料显示，BLG 是B站旗下战队，由哔哩哔哩收购 IMay 战队组建。团队主要荣誉包括 2022 年德玛西亚杯冠军，2023 年 LPL 春季赛亚军与 MSI 亚军，2024 年 LPL 春、夏季赛双冠及 MSI、全球总决赛双亚军，2025",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4583ab7e-84fe-4901-bbee-b0b734944949.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-15T00:34:09.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "Nintendo Officially Reveals New Kirby Game for Switch 2",
       "link": "https://www.polygon.com/kirby-world-beyond-nintendo-switch-2-2027/",
       "summary": "Kirby and the World Beyond is coming to Nintendo Switch 2 in 2027",
@@ -267,43 +935,10 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "全日空投资太空建造初创公司 Space Quarters，布局“太空盖大楼”",
-      "link": "https://www.ithome.com/1/027/259.htm",
-      "summary": "IT之家 11 月 15 日消息，全日空本月 13 日宣布，公司已通过 ANA 未来创投基金投资 Space Quarters 公司。这家公司通过电子束焊接技术和自主研发机器人系统， 提供太空组装 、 建设大型建筑物的解决方案 。 据介绍，火箭发射成本近年来快速下降，太空运输技术也随之进步。但由于火箭整流罩尺寸限制，空间站和轨道设施的尺寸还是受到限制，因此在太空中建造大型居住设施、通信设施仍然面临困难。 Space Quarters 将电子束焊接技术和机器人系统相结合，可以在太空和月球表面建造大型建筑。其中该公司开发的太空建筑机器人系统「DAIQ」，能够完成建筑材料的取出、放置和连接等全部流程。今年 6 月该公司利用 DAIQ 地面原型，成功验证在轨道环境下组装建筑材料以及执行焊接操作的能力。 此外，该公司已使用飞机开展微重力和模拟月球重力的测试，成功验证金属材料以及月球风化层（IT之家注",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff4d220d-80b5-481c-b95e-c4fa7a40d9cf.png",
-      "publishedAt": "2026-11-15T00:17:35.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Where was Nvidia’s security team?",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "image": null,
-      "publishedAt": "2026-11-15T00:08:07.000Z",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "队史首次！BLG 战队 3:1 力克 GEN 夺《英雄联盟》S16 冠军，中国战队连斩 4 支韩国队时隔 5 年再登顶",
-      "link": "https://www.ithome.com/1/027/258.htm",
-      "summary": "IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束，来自中国 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队，“一穿四”LCK 赛区，勇夺《英雄联盟》S16 冠军。 IT之家附官方赛况如下： GEN 1:0 BLG 8 分钟，巢虫处，Knight 洛克在 Xun 嘉文四世的帮助下，击败奥拉夫拿下一血； 22 分钟，小龙处，ON 烈娜塔先手开团，但后续 GEN 更占优势，Chovy 辛德拉击败嘉文四世，Ruler 库奇跟上输出击败卡莉丝塔，GEN 打出零换三； 28 分钟，远古龙处，双方爆发团战，Kiin 奥拉夫侧面进场击败卡莉丝塔，Chovy 辛德拉拿下双杀，GEN 打出零换四； 38 分钟，GEN 进攻 BLG 高地，Ruler 库奇输出爆炸拿下三杀，GEN 团灭 BLG 后顺势一波推平基地拿下胜利。 GE",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b16ec3ed-4261-42b3-8dab-efc87c40ac8e.png",
-      "publishedAt": "2026-11-15T00:02:49.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "BLG斩获《英雄联盟》S16全球总决赛冠军",
       "link": "https://www.gcores.com/articles/222372",
-      "summary": "哔哩哔哩电竞 BLG 于今日在纽约布鲁克林巴克莱中心以3比1击败韩国 LCK 赛区的 Gen.G， 首次夺得《英雄联盟》全球总决赛冠军。 这是LPL赛区自2021年 EDward Gaming 夺冠后的首座全球总决赛冠军，也是 LPL 赛区历史的第四次S赛夺冠。 在此前的半决赛中，BLG 以3:1击败卫冕冠军T1，这也是 T1 首次在全球总决赛五局三胜淘汰赛中输给 LPL 队伍，T1 连续三年夺冠的纪录随之终结。加上决赛，BLG 在本届赛事击败了全部四支LCK 参赛队伍。",
-      "image": "https://image.gcores.com/a45a37a0180d2f3bfc01af049919c700-925-446.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
+      "summary": "哔哩哔哩电竞 BLG 于今日在纽约布鲁克林巴克莱中心以3比1击败韩国 LCK 赛区的 Gen.G， 首次夺得《英雄联盟》全球总决赛冠军。同时，FMVP 给到了 Knight 选手。 在此前的半决赛中，BLG 以3:1击败卫冕冠军T1，这也是 T1 首次在全球总决赛五局三胜淘汰赛中输给 LPL 队伍，T1 连续三年夺冠的纪录随之终结。 加上决赛，BLG 在本届赛事击败了全部四支 LCK 参赛队伍。 这是 LPL 赛区自2021年 EDward Gaming 夺冠后的首座全球总决赛冠军，也是 LPL 赛区历史的第四次S赛夺冠。",
+      "image": "https://image.gcores.com/f743a50e4a104b7b41304cee5bde8198-690-385.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
       "publishedAt": "2026-11-15T00:02:03.000Z",
       "sourceId": "gcores",
       "sourceName": "机核",
@@ -333,116 +968,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
-      "link": "https://www.ithome.com/1/027/257.htm",
-      "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史：美国 SpaceX 首次实现筷子夹星舰飞船 SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获轨道返回的星舰上面级，虽未完全回收整枚火箭，但仍是星舰项目重要里程碑，目前正调查助推器中止着陆的原因。>> 查看详情 2. 配 A20 芯片：古尔曼重申苹果 iPhone 18/18e 明年春季将登场 在最新一期 Power On 访谈节目中，彭博社的马克 · 古尔曼（Mark Gurman）再次透露，苹果将会在 2027 年春季发布 iPhone 18 和 iPhone 18e 两款手机，将会搭载 A20 芯片。>> 查看详情 3. 比亚迪：网传“某数字能源出售给比亚迪”不实 比亚迪网络举报中心明确表示，网传“某数字能源出售给比亚迪”毫无事实依据，属于虚假信息。官方",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/80b1170a-1c47-4d0b-ad5a-3a56591212dd.png",
-      "publishedAt": "2026-11-14T23:55:12.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "微软 Win11 大规模界面改版已开始推送，首先升级 Win8 时代的自动播放弹窗",
-      "link": "https://www.ithome.com/1/027/256.htm",
-      "summary": "IT之家 11 月 15 日消息，据科技媒体 Windows Latest 今天报道，微软 Win11 系统大规模界面改版的一阶段已开始推送，首个改造的功能是自动播放（AutoPlay）。原本 Win8 时代的直角边框弹窗，现在变成了更加现代的样式。 IT之家从原报道获悉，本月发布的强制安全更新 KB5132061 已包含新版自动播放。此次更新将 Windows 11 26H2 升级至 Build 26300.9974，将 25H2 升级至 Build 26200.9974，该功能正在分阶段推送，因此安装更新后，用户可能无法立刻看到新界面。 如果您经常将 U 盘、SD 卡或手机连接到电脑，应该看到过桌面右上角弹出的自动播放窗口。 当 Windows 检测到新设备插入时 ， 默认就会弹出这个窗口询问用户如何操作 。 微软已经多年没有改动过自动播放，但如今的新版对话框改为居中显示，不再出现在屏",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3948984c-e275-4724-8efd-49a4be581593.jpg",
-      "publishedAt": "2026-11-14T23:49:35.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "国产算力巨头超聚变创业板 IPO 过会，前身是华为 X86 服务器业务",
-      "link": "https://www.ithome.com/1/027/255.htm",
-      "summary": "IT之家 11 月 15 日消息，深交所上市审核委员会本月 12 日召开 2026 年第 61 次审议会议，会议结果为超聚变数字技术股份有限公司（以下简称超聚变）（首发） 符合发行条件、上市条件和信息披露要求 。 在深圳证券交易所上市审核委员会的会议现场，问询超聚变的主要问题包括：结合算力需求变化、下游客户资本开支、技术先进性、经营性现金流量净额状况、客户和供应商集中度等情况，说明超聚变毛利率变动趋势，以及经营业绩增长是否具有可持续性，相关风险揭示是否充分。 这意味着超聚变申报深交所创业板 IPO 过会 ，且公开信息显示从申报受理到过会仅用时 174 天。 IT之家注：超聚变成立于 2021 年 9 月，源于华为 2021 年剥离的 X86 服务器业务部门，目前由河南地方国资控股。估值方面，《世界独角兽企业发展报告 2024》曾显示， 超聚变凭借 89.2 亿美元 （现汇率约合 596.3",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/bd11ff71-e9d5-4740-8b73-db6a10be30f0.png",
-      "publishedAt": "2026-11-14T23:38:56.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "微软 XBOX 商店出现标价 1999 美元的《GTA6》游戏，疑为盒装兑换码占位商品",
-      "link": "https://www.ithome.com/1/027/254.htm",
-      "summary": "IT之家 11 月 15 日消息，近日部分海外玩家发现，微软 XBOX 商店上架了《GTA6》游戏全新版本，标价高达 1,999.99 美元 （IT之家注：现汇率约合 13,370 元人民币） 。目前该商品已经下架， 其离谱的价格可能与实体盒装兑换码的购买流程有关 。 从玩家分享的商店截图可以看到，普通消费者在 XBOX 商店选购《GTA6》时，看到的仍然是 79.99 美元 （现汇率约合 534.7 元人民币） 普通版和 99.99 美元 （现汇率约合 668.4 元人民币） 终极版选项。1,999 美元 （现汇率约合 13,363 元人民币） 的版本并没有标注具体名称，描述仅为“盒装兑换码产品”。 因此有玩家猜测，这种商品的设置可能与 XBOX 商店运作方式有关。为了完成不含光盘的实体版游戏订单，该商店可能需要单独创建一个商品条目。微软可能将这些商品价格设置在一个非常高的水平，防止消费",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/bcecc031-ea91-4d14-be4f-8b720a2b1fba.png",
-      "publishedAt": "2026-11-14T23:30:59.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "SpaceX 星舰飞船首次被发射塔机械臂捕获回收，马斯克将建 AI 数据中心星座",
-      "link": "https://www.ithome.com/1/027/253.htm",
-      "summary": "IT之家 11 月 15 日消息，当地时间 11 月 14 日，SpaceX 在星舰第 15 次试飞中首次用发射塔机械臂接住从轨道返回的第二级飞船， 这是星舰飞船首次完成发射塔捕获 。 据介绍，SpaceX 计划使用该飞船在 LEO 轨道上构建一个庞大的网络 —— 根据埃隆 · 马斯克的说法，这个网络将包含一个由百万艘航天器组成的 AI 数据中心星座 。 组装这些巨型结构需要极高的组装频率。SpaceX 表示，采用双筷子式抓取方式是实现这一目标的关键，因为它能更快地进行星际飞船的检查、修复和重新发射。因此， 该公司很可能会在不久之后再次尝试这种手段 —— 很可能是在下一次飞船的飞行任务中。 IT之家注意到，第 15 次试飞的星舰组合体于美国中部时间 13 日下午（北京时间 14 日清晨）从得克萨斯州星际基地升空，由超重型助推器与飞船组成。任务原计划让两级同时返回发射场，由发射塔上俗称“筷子",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/77a704dd-0fbd-4786-ab67-26d98a1806fb.png",
-      "publishedAt": "2026-11-14T23:26:58.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "一天暴涨 6 万：请愿恢复黄仁勋英伟达 CEO 职务人数突破 12 万人，马斯克也参与签名",
-      "link": "https://www.ithome.com/1/027/252.htm",
-      "summary": "IT之家 11 月 15 日消息，今年 11 月 12 日，英伟达董事会今日宣布，黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效。英伟达执行副总裁兼 CFO 科莱特 · 克雷斯同意出任临时 CEO，在董事会选出正式继任者前兼任这一职务，并继续担任执行副总裁和 CFO。 随后，一个名为“Stand with Jensen”的请愿活动在网上流传开来，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之家发文， 该活动已收集超过 12 万个签名 ， 较昨天增长约 6.3 万人次 。 该网站显示，本次活动的组织者和签名者担心，黄仁勋可能在未经正当程序、甚至没有几天时间为自己申辩的情况下被迫离职。 请愿信由现任员工、前任员工、股东及合作伙伴签署 ， 特斯拉 CEO 埃隆 · 马斯克等行业巨头加入其中 。 据IT之家了解，英伟达仍将按原计划于 11 月 17 日（周二）太平洋时间约下午 1:2",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/cfdb4a3d-4632-41b8-a547-e027df98e76b.png?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-14T23:18:00.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "香港迪士尼乐园票务系统遭入侵，约 1.7 万个门票二维码疑似被盗",
-      "link": "https://www.ithome.com/1/027/251.htm",
-      "summary": "IT之家 11 月 15 日消息，据香港电台昨天报道，香港迪士尼乐园近日侦测到公司电脑系统出现异常活动，约 1.7 万个门票二维码疑似被盗取。官方已就此事报警，并即时停止官网乐园门票、预订酒店服务。 IT之家从原报道获悉，香港警方表示，昨日接获某公司报案，指怀疑有网络事件。经初步调查， 案件暂时被列入“有犯罪或不诚实意图而取用电脑” ，交由大屿山景区重案组跟进，暂未有人被捕。 香港迪士尼对此回应称， 公司发现网络事件后已报警 ，并及时采取跟进及防范措施。乐园强烈建议旅客，应直接从官方渠道或合作旅行社及平台购买乐园门票，切勿光顾不可靠来源的商家，以免遭受经济损失。如有怀疑，应立即寻求警方协助。 此外，香港迪士尼乐园已加强入场门票核验程序，并将尽快通知个人资料隐私专员公署。目前香港迪士尼官网已经在维护，购买乐园门票和预订酒店服务已经暂停。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/34d6c393-9855-42c4-bed2-dda051e8551b.jpg",
-      "publishedAt": "2026-11-14T23:12:05.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "《英雄联盟：曙光》预告片发布：将上线全新客户端，更多详情明年 1 月揭晓",
-      "link": "https://www.ithome.com/1/027/250.htm",
-      "summary": "IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛正在举行，官方发布《英雄联盟：曙光》预告片。 IT之家注意到，官方曾提到《英雄联盟》将迎来一次大规模更新，改动将覆盖客户端、召唤师峡谷、游戏玩法和新玩家体验，还承诺在今年的季中冠军赛和全球总决赛之间提供更多信息。 最新预告显示， 《英雄联盟：曙光》明年将上线全新的客户端 ，召唤师峡谷的外观升级，进一步深化玩法，增加新的游戏体验，加深玩家与本命英雄之间的羁绊。 据官方透露，更多详情将于明年 1 月揭晓。届时，IT之家也会带来详细报道。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/19633c59-7845-4f86-bf15-d892ad5e6135.png",
-      "publishedAt": "2026-11-14T23:09:14.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "中国车企首家：小米泰坦合金 2.0 与新一代 SU7 从材料到整车通过国际 EPD 体系认证",
-      "link": "https://www.ithome.com/1/027/249.htm",
-      "summary": "IT之家 11 月 15 日消息，小米技术官方微博昨晚宣布，在第 31 届联合国气候变化大会（COP31）主题会议上，小米汽车与国际 EPD 体系（The International EPD System）联合发布认证成果： 小米泰坦合金 2.0 与新一代 SU7，从材料到整车，均通过国际 EPD 体系认证 。 据介绍，EPD（环境产品声明）是国际通行的产品环境信息披露制度，通过标准化核算和独立第三方核验，为绿色采购与国际贸易提供可信依据，被称为国际绿色贸易的“绿色通行证”。 小米泰坦合金 2.0 攻克了 100% 消费后再生铝技术难关， 实现强度不降、韧性提升 ，材料碳排放较传统原铝降低约 93%，低碳技术及减排效果国际领先，经严格验证后已量产应用于新一代 SU7 和小米 YU7， 可实现每台车全生命周期减碳约 800kgCO₂ ，约相当于 40 棵成年树一年的固碳量。 另外，小米泰坦合",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9710c362-6cd2-4dd7-a91c-2b409a12ab8a.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-14T23:06:33.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "创造历史：美国 SpaceX 首次实现筷子夹星舰飞船",
-      "link": "https://www.ithome.com/1/027/248.htm",
-      "summary": "IT之家 11 月 15 日消息，当地时间今日，美国太空探索技术公司（SpaceX）在星舰第 15 次试飞任务中， 首次成功利用发射塔“筷子”机械臂 ， 捕获从地球轨道返回的星舰上面级飞船。这是历史上首家公司 ，成功将轨道级火箭的上面级（Upper Stage）送回发射场，并通过发射塔完成捕获。 当地时间周五晚间，第 15 次试飞任务的 Ship 42 搭乘助推器 B22 升空，进入轨道后顺利完成任务。SpaceX 表示，3 颗卫星搭载的摄像头拍摄了飞船隔热罩，结果显示隔热罩状态良好，能满足再次进入大气层的要求，因此地面控制人员放弃了备用的海上溅落方案。 IT之家注意到，到了周六上午，SpaceX 称发射台和发射塔系统已准备就绪，可以执行捕获任务。在完成约 14 圈轨道飞行后，星舰飞船启动发动机脱离轨道，重新进入大气层，最终被发射塔的“筷子”机械臂成功捕获。 不过需要注意的是，此次任务并未",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/80b1170a-1c47-4d0b-ad5a-3a56591212dd.png",
-      "publishedAt": "2026-11-14T22:54:47.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "Forage and fight for ingredients in a magical 1960s Italy and whip up some tasty meals Cooking Mama style in The Snackbar at the End of the World",
       "link": "https://www.rockpapershotgun.com/forage-and-fight-for-ingredients-in-a-magical-1960s-italy-and-whip-up-some-tasty-meals-cooking-mama-style-in-the-snackbar-at-the-end-of-the-world",
       "summary": "If a game is about cooking, at minimum I'll have to give it a quick testspin. Outside of this whole writing about video games thing, my other lot in life is soul bound to food, so I'm always curious to see how the two can be mixed together. And earlier this week, The Snackbar at the End of the World was revealed, a wonderfully cartoonish action-adventure game set in a magical, slightly post-apocal",
@@ -456,35 +981,13 @@
     {
       "title": "《英雄联盟：曙光》正式宣布",
       "link": "https://www.gcores.com/articles/222374",
-      "summary": "拳头游戏的 Pabro 与 Meddler 于今日带来《英雄联盟：曙光》预告，更多详情将于明年1月揭晓。 据悉，《英雄联盟：曙光》 包括全面现代化升级的游戏客户端、焕然一新的召唤师峡谷地图与视觉表现、持续进化的游戏玩法，以及让玩家以全新方式体验自己喜爱的英雄等一系列精彩内容。预约现已正式开启。",
+      "summary": "在2026英雄联盟全球总决赛期间，游戏研发团队正式揭晓了《英雄联盟：曙光》。这是一项涵盖游戏多个层面、上线以来最大规模的全面更新，预计将于2027年正式上线。 据悉，《英雄联盟：曙光》 将带来包括全面现代化升级的游戏客户端、焕然一新的召唤师峡谷地图与视觉表现、持续进化的游戏玩法，以及让玩家以全新方式体验自己喜爱的英雄等一系列精彩内容。",
       "image": "https://image.gcores.com/2ea8c4d3aa9027029c41bcf4300cf4b9-690-387.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
       "publishedAt": "2026-11-14T22:14:40.000Z",
       "sourceId": "gcores",
       "sourceName": "机核",
       "category": "game",
       "categoryLabel": "游戏"
-    },
-    {
-      "title": "League of Legends: New Dawn Revealed, Major Overhaul Set for 2027",
-      "link": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
-      "summary": "Riot Games revealed at Worlds Finals 2026 a major update to League of Legends coming in 2027 with new gameplay and features.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/still002.png",
-      "publishedAt": "2026-11-14T22:03:57.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "image": null,
-      "publishedAt": "2026-11-14T21:41:22.000Z",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "category": "ai",
-      "categoryLabel": "AI"
     },
     {
       "title": "Rasen, out in early access now, is a PvP focused take on Dark Souls that borrows one of fighting games' best techy tricks",
@@ -498,50 +1001,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "32 Years Later, Star Trek's Most Important Movie Is Officially Free on Streaming",
-      "link": "https://www.polygon.com/star-trek-generations-streaming-free-november-2026/",
-      "summary": "Star Trek: Generations is streaming free on Pluto TV. Here's why the underrated Kirk and Picard crossover deserves another look.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdsttr_pa117.jpg",
-      "publishedAt": "2026-11-14T21:00:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Zelda: Ocarina of Time Is Actually the Perfect Way to Introduce Kids to Nintendo",
-      "link": "https://www.polygon.com/zelda-ocarina-time-first-nintendo-kids-game/",
-      "summary": "Parents are debating whether the Ocarina of Time remake is too scary for kids. Here’s the case for the child-era half as a first Nintendo game.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-great-deku-tree-and-link.jpg",
-      "publishedAt": "2026-11-14T20:00:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Fortnite Player Gets Screwed Out of Extremely Rare Pirate Shop Token",
-      "link": "https://www.polygon.com/fortnite-player-loses-pirate-shop-access-token-game-crash/",
-      "summary": "Epic Games has reportedly proved unhelpful after a user lost the Pirate Shop Access token in Fortnite after losing connection mid-match.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-simpsons-fortnite-loading-screen.jpg",
-      "publishedAt": "2026-11-14T19:47:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "'The Body' Ending Explained: Is Grace Possessed? Netflix Showrunners Talk Season 2",
-      "link": "https://www.polygon.com/the-body-ending-explained/",
-      "summary": "Is Grace possessed? The Body’s showrunners explain why the Netflix series’ ending has no single answer and what’s next in season 2.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the_body_n_s1_e1_00_17_48_05rc2.avif",
-      "publishedAt": "2026-11-14T19:00:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "Congratulations to people who feel mean shooting random NPCs, because GTA 6 tries \"to provide mechanisms that encourage\" empathy",
       "link": "https://www.rockpapershotgun.com/congratulations-to-people-who-feel-mean-shooting-random-npcs-because-gta-6-tries-to-provide-mechanisms-that-encourage-empathy",
       "summary": "When you think about GTA as a series, the first thing that probably comes to mind is driving through crowds of people, gunning down whoever you like, just generally doing crime without any care in the world. I wouldn't exactly call it an empathy game, not to say that other games are any better at such a thing anyway. But with GTA 6 out, crikey, next bloody week, a new interview has gone up with co",
@@ -549,17 +1008,6 @@
       "publishedAt": "2026-11-14T19:00:00.000Z",
       "sourceId": "rps",
       "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "26 Years Later, Charlie Brown's Final Quote Is Still a Comic Strip Classic",
-      "link": "https://www.polygon.com/charlie-brown-final-peanuts-line/",
-      "summary": "Charlie Brown, the longest-suffering kid in comics history, went out as he lived",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/charlie-brown-emotional-gut-punch-in-peanuts-comic.avif",
-      "publishedAt": "2026-11-14T18:43:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -586,17 +1034,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "image": null,
-      "publishedAt": "2026-11-14T17:30:00.000Z",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
       "link": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
       "summary": "A big part of the point of The Blood of Dawnwalker is that you're on a fixed time limit. You've got 30 in-game days and nights to try and save your family, and if you don't manage to see everything the game has to offer, well, the game's director is fine with that . But that doesn't matter as much now, as The Blood of Dawnwalker is getting its 1.2 update next week that adds in a new game plus mode",
@@ -606,39 +1043,6 @@
       "sourceName": "Rock Paper Shotgun",
       "category": "game",
       "categoryLabel": "游戏"
-    },
-    {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "image": null,
-      "publishedAt": "2026-11-14T16:34:15.000Z",
-      "sourceId": "techcrunch-ai",
-      "sourceName": "TechCrunch AI",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
-      "link": "https://www.ithome.com/1/027/247.htm",
-      "summary": "IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将 失去一些至关重要的商业合作 。 马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋 与合作方握手达成的 ， 并没有签署书面合同 。 紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应， 他每次都能说到做到 。当然，我们之后还是会补上采购订单，但在他兑现承诺这件事上，我从来没有怀疑过。” 据IT之家了解，就在昨天，马斯克发文回应网友关于“ 约 1600 名英伟达员工呼吁黄仁勋回归 ”的推文： 一项要求让黄仁勋复职的请愿正在进行，我也会签署 。 相关阅读： 《 马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位 》 《 马斯克谈黄仁勋结束 33 年掌舵英伟达生涯：创始人很难被取代 》",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d03cb7b7-9a65-4b09-a2a0-01ca39e2378f.png",
-      "publishedAt": "2026-11-14T15:28:14.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器",
-      "link": "https://www.ithome.com/1/027/246.htm",
-      "summary": "IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致全美航班地面停飞的故障设备 已被查明并隔离 。 克利夫援引官员的话说，美国联邦航空管理局（FAA）认为，故障仅涉及一种“特定型号”的 20 年历史老路由器。“（系统）基本上是被负载压垮了，不过具体原因尚不清楚。” 初步信息显示， 路由器过载后开始传输不同步的数据 ，造成空管人员的语音通信线路出现杂音，还可能导致显示屏闪烁或黑屏，与 2025 年纽瓦克自由国际机场发生的故障类似。 据IT之家此前报道，当地时间 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日， 美国境内及往返美国的航班已有超过 3300 架次被取消 。 相关阅读： 《 受空管系统故障影响，11 月 14 日",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8f86c957-5ea5-4e02-b377-a4a7734e51e7.png",
-      "publishedAt": "2026-11-14T15:06:32.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
     },
     {
       "title": "规则是流动的，核周报 11.14",
@@ -652,83 +1056,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz",
-      "link": "https://www.ithome.com/1/027/245.htm",
-      "summary": "IT之家 11 月 14 日消息，根据 Intel（英特尔）官网页面，此前悄然上市的 酷睿 Ultra 7 处理器 260K 实际上早在 2026 年第 3 季度就已发行 。而从规格上来看，其大致相当于 Ultra 7 265K 的降频版。 英特尔酷睿 Ultra 7 处理器 260K 的最大睿频频率为 5.4GHz、性能核最大睿频频率为 5.3GHz、能效核最大睿频频率为 4.5GHz， 这三项数据均比 Ultra 7 265K 低 0.1GHz ，但性能核与能效核的基本频率保持不变。 同时，该处理器的内存支持为 DDR5 6400MT/s， 暗示其并非 \"Arrow Lake Refresh\" 的一员 ，仍属于初代 \"Arrow Lake\"，晶粒间频率应该也会相对较低。 此外，英特尔酷睿 Ultra 7 处理器 260K 缺失稳定映像平台计划资格 ，这是其与 Ultra 7 265K ",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/50c6870d-005f-4f6a-a572-e619b5ccff30.jpg",
-      "publishedAt": "2026-11-14T14:51:22.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑",
-      "link": "https://www.ithome.com/1/027/244.htm",
-      "summary": "IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。 据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台 。 其中一个项目 开发了 Arm 转 x86 指令翻译层 ，计划让大多数较新的英特尔和 AMD 处理器能够运行 macOS，早期版本现已开放试用。另一个项目则在 搭载骁龙处理器的华硕 Zenbook 笔记本上成功启动 macOS ，部分基本功能也能正常使用。 黑苹果的历史可以追溯到 20 世纪 80 年代，但在非苹果设备上运行 macOS 直到 21 世纪初才逐渐流行。 2006 年，苹果放弃 PowerPC 处理器，转而采用英特尔芯片。由于 Windows 电脑广泛",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/1e55c422-f171-4859-93e1-ed9643d24524.png",
-      "publishedAt": "2026-11-14T14:49:44.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
-      "link": "https://www.ithome.com/1/027/243.htm",
-      "summary": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。 除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。 IT之家注意到，先前相应手机规格已曝光，具体参数如下： OPPO Reno17 6.56 英寸 1.5K LTPS 直屏 骁龙 7 Gen4 处理器 前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦 8000mAh 电池 +80W 快充 金属中框，光学指纹 OPPO Reno17 Pro 6.32 英寸 1.5K LTPS 直屏 天玑 8550 SUPER 处理器 前置 50Mp，后置 200Mp 主摄 +50M",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png",
-      "publishedAt": "2026-11-14T14:43:21.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，\"Demon1\" 联名款同步亮相",
-      "link": "https://www.ithome.com/1/027/242.htm",
-      "summary": "IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini。这一型号由华硕与《无畏契约》世界冠军选手 Max \"Demon1\" Mazanov 共同打造， 结合最新硬件和面向抓握与指握用户的紧凑型半对称模具 。 龙鳞 2 Ace Mini 三维 118.2 × 61.3 × 40.2 (mm)，质量 47g；配备 ROG AimPoint Pro 65K 传感器、ROG 100M 光学微动开关；支持三模连接，搭载第二代 ROG SpeedNova 8K 无线技术；可选暗夜黑、月耀白、晴空蓝、熔岩红 4 种常规配色。 除常规版本外， 华硕还带来了 \"Demon1\" 联名款的龙鳞 2 Ace Mini 。其拥有渐变淡紫色涂装、\"Demon1\" 签名标识，无线接收器则装饰以独特猫咪贴纸。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9c7af47f-dd75-4e16-9ce9-6d14c3c955ef.png",
-      "publishedAt": "2026-11-14T14:40:04.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消",
-      "link": "https://www.ithome.com/1/027/241.htm",
-      "summary": "IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日， 美国境内及往返美国的航班已有超过 3300 架次被取消 。 截至美国东部时间 14 日 6 时 15 分 （IT之家注：北京时间 14 日 19 时 15 分） ，达美航空已取消当日计划航班的 19%，联合航空取消了 16%，美国航空则取消了 14%。 美国联邦航空管理局 13 日发布全美地面停飞令，暂停国内机场航班起飞超过 4 个小时，导致上万架次航班延误或取消。美官方表示，航班大规模停飞的原因仍在调查中， 但可能由设备老旧带来的通信故障引发 。 相关阅读： 《 美国突发全国性航班停飞，欧洲航空安全组织暂停成员国赴美航班起飞 》 《 FAA 宣布解除全美航班地面停飞令，近 1.5 万架次航班",
-      "image": null,
-      "publishedAt": "2026-11-14T14:25:29.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车",
-      "link": "https://www.ithome.com/1/027/240.htm",
-      "summary": "IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款 超高性能汽车 ，部分知名零部件供应商也有望参与其中。 IT之家注：HWA 由 AMG 创始人汉斯 · 维尔纳 · 奥夫雷希特创办， 脱胎于 AMG，长期负责奔驰的赛车项目 ，这其中就包括德国房车大师赛（DTM）。 双方据称希望打造一款 性能前所未有、足以载入汽车史册 的车型。新车的具体形式仍未确定，既有可能是全新的旗舰车型，也有可能是小米现有两款车型（SU7/YU7）的极致性能版。 ▲ 现款小米 SU7 Ultra 过去几周，多辆采用更激进设计的 SU7 Ultra 测试车现身纽博格林赛道。该媒体分析称，不排除小米已在开发 更侧重赛道性能的 SU7 Ultra 升级版 。 接近项目的技术人员此前透露，小米主要 针对 SU7 Ultra",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9d32e428-abc0-4408-923e-479e3555e98b.png?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-14T14:20:53.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "“像一大群蜜蜂”：亚马逊 Prime Air 送货无人机噪音过大，遭当地居民投诉",
-      "link": "https://www.ithome.com/1/027/239.htm",
-      "summary": "IT之家 11 月 14 日消息，据休斯顿纪事报报道，亚马逊旗下的超快无人机配送服务 Prime Air 曾承诺，无论是午间零食、日用百货还是紧急医疗用品，只要重量在 5 磅 （IT之家注：约 2.3 千克） 以内，最快都能在 30 分钟内通过空中直送消费者家门口，然而当地居民对该服务并不买账。 在亚马逊开展该项服务的得克萨斯州各社区中，噪音污染已成为居民频繁投诉的焦点。 “刚推出时，这确实挺酷、挺新奇的，但现在简直快把我逼疯了。”当地居民表示，“ 这听起来就像一大群蜜蜂在耳边盘旋，音量比普通的蜂群大得多，而且从早到晚响个不停 。”自 Prime Air 无人机进驻该地区以来，当地居民针对噪音污染的投诉便接连不断。 “理查森眼下经历的一切很快就会在全美各地上演，到那时人们终将相信我们的话 —— 让这么多无人机整天在头顶飞来飞去，确实是一个极其严重的问题。”一位理查森居民在接受纽约时报采访时",
-      "image": null,
-      "publishedAt": "2026-11-14T14:09:32.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "VRChat Hairstyle With Ponytails That Turn Into Propellers",
       "link": "https://80.lv/articles/vrchat-hairstyle-with-ponytails-that-turn-into-propellers/",
       "summary": "You'll be able to purchase this one, along with even wilder hairstyles.",
@@ -738,303 +1065,6 @@
       "sourceName": "80 Level",
       "category": "3d",
       "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能",
-      "link": "https://www.ithome.com/1/027/238.htm",
-      "summary": "IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。 13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。” 据悉，用户可以借助 Muse 联 系保险公司或有线电视服务商、预约美国车管部门的业务办理时间，或是打电话向餐厅订位 。 Muse 会使用 AI 合成语音 与商家工作人员交谈，但这类功能并非总能顺利完成任务。部分商家的工作人员听出对方是 AI 后便直接挂断电话，有人是为了防范诈骗，也有人认为这类来电可能是恶作剧，只会浪费时间。 Meta 此前已面向早期体验用户测试了几个月，现向 Meta AI 最高级别的付费订阅用户开放。订阅价格为每月 19.99 美元 （IT之",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/950ea7d7-c980-45be-9181-c85981772d0d.png",
-      "publishedAt": "2026-11-14T13:46:56.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回",
-      "link": "https://www.ithome.com/1/027/233.htm",
-      "summary": "IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了。 30 多年前，黄仁勋与两位好友正是在这里构想出了英伟达，而如今纪念这一确切位置的牌匾已不翼而飞。牌匾上的铭文曾写道：“开启一家万亿美元公司的卡座”，如今只剩下一片空荡荡的砖墙和剥落的墙漆。两名店员证实，牌匾已被撤下。 ▲ 2023 年，丹尼餐厅 CEO Kelli Valade 与英伟达创始人黄仁勋在加利福尼亚州圣何塞的丹尼餐厅同框 IT之家注意到，在该媒体发文后，丹尼餐厅的一位发言人表示，该连锁餐厅正在“重新安装这块牌匾，以纪念在丹尼餐厅促成英伟达诞生的那些对话”。 “黄仁勋最初是在丹尼餐厅当洗碗工起家的。多年后，他和联合创始人们聚在我们的一个卡座里，探讨了后来演变为英伟达的构想。这块牌匾正是这段共同历史的见证，”该发言人说道。 英伟达创立于 1993 ",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/41d09d79-1185-4b43-baf8-ca643a2148c3.png?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-14T13:31:05.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "荷兰皇家航空前 CEO 被曝机上违规使用充电宝引发火情，公司提请指控",
-      "link": "https://www.ithome.com/1/027/231.htm",
-      "summary": "IT之家 11 月 14 日消息，据央视新闻今天（14 日）晚间报道，荷兰皇家航空公司前首席执行官（CEO）卡米尔 · 厄尔林斯 9 月在该公司一架客机上违规使用充电宝引发火情，荷航日前已就此事 向检方提请指控厄尔林斯 。 荷航 13 日在一份声明中说：“如果乘客严重违反安全规定，危及航班、乘客或机组人员安全，公司方面会提出指控， 这是标准做法 。” 荷航没有公布当事人身份。消息人士称，受指控的是厄尔林斯。 多方消息称，9 月 17 日，一架荷航客机从荷兰首都阿姆斯特丹飞往加勒比海的荷兰海外属地库拉索，途中客舱出现火情。当时， 厄尔林斯违规使用充电宝，充电宝过热自燃，浓烟笼罩客舱，火焰把窗户遮阳板烧得焦黑 。厄尔林斯本人在睡梦中受轻微伤。机组人员迅速用灭火器把火扑灭。飞机立即返航，安全返回阿姆斯特丹。 IT之家从报道中获悉，厄尔林斯 2013 年至 2014 年担任荷航 CEO，更早前担任",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/8c0d59aa-a7a9-4610-b118-afc030668e64.png",
-      "publishedAt": "2026-11-14T13:28:26.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立",
-      "link": "https://www.ithome.com/1/027/230.htm",
-      "summary": "IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产业投资基金，在北京 · 国家会议中心联合举行“ 国产数字前端 EDA 新平台发布会 ”，宣布亚科鸿禹与思尔芯合并重组，新平台公司“新禹思”（HyperS2C）正式成立。 官方表示，此次思尔芯与亚科鸿禹的整合并非简单的企业合并，而是国内两大头部数字 EDA 企业的优势互补、能力重构与生态完善。 整合后的新禹思，拥有专利 205 项、软件著作权 200 项， 具备覆盖从架构设计到系统级验证的数字前端全流程供给能力 ，服务全球客户超过 800 家，实现了技术能力的升级、产品体系的升级、客户网络的升级，全面对标国际顶尖技术水平。 IT之家获悉，新平台有助于 改变国产工具多为单点突破、成链配套能力偏弱的局面 ，进一步夯实其在国内数字前端 EDA 领域的行业龙",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/36ee1b9f-3950-4c47-8b3b-368985ad5408.png",
-      "publishedAt": "2026-11-14T13:07:04.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-      "link": "https://www.ithome.com/1/027/229.htm",
-      "summary": "IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会， 建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件 。 一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会 让企业不敢分享重要的安全信息 。 工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的监管责任，并考虑进一步延长期限。 此次政策建议意味着工作组的立场发生转变，从此前倾向于 依法处罚开发不安全产品的企业 ，改为通过 减轻责任鼓励 AI 开发商报告安全事件 。就在上个月，工作组还警告开发商，必须报告并解决安全事件，否则可能面临尚未明确的处罚。 据IT之家了解，“超级智能工作组”于今年 9 月底成立。此前，一系列失控 AI 模型引发安全事件，公众对 AI 可能造成灾难性后果的担忧持续升温",
-      "image": null,
-      "publishedAt": "2026-11-14T13:03:22.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯",
-      "link": "https://www.ithome.com/1/027/228.htm",
-      "summary": "IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。 布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。 IT之家注意到，黄仁勋离任后，网络上流传出一封公开信，以布莱恩 · 卡坦扎罗在内的多名英伟达高管与员工名义要求董事会让黄仁勋复职。 据悉，该公开信之所以很快被识破，除了布莱恩 · 卡坦扎罗下场辟谣外，还因为信件文本直接照搬了 2023 年 11 月 OpenAI 员工要求萨姆 · 奥尔特曼（Sam Altman）复职的联名信模板，仅将公司和人名替换为了英伟达、黄仁勋与科莱特 · 克雷斯，且签名列表中出现了多名已离职或职",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/49ab8b4f-a7ab-4a19-b20b-3a88a494493d.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-14T12:45:55.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚",
-      "link": "https://www.ithome.com/1/027/227.htm",
-      "summary": "IT之家 11 月 14 日消息，因在 未经意大利用户单独授权、也未充分告知用户 的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元 （IT之家注：现汇率约合 59.36 亿元人民币） 罚单。 意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供的“ 浏览 Facebook 时获取相册推荐 ”功能。用户浏览 Facebook 期间，该功能会 自动推荐手机相册中的照片和视频，作为发帖素材 。 2025 年 7 月，意大利数据保护局接到博尔扎诺消费者与用户保护中心举报后展开调查，并对该功能进行了技术分析。 相关阅读： 《 Meta 因转载使用新闻摘要，被欧盟法院判决向意大利出版商支付版权补偿 》 《 意大利反垄断机构出手：要求 Meta 停掉“",
-      "image": null,
-      "publishedAt": "2026-11-14T12:42:51.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测",
-      "link": "https://www.ithome.com/1/027/226.htm",
-      "summary": "IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。 这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后， 不仅能够读取车辆数据，还逐步实现了对部分参数的控制 。 其发布的视频记录了祖拉利解决尾气排放问题的全过程：从连续检测不合格，到成功连接发动机电脑并读取数据，再到 调整发动机、解决排放超标问题 。整个过程中，Claude 负责指导，Codex 则负责写代码。 切诺基此前多次未能通过加州尾气检测，原因是在 特定车速下氮氧化物排放超标 。最初，车辆在 40km/h 的测试中未能达标。祖拉利随后调整了混合气中的氧气比例，没想到情况反而",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/071217cc-ad9d-43a3-af84-2758879039b3.jpg",
-      "publishedAt": "2026-11-14T12:36:29.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "微软大规模宕机后，开源办公套件 LibreOffice 单日收到超 1000 笔捐款创历史新高",
-      "link": "https://www.ithome.com/1/027/225.htm",
-      "summary": "IT之家 11 月 14 日消息，当地时间 11 月 14 日，开源办公套件 LibreOffice 背后的非营利组织文档基金会（The Document Foundation）发文宣布，昨天（13 日）文档基金会 单日收到超过 1,000 笔捐款，创造历史纪录 。 官方表示，虽然并不对其他组织所面临的运营问题感到幸灾乐祸，但这一时间节点表明，许多人正在重新审视自己在文档方面对单一云服务提供商的依赖。 使用 LibreOffice，您的文档均存储在本地，开放文档格式（ODF）文件也完全归作者本人所有，而非属于任何服务提供商。 向每一位捐款人致以衷心感谢。正是你们的支持，让这款软件以及这些开放标准得以始终保持独立。 IT之家注意到，受微软多项软件服务全球性故障影响，全球金融业务遭受重创，部分交易员被迫改用电话、社交软件，甚至重新启用传真机维持业务运转。 相关阅读： 《 堪比蓝屏“灭霸”事件：",
-      "image": null,
-      "publishedAt": "2026-11-14T12:24:17.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Meta Quest App 商业模式生变：应用内购吸金能力已超越付费 App，成 Horizon 商店核心收入来源",
-      "link": "https://www.ithome.com/1/027/224.htm",
-      "summary": "IT之家 11 月 14 日消息，Meta 发文，透露 2026 年 1 月至 9 月期间，Quest 平台应用内购已经超过付费应用销售，成为 Meta Horizon 商店最大的收入来源。 对于一直关注 Quest 平台发展趋势的用户而言，这一变化并不令人意外。早在 2022 年，免费游戏《Gorilla Tag》就已经在用户评价数量上超过了当时被认为是最成功 VR 游戏的《Beat Saber》。如今，《Gorilla Tag》已经成为 Quest 平台少数用户评价数量突破 10 万条的应用之一，不过目前又被另外两款免费游戏《Animal Company》和《UG》超越。 对此，外媒 UploadVR 认为， 当下免费社交游戏以及依赖微交易的游戏已逐渐占据 Quest 平台主导地位，这也从侧面解释了 Meta 近年来为何决定剥离旗下大部分第一方付费游戏工作室 。 回顾历史，Meta 一",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/9eb3a7a0-66b5-4463-91d3-cfa3e0f58bea.png",
-      "publishedAt": "2026-11-14T12:23:21.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "苹果重申对 visionOS 平台的长期投入，仍看好空间计算发展前景",
-      "link": "https://www.ithome.com/1/027/223.htm",
-      "summary": "IT之家 11 月 14 日消息，据外媒 Road to VR 报道，苹果本周举办了一场特别的「Meet with Apple」开发者活动，重点围绕旗下空间计算平台 visionOS 展开。在外界数月来持续质疑苹果是否仍将投入 XR 领域的背景下，苹果公司再次强调“仍然看好空间计算平台的发展前景”。 苹果空间计算部门产品经理 Yuri Imoto 在活动中表示：“我们希望确保外界明确了解，苹果对这一平台的投入非常坚定。我们对此实际上感到非常兴奋。在相对较短的时间内，空间计算技术已经取得了相当迅速的进步”。 Imoto 还强调，空间计算平台正在医疗手术、医疗保健、教育、专业培训以及沉浸式电影等领域发挥越来越重要的作用，这些内容也是本次全天开发者活动重点讨论的方向。 不过， 苹果在上述表态时始终强调的是对空间计算技术及 visionOS 平台的长期投入，而这并不意味着公司同样会继续大力推进 V",
-      "image": null,
-      "publishedAt": "2026-11-14T12:15:10.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "前 Anthropic 研究员考克森：当今若要重新训练 Mythos，只需初始的一小部分算力",
-      "link": "https://www.ithome.com/1/027/221.htm",
-      "summary": "IT之家 11 月 14 日消息，曾任职于 OpenAI 和 Anthropic、因公开警告 AI 风险而受到广泛关注的研究员雅各布 · 考克森称，Anthropic 在 IPO 路演中展示的一张幻灯片，是促使他离职的重要原因。 考克森在 Anthropic 只工作了约四个月。让他决定离职的原因之一，是公司 IPO 路演中 一张展示 AI 模型训练算力需求变化的图表 。图表采用压缩坐标轴，即使算力需求增长 10 倍和 100 倍，看起来也相差不大。 即便如此，曲线依然急剧上升。考克森认为，这说明算法效率不仅在快速提高，而且提升速度还在不断加快。“这张图实在太惊人了，没想到他们竟然会公开。” 考克森认为，Anthropic 今年春季推出的 Mythos 模型在性能上实现重大突破，并非偶然，而是算法效率加速提升的结果。他写道：“Mythos 并非一次偶然的突破，而是超指数增长趋势中的一个节点。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/7abb288a-bcb2-424e-9699-1e44b0a9904e.png",
-      "publishedAt": "2026-11-14T11:45:39.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "网约车平台 Uber 优步遭黑客攻击，致美国多州司机驾照信息外泄",
-      "link": "https://www.ithome.com/1/027/219.htm",
-      "summary": "IT之家 11 月 14 日消息，网约车平台 Uber 优步披露公司遭遇数据泄露事件，导致数千名司机的个人信息及驾照信息被盗，涉及美国马萨诸塞州、南卡罗来纳州、罗得岛州和伊利诺伊州等地。 IT之家参考通报获悉，黑客首先入侵了该公司的一家第三方服务供应商，并窃取员工登录凭据，随后利用这些信息访问 Uber 的系统及数据，目前 Uber 已开始通知受影响司机具体信息泄露情况。 目前，Uber 尚未说明此次事件中的服务供应商，也没有公布可能受到影响的乘客人数。截至目前，也没有网络犯罪组织宣称对此次数据窃取事件负责。 不过综合 TechCrunch 报道， 涉事供应商实为 Fireworks AI，该平台主要面向开发者提供开源 AI 模型的运行、微调及扩展服务 。此次 Uber 遭黑客窃取的信息主要包含司机驾照数据，其中马萨诸塞州涉及 2567 人，南卡罗来纳州涉及 3430 人，罗得岛州涉及 1",
-      "image": null,
-      "publishedAt": "2026-11-14T11:23:33.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "上汽奥迪 AUDI E7X 计划于 12 月 OTA 推送升级 Momenta R7 世界模型",
-      "link": "https://www.ithome.com/1/027/218.htm",
-      "summary": "IT之家 11 月 14 日消息，在昨日举行的 AUDI DAY 上，官方宣布奥迪 E7X 将搭载由 Momenta R7 世界模型赋能的奥迪全景辅助驾驶，计划于 12 月通过 OTA 推送上线。 本次 OTA 升级，奥迪全景辅助驾驶将 解锁车位到车位、漫游模式、车头泊入等能力； 系统安全能力同步全面进阶，官方称高速场景安全感全面提升，其中高速恐慌应对提升 15 倍以上，危险变道防控能力提升近 5 倍。 据介绍，Momenta 行车避让功能迎来车企首秀，标志着“全场景老司机”智驾能力即将登陆奥迪。面对单车道窄路会车等国内典型复杂工况，奥迪 E7X 将可自主规划路径、灵活切换档位进退。 ▲ 窄路遇前后夹击，倒车避让 ▲ 20km 车位到车位，0 断点实测 IT之家获悉，此次将升级车头泊入功能。依托全系标配的后轮转向硬件加持：日常常规车位，约 90% 可实现一把泊入；面对异形、刁钻车位，车位释",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/04081c22-4794-47ed-b14c-a8cefba19967.jpg",
-      "publishedAt": "2026-11-14T11:14:33.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "AOC“CU34G4ZD”34 英寸曲面显示器上市：1440P 280Hz QD-OLED Penta Tandem 面板，4999 元",
-      "link": "https://www.ithome.com/1/027/217.htm",
-      "summary": "IT之家 11 月 14 日消息，AOC 旗下“CU34G4ZD”34 英寸显示器现已在京东上架。这一型号基于 1800R 曲面 34\" QD-OLED Penta Tandem 面板，采用 RGB V-Stripe 子像素排列，覆盖 Black AGLR 镀膜， 定价为 4999 元 。 京东 AOC“CU34G4ZD”显示器 4999 元 直达链接 CU34G4ZD 分辨率 WQHD (3440×1440)，刷新率 280Hz；获得 VESA DisplayHDR True Black 500 认证，SDR 亮度 300nits、HDR 峰值亮度 1300nits；色域 100% sRGB / 99% DCI-P3 / 97% Adobe RGB，色偏（平均值）ΔE＜2；支持硬件低蓝光。 该显示器提供 2 个 HDMI 2.1、1 个 DisplayPort、1 个 3.5mm 音频输",
-      "image": "https://img14.360buyimg.com/pop/jfs/t1/583551/20/3444/237141/6af6aa31F1d93554c/00833203204f9c6a.jpg",
-      "publishedAt": "2026-11-14T11:14:23.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "预测市场平台 Kalshi 招募《GTA 6》研究员，需全程直播游玩过程并分析游戏内外经济",
-      "link": "https://www.ithome.com/1/027/216.htm",
-      "summary": "IT之家 11 月 14 日消息，《GTA6》即将于 11 月 19 日发售，目前预测市场平台 Kalshi 宣布推出一项名为“《GTA 6》研究员”的特殊职位，要求应聘者在游戏发售时全程直播游玩过程，并对游戏内外经济进行研究。 根据职位描述，这份工作的核心任务包括研究《GTA 6》的游戏内经济系统，每周针对虚拟世界中的商业运作发布分析报告。此外，研究员还需要具备财经记者的敏锐度，分析游戏对美国现实经济的影响，例如玩家请病假导致的生产力损失，以及各大外卖平台订单量可能出现的增长。 同时，应聘者需要满足一系列条件。 Kalshi 要求候选人至少拥有 3 年成熟的游戏直播经验，具备个人直播频道及相关设备。如果拥有 10 年重度游戏经验，则会获得额外加分 。此外，候选人还需要熟悉各类热门游戏机制，能够独立分析游戏主线剧情和角色升级策略，甚至指出常见游戏攻略中存在的问题。 薪酬方面，Kalshi ",
-      "image": null,
-      "publishedAt": "2026-11-14T11:03:05.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Cursor 披露安全事件调查结果，恶意 Claude Code 扩展最多波及 5000 用户",
-      "link": "https://www.ithome.com/1/027/215.htm",
-      "summary": "IT之家 11 月 14 日消息，当地时间 10 月 29 日， Cursor 发布公告 ，称 Cursor VS Code 扩展市场中出现了一个恶意且未经授权的 Anthropic Claude Code 扩展副本。 当地时间 11 月 13 日，经过过去两周的全面调查， Cursor 披露了此次安全事件调查结果 。官方称绝大多数客户未受影响， 最多波及 5,000 名用户 ；对于受影响的客户，已逐一直接联系，并告知与其相关的详情。 据悉，如果用户使用隐私模式，提示词和代码不受影响；对于未使用隐私模式的用户，编程智能体链路追踪数据遭泄露的用户 占比 不到 0.05% 。Cursor 已确认这些用户，并已逐一直接通知。如果没有收到通知，说明你的数据不在这些链路追踪数据中。 官方表示，正在汲取此次的经验教训，进一步提升 Cursor 的安全性。 IT之家附事件简要经过： Fireworks ",
-      "image": null,
-      "publishedAt": "2026-11-14T10:52:39.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "黄仁勋离任 CEO 之际，英伟达品牌推广人员弗里曼称 GeForce 显卡不会终结",
-      "link": "https://www.ithome.com/1/027/212.htm",
-      "summary": "IT之家 11 月 14 日消息，过去一周，英伟达接连经历重大变故。随着黄仁勋离任 CEO，GeForce 显卡乃至整个游戏业务的前景引发担忧。 不过，英伟达品牌推广人员雅各布 · 弗里曼出面回应了外界的疑虑，明确否认公司将放弃游戏显卡业务，让不少考虑转投 AMD 或英特尔的玩家吃下了定心丸。 弗里曼在参加北美最大的局域网游戏聚会之一 PDXLAN 期间，于 X 上发文回应公司近期的动荡，强调英伟达仍会继续支持 PC 游戏业务。 他还分享了多张照片，回顾英伟达多年来参与这项活动的经历。“ 这一周发生了很多事 。能与这么多热爱 PC 游戏、硬件和科技的优秀同事共事，我感到十分庆幸。 我们的工作还会继续！ ” 随后，有 X 用户直接问道：“嘿，雅各布，很多人都说 GeForce 的时代要结束了，你怎么看？”弗里曼干脆地回答：“不会。” 此前部分玩家一度担心，英伟达会就此放弃游戏显卡业务，从而失",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/182c0992-ace4-4a04-ac31-7cf1f574fa15.png",
-      "publishedAt": "2026-11-14T10:43:16.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "美国首届 AI 音乐奖颁奖典礼举行，入围者坦言背后同样凝聚真人心血",
-      "link": "https://www.ithome.com/1/027/210.htm",
-      "summary": "IT之家 11 月 14 日消息，据路透社报道，当地时间 13 日，美国首届 AI 音乐奖颁奖典礼正式举行，表彰利用 AI 参与歌曲创作的音乐人。 AI 音乐虽然饱受争议，甚至引发诉讼，但仍在流媒体平台获得数百万次播放，并成功登上音乐排行榜。 在洛杉矶市中心举行的颁奖典礼上，负责颁奖和领奖的真人音乐人认为，AI 音乐应该被视为 一种新的音乐类型 。创作者 不仅需要具备艺术才能，还要花上数小时反复调整提示词 ，才能得到满意的音乐效果。 音乐制作人德雷克 · 墨菲在颁发最佳 AI 嘻哈歌曲奖时说：“在人人都说 AI 是假的时代，AI 背后的创作者却是真实存在的。” 当晚的年度 AI 艺人、年度歌曲和年度专辑三项大奖均由虚拟歌手 Xania Monet 获得。Xania Monet 因《How Was I Supposed to Know?》走红，《公告牌》称，这首 R&B 歌曲是首支进入其电台",
-      "image": "https://img.ithome.com/newsuploadfiles/2025/11/5c2e8809-1984-42b2-ad40-e7c80177ab9d.jpg?x-bce-process=image/watermark,text_QUnnlJ_miJA,type_RlpMYW5UaW5nSGVpU0JHQg==,size_28,color_ffffffdd,skw_1,skc_00000051,g_7,blr_50,bls_50,x_11,y_11/auto-orient,o_1",
-      "publishedAt": "2026-11-14T10:22:58.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "星闪智能家电 OpenLab 实验室正式投运：九方共建，覆盖芯片到整机全链条",
-      "link": "https://www.ithome.com/1/027/209.htm",
-      "summary": "IT之家 11 月 14 日消息，国际星闪联盟今日发文宣布，星闪智能家电（上海）创新实验室（简称星闪智能家电 OpenLab）此前以高分通过验收并获正式授牌，成为国际星闪联盟第四家官方授权 OpenLab，也是首个面向智能家电领域的开放创新平台。目前， 实验室已正式投入运营 。 星闪（NearLink）作为新一代无线短距通信技术，具备低时延、高可靠、精定位、抗干扰、多并发等特性。官方表示，在智能家电领域，星闪数传、感知、定位以及灵活组网能力已经催生出一批新场景： 在电视周边，星闪指向遥控为全区影音娱乐带来全新沉浸式体验； 在白电周边，星闪通感一体让全屋家电变得更智能； 在路由器周边，宽窄一张网让全屋互联更加便捷。 据介绍，星闪智能家电 OpenLab 由上海青浦星联星闪促进中心承建并运营。促进中心由美的、上海海思、杭州永谐、上海数字电视国家工程研究中心、上海交通大学、合肥恒新基、上海长三角",
-      "image": null,
-      "publishedAt": "2026-11-14T10:21:50.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "遭遇全球规模最大加密货币盗窃后，币安目标下周全面恢复提现服务",
-      "link": "https://www.ithome.com/1/027/198.htm",
-      "summary": "IT之家 11 月 14 日消息，全球最大加密货币交易所币安在上个月遭黑客攻击，价值 63 亿美元 （IT之家注：现汇率约合 421.15 亿元人民币） 的资产被盗走后，业务运营正逐步恢复。 币安今天宣布，计划在下周结束前 全面恢复尚未开放的提现服务 。“本周，我们恢复了 87 条网络的提现服务。我们的 目标是在下周结束前 恢复其余所有网络和资产的提现服务。” 本月早些时候，币安在补足 95% 的被盗资产损失后， 开始分阶段恢复提现 。此次被盗资产总价值 63 亿美元 （现汇率约合 421.15 亿元人民币） ，被专家认为是史上规模最大的加密货币盗窃案。 币安在初步调查报告中披露，黑客从 6 月便开始分阶段实施攻击，接连突破安全防线，最终于 10 月 29 日盗走资产。 此次事件暴露了数字资产面临的网络安全风险，也引发外界对币安将受到何种影响的担忧。币安承诺全额赔偿客户损失。 币安 CFO",
-      "image": null,
-      "publishedAt": "2026-11-14T10:10:09.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-      "link": "https://www.qbitai.com/2026/11/510297.html",
-      "summary": "马斯克也签名了",
-      "image": null,
-      "publishedAt": "2026-11-14T10:08:08.000Z",
-      "sourceId": "qbitai",
-      "sourceName": "量子位",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Cloudflare 开源为 AI 智能体打造的浏览器 Kitesurf，消耗资源低于 Chromium",
-      "link": "https://www.ithome.com/1/027/197.htm",
-      "summary": "IT之家 11 月 14 日消息，今年 8 月，Cloudflare 推出专为 AI 智能体打造的浏览器 Kitesurf。当地时间 11 月 13 日，Cloudflare 宣布开源 Kitesurf。 据介绍，Kitesurf 运行在 Cloudflare Workers 之上，无需依赖传统的浏览器容器，即可完成 HTML 解析、CSS 应用、执行页面中的 JavaScript 以及网页截图渲染。 同时，它支持 Chrome 开发者工具协议（Chrome DevTools Protocol），用户可以直接使用现有工具对其进行驱动，底层完全无需依赖任何 Chromium 进程或容器。 官方表示，Kitesurf 并没有照搬 Chromium 这类完整的桌面浏览器引擎，而是聚焦于智能体真正关心的核心指标（如 Token 消耗量、上下文窗口、可扩展性、性能与成本），同时果断舍弃了仅面向人类用",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/4e7b046e-c7ff-4317-b68a-c39c40930e76.jpg",
-      "publishedAt": "2026-11-14T10:06:01.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "link": "https://www.qbitai.com/2026/11/510232.html",
-      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-      "image": null,
-      "publishedAt": "2026-11-14T09:58:22.000Z",
-      "sourceId": "qbitai",
-      "sourceName": "量子位",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-      "link": "https://www.qbitai.com/2026/11/510150.html",
-      "summary": "童年的纸飞机，现在终于飞回我手里～",
-      "image": null,
-      "publishedAt": "2026-11-14T09:48:34.000Z",
-      "sourceId": "qbitai",
-      "sourceName": "量子位",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "212 T10 将于广州车展上市：三门越野车、可拆卸车顶",
-      "link": "https://www.ithome.com/1/027/188.htm",
-      "summary": "IT之家 11 月 14 日消息，据汽车之家消息，212 T10 将于广州车展上市，新车是一款三门车型，搭载与 212 T01 同款 2.0T 汽油发动机。 IT之家从申报信息获悉，该车长宽高分别为 4416/1955/1925mm，轴距为 2570mm。 这款车主打复古风，轮廓硬朗方正，配有圆形车灯和粗壮的前格栅，以及大尺寸前保险杠。此外，该车最大的特征是采用三门四座设计，并配有可拆卸车顶；尾门也是经典的侧开方式，搭配外挂式备胎，配备分体式车灯。 动力方面，新车搭载东安汽车发动机，与 T01 同款的 2.0T 汽油发动机，最大功率 185kW，最高车速 170km/h。 参考 212 T01，预计新车继续搭载分时四驱，提供前桥差速锁、后桥差速锁和中央差速器锁止功能，配备 AT 越野胎，接近角 41 度，离去角 32 度。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/b5648a27-69b3-43b4-8c95-9f8023b684d1.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-14T09:44:34.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "link": "https://www.qbitai.com/2026/11/510094.html",
-      "summary": "年产2000万亿Token，成本狂降70%",
-      "image": null,
-      "publishedAt": "2026-11-14T09:41:02.000Z",
-      "sourceId": "qbitai",
-      "sourceName": "量子位",
-      "category": "ai",
-      "categoryLabel": "AI"
     },
     {
       "title": "拳头游戏公布《英雄联盟》赛事未来展望",
@@ -1532,17 +1562,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "《Delve Survivors》现已正式发售",
-      "link": "https://www.gcores.com/articles/222303",
-      "summary": "由独立团队iDiOSLAB开发的回合制幸存者类新游《Delve Survivors》于11月13日正式上架Steam，售价人民币45元，首发折扣15% off，截至11月27日结束。 与传统幸存者类游戏不同的是，《Delve Survivors》中，敌人只有在玩家行动时才会行动，玩家停下来敌人也会随之停下，战斗节奏完全由你来掌控。 幸存者类游戏，但是回合制 游戏中，玩家必须不断探索地下城、击败敌人、收集装备、获取技能，并且在有限的回合数内抵达地下城深处。随着冒险深入，玩家将面对越来越危险的敌人，每一步都需要经过仔细权衡。 《Delve Survivors》在需要深思熟虑的策略决策与必须不断向前推进的压力之间，创造出了一种独特的平衡，也让幸存者类的刺激战斗变得更加有策略性。 《Delve Survivors》联合创作者Ryan Wolf表示，在本作中，生存并不依赖快速的反应能力，而是取决于谨",
-      "image": "https://image.gcores.com/abfd2e3013bbd5723bc4431799d35b19-1268-713.png?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90",
-      "publishedAt": "2026-11-13T06:46:12.000Z",
-      "sourceId": "gcores",
-      "sourceName": "机核",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "本周 Steam 值得关注的游戏 11.09 - 11.15（五）",
       "link": "https://indienova.com/indie-game-news/guide-2026-1109-1115-part-5/",
       "summary": "本周由我们indienova发行、Tear Bird开发的平台跳跃解谜游戏《卷尺人》将要发售啦！还有多款高热度新游也均在本周内发售，一起来看看吧！",
@@ -1605,17 +1624,6 @@
       "publishedAt": "2026-11-13T02:12:12.000Z",
       "sourceId": "gamelook",
       "sourceName": "GameLook",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "2026 CiGADC开发者大会完整日程公开！",
-      "link": "https://indienova.com/indie-game-news/2026-cigadc-schedule/",
-      "summary": "分享涉及包括《边狱巴士》、《杀戮尖塔》、《吸血鬼幸存者》、《孤山独影》、《梦之形》、《心跳文学部！》、《龙胤立志传》、《幻兽帕鲁》等作品。通过行业杰出代表的亲身经历分享，从游戏开发、发行等多个领域，带给与会者宝贵的经验与财富。",
-      "image": null,
-      "publishedAt": "2026-11-13T02:00:00.000Z",
-      "sourceId": "indienova",
-      "sourceName": "indienova",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1702,17 +1710,6 @@
       "summary": "Koshizu Space released Koshizu Trees, a procedural tree add-on for Blender, built around Japanese species and the way they are actually grown, pruned and aged in gardens. Version 1.0 includes seven presets across five species: Kusunoki (camphor tree), Momiji (Japanese maple), Aodamo (Japanese ash), Manryo (Ardisia crenata) and Sakura (cherry, in bloom). Momiji and Aodamo […] Source",
       "image": null,
       "publishedAt": "2026-11-09T07:18:53.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Best of Blender Artists: 2026-45",
-      "link": "https://www.blendernation.com/2026/11/06/best-of-blender-artists-2026-45/",
-      "summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I’m putting some of the best work in the spotlight in a weekly post here on BlenderNation. Source",
-      "image": null,
-      "publishedAt": "2026-11-06T10:20:03.000Z",
       "sourceId": "blendernation",
       "sourceName": "BlenderNation",
       "category": "3d",
