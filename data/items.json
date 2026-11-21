@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:24:39.609Z",
+  "generatedAt": "2026-11-21T23:07:22.847Z",
   "total": 149,
   "promoFiltered": 0,
   "promoDroppedTitles": [],
@@ -26,122 +26,265 @@
       "name": "OpenAI",
       "ok": true,
       "count": 1421,
-      "ms": 297
+      "ms": 191
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 196
+      "ms": 393
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 915,
-      "ms": 104
+      "ms": 159
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 68
+      "ms": 108
     },
     {
       "id": "qbitai",
       "name": "量子位",
-      "ok": false,
-      "error": "fetch failed",
-      "ms": 10456
+      "ok": true,
+      "count": 10,
+      "ms": 1719
     },
     {
       "id": "ifanr",
       "name": "爱范儿",
       "ok": true,
       "count": 20,
-      "ms": 1540
+      "ms": 1445
     },
     {
       "id": "ithome",
       "name": "IT之家",
       "ok": true,
       "count": 60,
-      "ms": 363
+      "ms": 492
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
       "count": 10,
-      "ms": 241
+      "ms": 425
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 391
+      "ms": 565
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 150
+      "ms": 188
     },
     {
       "id": "gcores",
       "name": "机核",
       "ok": true,
       "count": 20,
-      "ms": 1329
+      "ms": 1221
     },
     {
       "id": "indienova",
       "name": "indienova",
       "ok": true,
       "count": 10,
-      "ms": 1408
+      "ms": 1490
     },
     {
       "id": "chuapp",
       "name": "触乐",
       "ok": true,
       "count": 30,
-      "ms": 3679
+      "ms": 4047
     },
     {
       "id": "gamelook",
       "name": "GameLook",
       "ok": true,
       "count": 31,
-      "ms": 3924
+      "ms": 3403
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 474
+      "ms": 703
     },
     {
       "id": "blendernation",
       "name": "BlenderNation",
       "ok": true,
       "count": 10,
-      "ms": 434
+      "ms": 616
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": true,
       "count": 9,
-      "ms": 263
+      "ms": 393
     }
   ],
   "items": [
+    {
+      "title": "Alt Video is a digital, faux Blockbuster video store that you can fill with movies from your Letterboxd watchlist and Plex server",
+      "link": "https://www.rockpapershotgun.com/alt-video-is-a-digital-faux-blockbuster-video-store-that-you-can-fill-with-movies-from-your-letterboxd-watchlist-and-plex-server",
+      "summary": "Since the beginning of the year, I have watched almost 150 films. I know this, because over the past few years, I've become one of those people&hellip; a Letterboxd user. Gasp! I know, I know, but I don't think I'm too insufferable about it. I'll only do a joke review in the hopes of like farming if I think it's genuinely funny! But many of these films were watched digitally, meaning I don't have ",
+      "image": "https://assetsio.gnwcdn.com/alt-video.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-21T22:50:30.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
+      "link": "https://www.polygon.com/star-wars-new-jedi-order-era-update/",
+      "summary": "Two upcoming Star Wars films, New Jedi Order and Lucasfilm head Dave Filoni's untitled project, are making progress.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19812990/rey_finn_poe_in_star_wars_9_rise_of_skywalker_desert_wayfinder_scene.jpg",
+      "publishedAt": "2026-11-21T22:18:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
+      "link": "https://www.polygon.com/gta-6-players-irl-vice-city-locations/",
+      "summary": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_08.jpg",
+      "publishedAt": "2026-11-21T22:00:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Where to find the giant crab safe code and Crabshack VF5 SMG in GTA 6",
+      "link": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
+      "summary": "GTA 6's giant crab event takes you through Pelican Valley Outpost and rewards you with the Crabshack VF5 SMG standout weapon.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-giant-crab-crabshack-smg.jpg",
+      "publishedAt": "2026-11-21T21:48:35.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "image": null,
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Public-access television is born anew in NIGHT EYE TV, a digital goggle box filled with art game curios",
+      "link": "https://www.rockpapershotgun.com/public-access-television-is-born-anew-in-night-eye-tv-a-digital-goggle-box-filled-with-art-game-curios",
+      "summary": "I am both a bit too young and a bit too very not American to have ever experienced public-access television, but it's something that's always fascinated me. For those too young to have even heard of it, or just not in the know, it essentially allowed anyone to broadcast their own shows through cable TV. A proto YouTube, if you will. It's obviously not what it was any more, given the advent of the ",
+      "image": "https://assetsio.gnwcdn.com/nighteye-tv.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-21T21:27:20.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "image": null,
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "All Cheat Codes in GTA 6",
+      "link": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+      "summary": "Grand Theft Auto 6 features a huge list of cheats. Here's how to unlock them all, and what each one does.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-jasopn-lucia-bank-robbery.jpg",
+      "publishedAt": "2026-11-21T21:02:19.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Declasse Vamos code location in GTA 6",
+      "link": "https://www.polygon.com/gta-6-declasse-vamos-code-car-location/",
+      "summary": "The Declasse Vamos is inside a locked garage in GTA 6. Here's where to find the keypad code and what it is.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/declasse-vamos_gta6.jpg",
+      "publishedAt": "2026-11-21T20:54:45.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Is immortality a curse for elves?",
+      "link": "https://www.polygon.com/video/is-immortality-a-curse-for-elves/",
+      "summary": "The Rings of Power star Jamie Campbell points out the downside of the elves' immortal lifespan in Amazon's Lord of the Rings show. #lordoftherings #lotr #ringsofpower #jamiecampbellbower #celeborn",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/is-immortality-a-curse-for-elves.png",
+      "publishedAt": "2026-11-21T20:00:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
+      "link": "https://www.polygon.com/gta-6-graphics-realism/",
+      "summary": "Grand Theft Auto's 6 realistic visuals and world are changing how I play in the crime sandbox.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+      "publishedAt": "2026-11-21T19:00:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Eldritch Empathy is a Papers Please-esque roguelite about diagnosing cosmic horror creatures and trying not to lose your marbles as you do",
+      "link": "https://www.rockpapershotgun.com/eldritch-empathy-is-a-papers-please-esque-roguelite-about-diagnosing-cosmic-horror-creatures-and-trying-not-to-lose-your-marbles-as-you-do",
+      "summary": "Oh I do love an eldritch horror creature, I do, especially one that at first glance may only be slightly different from what I'm used to seeing. Eldritch Empathy, then, seems like a grand ole game to satisfy my wanton need to experience such things. It's a puzzle roguelite that isn't exactly a Papers Please -like but certainly feels reminiscent of one, where you have to \"analyse corrupted creature",
+      "image": "https://assetsio.gnwcdn.com/eldritch-empathy.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-21T18:57:00.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "\"Everyone agrees it's more fun this way\": Toby Fox won't tell his team how Deltarune ends until they've built enough of it",
+      "link": "https://www.rockpapershotgun.com/everyone-agrees-its-more-fun-this-way-toby-fox-wont-tell-his-team-how-deltarune-ends-until-theyve-built-enough-of-it",
+      "summary": "Toby Fox is a purposefully mysterious person. It was probably a wise choice on his part, obfuscating his current appearance with everyone's favourite annoying dog, essentially never speaking aloud in livestreams and instead using a text-to-speech bot, and posting only when there's notable enough Deltarune updates of if it would be very funny. But as it turns out, that sense of mystery extends to t",
+      "image": "https://assetsio.gnwcdn.com/deltarune-toby-fox.jpg?width=690&quality=85&format=jpg&auto=webp",
+      "publishedAt": "2026-11-21T17:54:00.000Z",
+      "sourceId": "rps",
+      "sourceName": "Rock Paper Shotgun",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
     {
       "title": "Former Blade Director Reveals What Went Wrong With The Ill-Fated Marvel Movie",
       "link": "https://www.polygon.com/blade-movie-director-comments-no-script/",
@@ -152,6 +295,28 @@
       "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "image": null,
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "How to Create a Gingerbread House",
+      "link": "https://www.blendernation.com/2026/11/21/how-to-create-a-gingerbread-house/",
+      "summary": "Ryan King shows how to create this Gingerbread House in a 7-part beginner Blender tutorial series. In part 1, he models the front wall, side wall, floor and a table, sets up the lighting and builds a procedural gingerbread material. In part 2, he models the icing and gives it a material, places it on […] Source",
+      "image": null,
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
     },
     {
       "title": "How to use auto drive in GTA 6",
@@ -187,50 +352,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "Darkest Dungeon 2 DLC's New Mode Is Very Different From The Base Game",
-      "link": "https://www.polygon.com/darkest-dungeon-2-the-butchers-asylum/",
-      "summary": "The Butcher's Asylum features a new narrator and drastically shakes up the roguelike's structure",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/darkest-dungeons-2-dlc.png",
-      "publishedAt": "2026-11-21T16:31:42.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "The Galadriel love story we never saw...",
-      "link": "https://www.polygon.com/video/the-galadriel-love-story-we-never-saw/",
-      "summary": "In this season of The Lord of the Rings: The Rings of Power, audiences are treated to a proper elven romance.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-galadriel-love-story-we-never-saw.png",
-      "publishedAt": "2026-11-21T16:30:19.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Where to find the bowling alley safe code in GTA 6",
-      "link": "https://www.polygon.com/gta-6-kingpin-bowling-alley-safe-code-location-grand-theft-auto/",
-      "summary": "The Kingpin Bowling Alley in GTA 6 is home to a locked safe. Here's where you can find the code and what you can find inside.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-bowling-alley-safe-code-header.jpg",
-      "publishedAt": "2026-11-21T16:07:42.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "GTA 6's Impact on Steam and Roblox After Record-Breaking Launch Revealed",
-      "link": "https://www.polygon.com/gta-6-impact-on-steam-roblox/",
-      "summary": "GTA 6 did not seem to have much of an effect on platforms it was not available on",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/gta-6-setting-vice-city.jpg",
-      "publishedAt": "2026-11-21T16:05:15.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "今日小雪：雨凝为雪，地气冻结",
       "link": "https://www.ithome.com/1/030/511.htm",
       "summary": "IT之家 11 月 22 日消息，今天是 11 月 22 日，同时也是节气中的小雪，真正的寒冬即将到来。小雪为二十四节气中的第 20 个。具体的时间为 11 月 22 或 23 日，此时太阳到达黄经 240°。 小雪时节① 天气寒冷，降水状态由雨变雪，但“地寒未甚”，雪量不大，故称小雪 ；②北方供暖季，长期在暖气房会出现口干舌燥、咳嗽、头晕等，需预防“暖气病”；③小雪节气过后气温将更低，要注意防寒保暖，谨防感冒。小雪到，冬始俏。 进入该节气，中国广大地区西北风开始成为常客，气温下降，虽开始降雪，但雪量不大，故称小雪。据说，在北方，小雪时节要吃涮羊肉，在南方有吃糍粑的习俗。 小雪节气的降临就意味着西北风的到来，同时各地气温也逐渐降到 0℃ 以下。此时大地尚未彻底寒冷，下降的雪也不是很多，故名小雪。对于黄河以北的人们来说，冬天的第一场雪就将在小雪节气附近降临，小雪的到来也提醒着人们该御寒保暖。",
@@ -253,28 +374,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "D&D Publisher Officially Hands Record-Breaking AI Settlement Money to Authors",
-      "link": "https://www.polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast/",
-      "summary": "Wizards of the Coast is entitled to a hefty sum of Anthropic settlement money, but it's giving it to Dungeons & Dragons writers.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeons-dragons-world-of-warcraft-bronze-dragons.jpg",
-      "publishedAt": "2026-11-21T15:59:00.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "GTA 6 Officially Includes Unreleased Song From Music Legend D'Angelo",
-      "link": "https://www.polygon.com/gta-6-dangelo-song-rockstar-games-radio/",
-      "summary": "Players have discovered that one of GTA 6's radio stations can play an unreleased song from the late D'Angelo.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
-      "publishedAt": "2026-11-21T15:53:57.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "1967 款保时捷 912 借电动化喜获新生：输出 304 马力，续航 400 公里",
       "link": "https://www.ithome.com/1/030/510.htm",
       "summary": "IT之家 11 月 21 日消息，现如今在海外，让经典车通过电动化改造获得新生的项目不断涌现。外媒 insideevs 今天（21 日）介绍了一辆“复活”的 1967 款保时捷 912，该车由改装厂商 Inverted 经手，改装团队为它装上了电池组和电动机。 改装完成后，车辆外观与原厂 912 毫无二致，经典的复古造型得以完整保留，开起来却已经是一辆当代的电动汽车。 这套改装最巧妙的地方在于电池布局。由于车身本就轻巧，62kWh 的电池组因此足以让车辆拥有相当可观的续航。然而，电池重量如果全部集中在后轴上方，却会让车尾负担过重。 老款风冷保时捷本来就容易在收油时出现转向过度，再增加后部重量，自然不是好主意。Inverted 为此将电池组拆分成两部分：一部分放在原发动机舱的位置，另一部分则安装在车头的前备箱内。 经过这样的布局调整，电动版 912 的前后重量分配反而比原车更加合理。 IT之",
@@ -295,17 +394,6 @@
       "sourceName": "IT之家",
       "category": "ai",
       "categoryLabel": "AI"
-    },
-    {
-      "title": "10 Near-Perfect Netflix Sci-Fi Shows That Hook You in the First Scene",
-      "link": "https://www.polygon.com/perfect-netflix-sci-fi-shows-list/",
-      "summary": "From mind-bending mysteries to dystopian futures, these Netflix sci-fi series prove that some stories can't be forgotten from the moment they start.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dark-tv-series-2.jpg",
-      "publishedAt": "2026-11-21T15:11:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "并无悬念，核周报11.21",
@@ -935,39 +1023,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "Blackview 推出 Zeno 3 平板电脑：120Hz 800P 面板、展锐 T7250 处理器",
-      "link": "https://www.ithome.com/1/030/383.htm",
-      "summary": "IT之家 11 月 21 日消息，制造商 Blackview 宣布推出一款 Zeno 3 平板电脑，该机将于近期在海外上市。 该机尺寸为 239 x 157.4 x 7.85 毫米，提供石墨黑、地平线蓝和极光绿三种颜色可选，正面配备一块 10.1 英寸 1280x800 分辨率 120Hz IPS 面板，匹配 5Mp 自拍摄像头，平板背面配备了 13Mp 主摄。 该机搭载紫光展锐 T7250 处理器，搭载 8GB RAM 和 128GB 存储空间，配备 7000mAh 电池，搭载安卓 17 系统，同时拥有双扬声器、双 SIM 等特性。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3bc5b5a5-4a3f-46ee-a3e3-759995059b75.png",
-      "publishedAt": "2026-11-21T07:50:08.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "谷歌为 Gemini 上线 GIF 动态图片生成功能，由 Omni 1.2 Flash 模型驱动",
-      "link": "https://www.ithome.com/1/030/381.htm",
-      "summary": "IT之家 11 月 21 日消息，谷歌宣布为 Gemini 上线 GIF 生成功能，相应功能由视频模型 Gemini Omni 1.2 Flash 驱动，可生成循环动态图效和搞笑表情包。 该功能面向所有 Google AI 订阅用户开放，并在美国、日本、韩国、澳大利亚、加拿大、英国、德国和法国免费。用户可在主聊天输入提示词，或在图像与视频工具中选择 GIF 并描述需求，等待片刻即可生成图片。 IT之家注意到，谷歌还于 11 月 18 日推出了 AI 模型 Gemini 4 Neon，主攻复杂编程、科学研究和企业工作流程，更好平衡推理能力、任务处理速度与成本，目前已开始向开发者、企业及部分付费订阅用户开放。 费用方面，Gemini 4 Neon 在 API 调用方面，每 100 万词元输入费用为 3 美元 （IT之家注：现汇率约合 20 元人民币） ，每 100 万词元输出费用为 15 美元",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/11f8c7d1-a87b-4e38-888f-7eb951f8836e.png",
-      "publishedAt": "2026-11-21T07:41:30.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Nothing 首款 AI 原生硬件设备定档 12 月 8 日亮相：无屏幕设计、预计主打会议记录用途",
-      "link": "https://www.ithome.com/1/030/379.htm",
-      "summary": "IT之家 11 月 21 日消息，Nothing 发文，预热旗下首款 AI 原生硬件设备将于 12 月 8 日正式亮相。这款产品将采用无屏幕设计，定位为面向日常办公与生产力场景的 AI 工具。 从 此前公布的预热图片 来看，这款设备采用小巧的矩形机身，表面使用拉丝金属材质，并配有实体按键。其中一个面积较大的按键标有“Talk”字样，另一个按键则带有录音标识，机身上还提供红色与绿色 LED 状态指示灯，可以看出该产品预计主打会议记录用途。 Nothing 首席执行官裴宇此前曾表示，当前 AI 技术面临的一大问题是缺乏对用户日常生活的理解。尽管大模型已经具备较强的处理能力，但用户在会议、交谈等场景中产生的信息，往往无法及时成为 AI 能够使用的上下文。因此，Nothing 希望通过专门的硬件设备，让 AI 更自然地融入日常工作。此外，裴宇还透露“相应产品没有屏幕，也不是一款软件应用”。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/77fb1ff2-cba8-423e-8a7e-f8867024a131.png",
-      "publishedAt": "2026-11-21T07:28:50.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "Grey is Just a Number – Unlock the Secrets of Maths Nodes in Blender",
       "link": "https://www.blendernation.com/2026/11/21/grey-is-just-a-number-unlock-the-secrets-of-maths-nodes-in-blender/",
       "summary": "Math nodes look like homework, but in a material every number is just a shade of grey. Richard Yot writes: This tutorial shows that Blender’s Math operations are just like familiar image adjustments: brightness, exposure, invert, contrast and threshold. From this starting point I show you how to use them to make actual textures, using […] Source",
@@ -1562,50 +1617,6 @@
       "categoryLabel": "游戏"
     },
     {
-      "title": "Ignore that other game about crime that's out and burgle some ugly farmhouses in Keepsake County, a \"midwestern stealth game\" with a 2000s Cartoon Network vibe",
-      "link": "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
-      "summary": "Is there something going on today? A lot of talk about committing crimes and the like, I just can't quite put my finger on why&hellip; Ah well, couldn't be important or interesting. What is interesting, however, is Keepsake County, a \"midwestern stealth game\" that has launched on this inauspicious day about stealing stuff from \"hideous farmhouses in the middle of nowhere.\" Read more",
-      "image": "https://assetsio.gnwcdn.com/keepsake-county.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-19T17:05:40.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios, while mumbling about \"current production priorities and business needs\"",
-      "link": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
-      "summary": "Ubisoft have laid off 166 developers, with this latest round of cuts at the Assassin's Creed and Far Cry publishers taking place at two of their studios in Eastern Canada. Both studios affected, Ubisoft Montreal and Ubisoft Quebec, had a hand in last year's Assassin's Creed Shadows , with Montreal especially being a major and long-tenured development hub for the company. Read more",
-      "image": "https://assetsio.gnwcdn.com/assassins-creed-shadows-controversy-ubisoft-presentation-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-19T16:12:50.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Why greenlighting Dressmaker wasn't an easy decision to make",
-      "link": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
-      "summary": "Pre-production data said Dressmaker might not find an audience. Free Lives pushed past those numbers to make a bona fide hit.",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf629aa8d663deef6/6aff025aef000f19a8414e37/Dressmaker_Key_Art_Final_(1).JPG?width=720&quality=80&disable=upscale",
-      "publishedAt": "2026-11-19T15:57:43.000Z",
-      "sourceId": "gamedeveloper",
-      "sourceName": "Game Developer",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
-      "link": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
-      "summary": "Epic Games are, as you're probably aware, going big on genAI at the moment. To the extent that, last month, the Tim Sweeney-helmed company announced the Epic AI MegaJam . Build a playable game in Unreal Engine or Unreal Editor for Fortnite with help from as many AI agents or tools as you like was the pitch. So, naturally, sorting the submissions by 'Popular' turns up a game about a fish with a sni",
-      "image": "https://assetsio.gnwcdn.com/ai-free-fish-sniper-game-tops-epic-ai-gamejam-01.jpg?width=690&quality=85&format=jpg&auto=webp",
-      "publishedAt": "2026-11-19T15:30:00.000Z",
-      "sourceId": "rps",
-      "sourceName": "Rock Paper Shotgun",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "Blender’s Most Hidden Shortcut (A Noir Tale)",
       "link": "https://www.blendernation.com/2026/11/19/blenders-most-hidden-shortcut-a-noir-tale/",
       "summary": "Chances are you’d never stumble across that mysterious Blender shortcut. Source",
@@ -1666,17 +1677,6 @@
       "summary": "Here’s an overview of the most recent Blender jobs on Blender Artists, ArtStation and 3djobs.xyz: Environment Artist 3D Character Modeler – Stylized Character for Physical Product Prototype For more jobs, look here. Source",
       "image": null,
       "publishedAt": "2026-11-13T10:15:00.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Best of Blender Artists: 2026-46",
-      "link": "https://www.blendernation.com/2026/11/13/best-of-blender-artists-2026-46/",
-      "summary": "Every week, hundreds of artists share their work on the Blender Artists forum. I’m putting some of the best work in the spotlight in a weekly post here on BlenderNation. Source",
-      "image": null,
-      "publishedAt": "2026-11-13T09:35:57.000Z",
       "sourceId": "blendernation",
       "sourceName": "BlenderNation",
       "category": "3d",
