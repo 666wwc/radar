@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:29:59.565Z",
+  "generatedAt": "2026-11-22T20:18:33.277Z",
   "total": 149,
   "promoFiltered": 1,
   "promoDroppedTitles": [
@@ -27,133 +27,386 @@
       "id": "openai",
       "name": "OpenAI",
       "ok": true,
-      "count": 1421,
-      "ms": 195
+      "count": 1422,
+      "ms": 174
     },
     {
       "id": "googleai",
       "name": "Google AI",
       "ok": true,
       "count": 20,
-      "ms": 231
+      "ms": 352
     },
     {
       "id": "huggingface",
       "name": "Hugging Face",
       "ok": true,
       "count": 915,
-      "ms": 166
+      "ms": 105
     },
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
       "ok": true,
       "count": 20,
-      "ms": 85
+      "ms": 77
     },
     {
       "id": "qbitai",
       "name": "量子位",
       "ok": true,
       "count": 10,
-      "ms": 1630
+      "ms": 1294
     },
     {
       "id": "ifanr",
       "name": "爱范儿",
       "ok": true,
       "count": 20,
-      "ms": 1394
+      "ms": 1547
     },
     {
       "id": "ithome",
       "name": "IT之家",
       "ok": true,
       "count": 59,
-      "ms": 594
+      "ms": 528
     },
     {
       "id": "polygon",
       "name": "Polygon",
       "ok": true,
       "count": 10,
-      "ms": 398
+      "ms": 412
     },
     {
       "id": "gamedeveloper",
       "name": "Game Developer",
       "ok": true,
       "count": 50,
-      "ms": 486
+      "ms": 540
     },
     {
       "id": "rps",
       "name": "Rock Paper Shotgun",
       "ok": true,
       "count": 100,
-      "ms": 162
+      "ms": 177
     },
     {
       "id": "gcores",
       "name": "机核",
       "ok": true,
       "count": 20,
-      "ms": 1212
+      "ms": 1178
     },
     {
       "id": "indienova",
       "name": "indienova",
       "ok": true,
       "count": 10,
-      "ms": 1401
+      "ms": 1209
     },
     {
       "id": "chuapp",
       "name": "触乐",
       "ok": true,
       "count": 30,
-      "ms": 4282
+      "ms": 4275
     },
     {
       "id": "gamelook",
       "name": "GameLook",
       "ok": true,
       "count": 31,
-      "ms": 3346
+      "ms": 3132
     },
     {
       "id": "80lv",
       "name": "80 Level",
       "ok": true,
       "count": 10,
-      "ms": 621
+      "ms": 636
     },
     {
       "id": "blendernation",
       "name": "BlenderNation",
       "ok": true,
       "count": 10,
-      "ms": 612
+      "ms": 660
     },
     {
       "id": "blender",
       "name": "Blender",
       "ok": true,
       "count": 9,
-      "ms": 675
+      "ms": 382
     }
   ],
   "items": [
     {
-      "title": "30 Years Later, Sean Connery's Secret James Bond Thriller Is Officially Free on Streaming",
-      "link": "https://www.polygon.com/the-rock-sean-connery-free-to-stream/",
-      "summary": "Michael Bay’s 1996 thriller The Rock is currently free to stream. 30 years later, its still an exciting ride.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/msdrock_ec013_h.jpg",
-      "publishedAt": "2026-11-22T12:00:18.000Z",
+      "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years",
+      "link": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/",
+      "summary": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-motorcycles.jpg",
+      "publishedAt": "2026-11-22T19:32:30.000Z",
       "sourceId": "polygon",
       "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
+    },
+    {
+      "title": "The Modeller’s Journey, a new modeling course from CG Cookie",
+      "link": "https://www.blendernation.com/2026/11/22/the-modellers-journey-a-new-modeling-course-from-cg-cookie/",
+      "summary": "CG Cookie has launched The Modeller’s Journey, a hard-surface modeling series by Chris Bailey about how to approach an object you have never modeled before. Source",
+      "image": null,
+      "publishedAt": "2026-11-22T19:00:00.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "The Best GTA 6 Easter Eggs We’ve Seen So Far",
+      "link": "https://www.polygon.com/gta-6-easter-eggs/",
+      "summary": "Grand Theft Auto 6 features tons of celebrity cameos, pop-culture references, and nods to past Rockstar games. Here are a few of our faves.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/gta6jason.JPG",
+      "publishedAt": "2026-11-22T18:42:14.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "American Psycho Reboot Is 'Not Happening,' Director Says",
+      "link": "https://www.polygon.com/american-psycho-reboot-movie-update-luca-guadagnino/",
+      "summary": "We won't be getting a version of American Psycho from the director of Challengers",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25019298/american_psycho_bateman.jpg",
+      "publishedAt": "2026-11-22T18:09:46.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "image": null,
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "sourceId": "techcrunch-ai",
+      "sourceName": "TechCrunch AI",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Go on a trip with Dave and Beezlebub for a sick boss fight in GTA 6",
+      "link": "https://www.polygon.com/gta-6-hell-event-port-hellhorn-circles-of-hell-hellspawn-comshot/",
+      "summary": "In this guide, you learn all you need to start the Hell event in GTA 6 and go fight demons in Doom style to earn a unique weapon.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_hellevent_lead2.jpg",
+      "publishedAt": "2026-11-22T18:05:11.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Six Years Too Late, Next-Gen Finally Arrives with GTA 6",
+      "link": "https://www.polygon.com/patch-notes-gta-6-next-gen/",
+      "summary": "Grand Theft Auto 6 is the best reason to buy a PS5 or Xbox Series X, but it might be the last time a game makes us feel this way",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_13-1.jpg",
+      "publishedAt": "2026-11-22T18:00:18.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Christopher Nolan's Mystery Thriller Masterpiece Is Officially Being Removed from Netflix",
+      "link": "https://www.polygon.com/memento-leaving-netflix-december-2026/",
+      "summary": "The director's 2001 breakthrough film established many of the techniques and themes he's used throughout his career",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mv5byjdknjm3m2qtywzlzs00mdzjlthmnzktmmjkotazzmrjymm1xkeyxkfqcgc-_v1_.jpg",
+      "publishedAt": "2026-11-22T17:23:18.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Christopher Nolan's The Odyssey Built a 36-Foot Cyclops Puppet and Hauled It Up a Mountain",
+      "link": "https://www.polygon.com/the-odyssey-cyclops-puppet-practical-effects/",
+      "summary": "The Odyssey's effects team reveals how they built a 36-foot Cyclops puppet and hauled it up a mountain to film inside a cave in Greece.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cyclops.jpg",
+      "publishedAt": "2026-11-22T17:00:19.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "Sunrise on the Reaping Makes Hunger Games A Box Office Blockbuster Franchise Again",
+      "link": "https://www.polygon.com/the-hunger-games-sunrise-on-the-reaping-box-office/",
+      "summary": "Sunrise on the Reaping had a strong opening box office haul this weekend, re-establishing The Hunger Games as a box office giant.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/hunger_games_sunrise_reaping.jpg",
+      "publishedAt": "2026-11-22T16:49:49.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
+      "link": "https://www.polygon.com/gta-6-stash-box-atm-money/",
+      "summary": "Depositing and withdrawing money from your stash box and ATMs is shockingly fiddly and counterintuitive in GTA 6.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg",
+      "publishedAt": "2026-11-22T16:30:17.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
+      "link": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
+      "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg",
+      "publishedAt": "2026-11-22T16:14:04.000Z",
+      "sourceId": "polygon",
+      "sourceName": "Polygon",
+      "category": "game",
+      "categoryLabel": "游戏"
+    },
+    {
+      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
+      "link": "https://www.ithome.com/1/030/717.htm",
+      "summary": "IT之家 11 月 22 日消息，美国加利福尼亚州帕洛阿尔托的初创公司 Architect Labs 在一篇研究博客中宣布，其人工智能系统已经自主发现、设计并验证了一款名为 Frostbite 的通用 CPU。这款处理器采用全新的指令集，从底层开始重新设计，试图摆脱传统 CPU 的部分架构限制。 在 25 项工作负载测试中，由 4 个计算单元组成的 Frostbite 集群， 每瓦性能达到一款尺寸相近、已经完成硅验证的双发射顺序执行 CPU 核心的 4.59 倍 。不过，这些数据来自基于 7 纳米工艺的模拟设计，Frostbite 尚未真正流片，因此还没有实际芯片可以验证。由于法律方面的原因，Architect Labs 暂时无法公开作为对照的 CPU 核心型号。 传统 CPU 需要在运行时通过硬件判断不同指令之间的依赖关系，重新识别哪些指令可以并行执行。多核处理器还需要复杂的多级缓存体系",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d33e2bfd-739b-4bbc-abcf-95c44a003b24.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-22T15:15:55.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "研华 ASR-A505 单板计算机曝光，搭载英特尔 \"Nova Lake H\" 处理器",
+      "link": "https://www.ithome.com/1/030/716.htm",
+      "summary": "IT之家 11 月 22 日消息，根据研华 (Advantech) 泄露到网络上的一份演示文稿，该企业正在开发一款基于英特尔第 4 代酷睿 Ultra 处理器 \"Nova Lake H\" 的“四英寸级”单板计算机 (SBC) ASR-A505。 该 SBC 板载一颗 \" 8P+4E+4LE \" 的 16 核心 16 线程 CPU ，配备 18MB 的 LLC 缓存，基频 2.0GHz、睿频可达 4.8GHz；搭配最大频率 2.3GHz 的锐炫独显。 IT之家注： \"8P+4E+4LE\" 与此前所有爆料都不符，更可能是 4 个性能核 + 8 个能效核 + 4 个低功耗能效核。 其提供 2 个 CSO-DIMM 内存插槽， 支持 DDR5-8000 ；拥有 2 个 M.2 M-Key 2280 (PCIe Gen5 ×4) 插槽，另有分别用于扩展无线网络和蜂窝网络能力的 M.2 E-Key 和",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/0844fef5-8a06-4782-b754-bd4ee5453b54.jpg",
+      "publishedAt": "2026-11-22T14:45:34.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
+      "link": "https://www.ithome.com/1/030/715.htm",
+      "summary": "IT之家 11 月 22 日消息，Oracle（甲骨文）当地时间本月 20 日表示， 该企业已在本月初筹集到了履行与 OpenAI 交易的全部所需资金 ，与供应商进行的任何进一步私下讨论仅为补充选项。 ▲ Abilene Oracle 称其与 OpenAI 在 AI 基础设施合作方面的进展迅速： 位于美国得克萨斯州 Abilene 的园区已用于 GPT-6 Astra 的训练 ， 整体接近完工 ；下一个 GW 级项目 Shackelford 已获得所有许可；NVIDIA Vera Rubin 机架交付工作正按计划进行，预计将在未来几周内完成。 ▲ Shackelford 该企业仍预计可在 FY2028H2 实现正的自由现金流，目标是在 FY2029 实现超过 300 亿美元 （IT之家注：现汇率约合 2,008 亿元人民币） 的自由现金流，并预计从届时起能够依靠自有资金支持未来增长。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/5484c5f8-414f-4b1a-b8a2-d2c006e8ecb2.jpg",
+      "publishedAt": "2026-11-22T14:24:17.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化",
+      "link": "https://www.ithome.com/1/030/714.htm",
+      "summary": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。 作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。 IT之家注意到，Rockstar 动画副总裁马克 · 坦南特（Mark Tennant）在接受 GamesRadar 采访时透露，围绕杰森（Jason）和露西亚（Lucia）之间的亲密关系展开设计，团队进行了大量思考和反复调整。 他表示：“我们需要让玩家能够以自然、充满爱意的方式与伴侣互动，同时根据玩家对这段关系的投入程度，让两人之间的亲密关系呈现出合理可信的变化过程。” 《GTA 6》中的恋爱关系并非一条固定不变的剧情线。根据玩家的选择，杰森和",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3b3a8be9-f5ef-4a98-9fbc-5b3e53f336e0.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-22T14:19:27.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "签约后也能涨价：消息称 AI 服务器厂商交付前提价，涨幅最高达 45%",
+      "link": "https://www.ithome.com/1/030/713.htm",
+      "summary": "IT之家 11 月 22 日消息，据金融时报报道，随着人工智能基础设施成本飙升并向下游客户传导，销售数据中心设备的科技公司正在与买家签署合同数月后，大幅上调搭载英伟达芯片的人工智能服务器价格。 包括戴尔、慧与科技（HPE）、联想和超微电脑（Supermicro）在内的供应商，向自建数据中心的客户销售服务器，其中包含 GPU、内存芯片和网络设备等组件。 此类交易通常在交付前很早就已达成协议 。 然而据知情人士透露，数月后，当设备准备交付时， 这些科技公司要求的价格远高于最初商定的金额 。 在人工智能设备供不应求的当下，大型金融服务与交易公司虽然是仅次于大型科技超大规模云服务商的计算设备采购大户，却也不得不听任供应商摆布其定价。 “当你遇到 25%、30% 甚至 45% 的涨价时，确实令人不安，”一位知情人士说。他们补充道， 提前数月敲定的初始价格，与组件交付后企业最终支付的金额之间“存在巨大",
+      "image": null,
+      "publishedAt": "2026-11-22T14:00:48.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "HueAtlas Lite: free palette atlas texturing for low-poly game kits",
+      "link": "https://www.blendernation.com/2026/11/22/hueatlas-lite-free-palette-atlas-texturing-for-low-poly-game-kits/",
+      "summary": "Swatchworks released HueAtlas Lite, a free add-on that textures a whole low-poly game kit with one material and one small palette image. Swatchworks writes: I’ve released HueAtlas Lite, a free (GPL) add-on for the palette-texture workflow that many stylized and low-poly games use: one material, one small palette image, and every face UV-mapped onto a […] Source",
+      "image": null,
+      "publishedAt": "2026-11-22T14:00:32.000Z",
+      "sourceId": "blendernation",
+      "sourceName": "BlenderNation",
+      "category": "3d",
+      "categoryLabel": "3D / CG"
+    },
+    {
+      "title": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录",
+      "link": "https://www.ithome.com/1/030/711.htm",
+      "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢复，并刷新了新型分组密码的最高破解轮数纪录； 在求解作为公钥密码体系基石的经典数学困难问题时 ，该内部模型展现出将“挖掘隐含代数结构”与“系统级工程优化”相结合的能力，在国际公开挑战赛中首次攻克了数十",
+      "image": null,
+      "publishedAt": "2026-11-22T13:23:38.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴，电商平台优惠千元到手 14499 元起",
+      "link": "https://www.ithome.com/1/030/710.htm",
+      "summary": "IT之家 11 月 22 日消息，苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日发售，上市约一个月后，目前该机已陆续开始在电商平台开始补贴，以拼多多为例，目前该机已开启百亿补贴，相对于上市价（15999 元起）优惠千元，到手价 14499 元起。 参考IT之家先前报道，有消息称苹果 iPhone Duo 折叠屏手机首销期（首销日 + 后三天）的 SO（销量）接近 200K（20 万）。 iPhone Duo 采用可折叠设计，配备了苹果迄今面积最大的 iPhone 显示屏。展开状态下，它是迄今最薄的 iPhone，内置显示屏面积比 iPhone 18 Pro Max 还要大 50%；闭合状态下，5.4 英寸外屏以小巧紧凑的机身设计，提供了相当于 iPhone 18 Pro 90% 的屏幕显示面积。",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/278208a0-551e-4812-aa6b-f0e11cb7656d.jpg",
+      "publishedAt": "2026-11-22T13:17:56.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路",
+      "link": "https://www.ithome.com/1/030/708.htm",
+      "summary": "IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元 （IT之家注：现汇率约合 4,016 万元人民币） 种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。 此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。 Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的高压输电线上，直接利用线路充电，并沿着电网移动，前往需要进行测量的地点。” 从沿电网开展测量这一用途可以看出，NOMAD 无人机目前主要用于监测高压输电线路，同时利用这些线路为自身补充能源。对于电力公",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/20c9cdc4-4b24-4098-b259-2d360ed82433.jpg?x-bce-process=image/format,f_auto",
+      "publishedAt": "2026-11-22T12:56:39.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际",
+      "link": "https://www.ithome.com/1/030/707.htm",
+      "summary": "IT之家 11 月 22 日消息，据欧洲汽车新闻报道，雷诺集团首席执行官福兰（Francois Provost）直言，当年未能向时任首席执行官卡洛斯 · 戈恩（Carlos Ghosn） 指出其在华销量目标不切实际 ，是自己职业生涯中最大的失误。 福兰于 2025 年 7 月出任雷诺首席执行官，他曾在 2016 年和 2017 年负责该车企在华业务运营。戈恩则于 2005 年至 2019 年 1 月期间担任雷诺集团首席执行官。 “我们进入中国市场太晚了。实际上，我们相当于挤上了末班车的最后一节车厢 —— 而且还没买票，”福兰表示。 这一表态之所以备受关注，是因为雷诺已于 2020 年退出在华合资企业，如今正吸取当年撤退的教训，将中国业务重塑为工程研发与采购基地，而非终端销售市场。 福兰表示，雷诺曾在华推出两款 SUV，初期表现尚可，但随后销量增长便陷入停滞。根据雷诺公布的数据，科雷傲（Ko",
+      "image": null,
+      "publishedAt": "2026-11-22T12:47:05.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "韩国最大电力公司韩电再曝大规模数据泄露，152 万人信息外泄",
+      "link": "https://www.ithome.com/1/030/706.htm",
+      "summary": "IT之家 11 月 22 日消息，韩国最大电力公司韩国电力公社（IT之家注：KEPCO，简称“韩电”）今日表示，已确认发生另一起涉及约 152 万用户个人信息的数据泄露事件。 上个月，该公司披露了一起影响 35,528 名内部员工、退休人员及合作方员工的信息泄露事件。 据介绍，本次泄露的信息中大量包含了居民登录号码（韩国身份证号）、电话号码、地址、账号、卡号等。此次确认发生信息泄露的地方，是提供电费查询、缴纳等服务的客户服务平台“韩电 ON”以及用于采购、工程、劳务合同的电子采购系统。 韩电在 20 日掌握泄露事实后，切断了外部 IP 访问并停止了相关服务。韩电相关人士表示：“初步判断系外部攻击者非法入侵这两个系统后窃取了信息。” 在韩电 ON 中，有 650,487 名客户的信息遭到泄露。不仅包括客户编号、客户姓名与固有识别信息（居民、外国人登录号码）、电话号码、地址，还包括银行名称、账",
+      "image": null,
+      "publishedAt": "2026-11-22T12:24:05.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
+    },
+    {
+      "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
+      "link": "https://www.ithome.com/1/030/704.htm",
+      "summary": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。 塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现这起未经授权的访问事件。 IT之家注意到，塔唱片披露数据泄露事件之前，日本在线服装零售商 Zozo 已于上周五宣布，约 1520 万名客户的信息遭到泄露。 Zozo 表示，事件源于其使用的 Plaid Inc. 营销平台遭到攻击，该平台主要用于管理客户信息。同样使用这一平台的丸井集团（Marui Group）也报告了个人信息泄露事件，涉及丸井集团及旗下 Epos Card 等业务。 长期以来，日本企业对传统 IT 系统的依赖一直被视为网",
+      "image": null,
+      "publishedAt": "2026-11-22T12:10:44.000Z",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "category": "ai",
+      "categoryLabel": "AI"
     },
     {
       "title": "微星推出“PRO MP272L”27 英寸显示器：1080P 100Hz，599 元",
@@ -214,7 +467,7 @@
       "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
       "link": "https://www.ithome.com/1/030/698.htm",
       "summary": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。 IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片 出货量的 20% 。 调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。 郭明錤称谷歌近几个月反复强调前沿模型研发优先取得算力，此次 8t 与 8i 系列出货比重的改变， 正是在供应链紧张与资料中心供电受限下所做的调整 。 另据韩媒 Chosun Biz 消息，谷歌正通过将自研 AI 芯片 TPU 的设计与内存采购相分离，以此压降采购开支。谷歌不再将设计、封装、HBM 采购全部交给博通， 部分选择 与联发科分工设计，并直接采购 HBM 。 相关阅读： ",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/88824acb-0885-43e5-99ad-1afc90d5dc22.jpg?x-bce-process=image/format,f_auto",
+      "image": "https://img.ithome.com/newsuploadfiles/2026/11/88824acb-0885-43e5-99ad-1afc90d5dc22.jpg",
       "publishedAt": "2026-11-22T11:20:07.000Z",
       "sourceId": "ithome",
       "sourceName": "IT之家",
@@ -398,17 +651,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "Star Wars’ 2-Part Sci-Fi War Thriller Has One of the Best Seasons in TV History",
-      "link": "https://www.polygon.com/disney-sci-fi-thriller-star-wars-andor/",
-      "summary": "Disney needed a win for one specific franchise, and Tony Gilroy gave Star Wars just that with the first season of 'Andor.'",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/andor-season-1-taramyn.jpg",
-      "publishedAt": "2026-11-22T10:00:18.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "报告：美国会计行业 AI 采用率高，但技术整合成熟度不足",
       "link": "https://www.ithome.com/1/030/679.htm",
       "summary": "IT之家 11 月 22 日消息，会计师正在成为观察人工智能如何改变职场的一个意想不到的样本。 据IT之家了解，由于会计工作具有流程固定、数据密集等特点，会计事务所一直是较早采用人工智能技术的行业之一，也经常被列为最容易受到 AI 冲击、面临岗位替代风险的行业。 不过，一份最新报告显示，会计行业还反映出 AI 发展中的另一个重要问题： 技术宣传所描绘的前景，与企业实际应用情况之间存在明显差距。 周三，沃尔特斯克鲁威尔税务与会计（Wolters Kluwer Tax & Accounting）发布《面向未来的会计师》（Future Ready Accountant）报告。报告指出，企业对 AI 的热情正在不断升温， 但多数会计事务所尚未具备将这项技术全面融入业务的能力。 这项调查于 2026 年 6 月至 7 月进行，共收集了 746 名美国会计行业从业者的反馈。沃尔特斯克鲁威尔税务与会计主",
@@ -442,17 +684,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "8 Best Science Fantasy Books of the 21st Century",
-      "link": "https://www.polygon.com/best-science-fantasy-books-of-the-century/",
-      "summary": "Break genre barriers with spacefaring necromancers and aliens employing goblins. Here are some of the best sci-fi fantasy books.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gideon-the-ninth.jpg",
-      "publishedAt": "2026-11-22T09:04:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "消息称《黑色洛城 2》为 R 星下一款作品：改编自旧金山“黄道十二宫”案件，2030 年发售",
       "link": "https://www.ithome.com/1/030/664.htm",
       "summary": "IT之家 11 月 22 日消息，据 Dexerto 报道，随着《GTA6》正式发售，一则发布于 2023 年的 GTA 社区爆料近日重新在 Reddit 平台受到关注。爆料者当时不仅提到了《GTA6》的多项剧情与玩法细节，还声称 R 星正在筹备《黑色洛城 2》，游戏场景设置在旧金山，主要基于现实中“黄道十二宫”杀人事件演绎，预计将于 2030 年发售。 这则爆料之所以再次引发讨论，是因为其中有关《GTA6》的部分内容得到了印证。例如，游戏早期曾考虑采用四名可操作主角，最终才确定为杰森和露西亚，以及两人是情侣关系等信息。至于《黑色洛城 2》，爆料称项目当时仍处于早期开发阶段。需要注意，目前官方尚未确认该项目存在，对于传闻消息还需谨慎看待。 值得一提的是，Take-Two 的 CEO Strauss Zelnick 今年 4 月接受 Variety 采访时，对《黑色洛城》回归的可能性作出过回",
@@ -462,17 +693,6 @@
       "sourceName": "IT之家",
       "category": "ai",
       "categoryLabel": "AI"
-    },
-    {
-      "title": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
-      "link": "https://www.polygon.com/the-simpsons-best-homer-quote/",
-      "summary": "Homer Simpson’s best quote from The Simpsons came during season 8 and contains some profoubd wisdom",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6058959/homer-simpson.0.jpg",
-      "publishedAt": "2026-11-22T09:00:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
     },
     {
       "title": "蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超 2000 万",
@@ -673,17 +893,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "'Calvin and Hobbes' Best Bully Quote Is Still Among the Wisest in Comic Strip History",
-      "link": "https://www.polygon.com/calvin-and-hobbes-moe-best-quote/",
-      "summary": "Moe was Calvin’s big dumb bully in Calvin and Hobbes. Here is his best quote from the beloved comic strip.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screen-shot-2026-11-18-at-7-58-53-pm.jpg",
-      "publishedAt": "2026-11-22T08:00:18.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
       "title": "Frame Perfect now makes turntable videos and pictures of your Blender models",
       "link": "https://www.blendernation.com/2026/11/22/frame-perfect-now-makes-turntable-videos-and-pictures-of-your-blender-models/",
       "summary": "Frame Perfect, VeeVeeVee's add-on that puts your Blender camera exactly where you're looking, can now make turntable videos and pictures of your models. Source",
@@ -761,138 +970,6 @@
       "categoryLabel": "AI"
     },
     {
-      "title": "《塞尔达传说：时之笛》重制版遭恶意刷差评，M 站玩家评分从 9.6 骤降至 8.7",
-      "link": "https://www.ithome.com/1/030/601.htm",
-      "summary": "IT之家 11 月 22 日消息，《塞尔达传说：时之笛》（The Legend of Zelda: Ocarina of Time）重制版在《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）发售后，意外成为玩家评分大战的受害者。 尽管这款重制作品获得了媒体评论家的高度评价，在 Metacritic 上拿下 95 分的媒体评分，但短短几个小时内，其玩家评分便大幅下滑。此次恶意刷差评事件被认为与部分不满的《GTA 6》粉丝有关，他们通过发布虚假负面评价，刻意拉低《时之笛》重制版的用户评分。 2026 年 11 月对于游戏玩家来说可谓相当热闹。《时之笛》重制版和《GTA 6》都获得了游戏圈各方的高度赞誉，两款作品还同时入围了 2026 年游戏大奖（The Game Awards 2026）的年度游戏奖项。 然而，部分玩家并不满足于欣赏两款优秀作品之间的良性竞争，反",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/18d590b7-45a0-4499-9c3d-1d4b12dc57e4.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-22T07:46:45.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能",
-      "link": "https://www.ithome.com/1/030/600.htm",
-      "summary": "IT之家 11 月 22 日消息，在 20 日下午发布的首款为 AI 而生的鸿蒙手机 —— 星芒 OSTA O1 Pro ， 华为官网确认其支持星闪 E2.0 技术 。 此外，华为官网星闪功能支持设备清单还揭示了 OSTA O1 Pro 的具体功能支持情况： OSTA O1 Pro 星闪功能支持一览 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 星闪手写笔 / 键盘 / 鼠标 连接支持星闪功能的手表 星闪电竞专链 星闪 K 歌耳返功能 查找端 被查找端 关机查找 关机响铃 手写笔 键盘 & 鼠标 OSTA O1 Pro 星闪 E2.0 支持 支持 支持 支持 支持 不支持 支持 支持 支持 支持 不支持 参考IT之家此前报道，OSTA O1 Pro 新机提供星芒紫、星云白、星空黑三款配色；配备一块 6.39 英寸 16:9.5 比例 1.5K LTPS 直屏；后置 200Mp 1/1",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/e1e5e1fd-11c5-491a-8941-659a192c4914.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-22T07:40:10.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "博主成功让 2007 年的 64MB 显存 HD2350 老卡成功运行《GTA5》，序章场景约 15 帧",
-      "link": "https://www.ithome.com/1/030/598.htm",
-      "summary": "IT之家 11 月 22 日消息，据外媒 Notebook Check 报道，一名 YouTube 博主 Budget-Builds Official 成功在 ATI Radeon HD 2350 显卡上跑动《GTA 5》，该显卡仅配备 64MB DDR2 显存。 公开信息显示，ATI Radeon HD 2350 显卡发布于 2007 年，这款显卡拥有 40 个流处理器、4 个纹理映射单元（TMU）、4 个光栅操作单元（ROP），配备 64MB DDR2 显存，最高核心频率约为 525MHz。 为了让 GTA 5 成功启动，Budget-Builds Official 不得不将游戏画质设置降低到极其夸张的程度。成功进入游戏后，他又进一步调整各项参数，并对显卡进行超频，最终在游戏序章北洋克顿抢劫逃亡场景中实现了约 15 FPS 的帧率。 当然，游戏运行过程中也出现了不少问题，部分场景素材根",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/db6c8a56-8294-4225-a02e-529834190ea6.jpg",
-      "publishedAt": "2026-11-22T07:37:07.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "《GTA 6》陷入首起抄袭争议：枪械涂装被指照搬艺术家近五年前的作品",
-      "link": "https://www.ithome.com/1/030/597.htm",
-      "summary": "IT之家 11 月 22 日消息，Rockstar Games 被指未经许可，擅自使用一名艺术家的作品，为《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）中的一款枪械制作装饰涂装。这也成为《GTA 6》发售以来首次遭遇的抄袭指控。 经过长达 13 年的等待，《GTA》系列第六部正统作品终于在 11 月 19 日登陆 PlayStation 和 Xbox 游戏主机。截至 11 月 21 日，游戏全球玩家数量已超过 3000 万，并创下娱乐产业史上规模最大的首发纪录。 随着数以千万计的玩家开始探索 Rockstar 打造的开放世界，游戏中一些不起眼的装饰细节也开始受到关注。 11 月 21 日，社交媒体用户发现，《GTA 6》中的一款自定义冲锋枪涂装，与毛茸茸文化（Furry）艺术家 GabyT 近五年前创作的一幅插画存在明显相似之处。 最初 X 用户 Gla",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/6a6ea52d-68d9-4e07-8b86-6810bc15e59e.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-22T07:35:39.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "蔚来李斌：新款 ET5T 和 ES6 明年上半年陆续交付，ET5 和 EC6 明年没有改款计划",
-      "link": "https://www.ithome.com/1/030/596.htm",
-      "summary": "IT之家 11 月 22 日消息，蔚来创始人、董事长、CEO 李斌透露，新款 ET5T 和 ES6 将于明年上半年陆续交付，而 ET5 和 EC6 明年没有改款计划。 李斌表示，主要的原因是还是有很多人喜欢小一点的车。 “5566 车系”，是蔚来对其四款主力车型 ET5、ET5T、ES6、EC6 的统称，取自四款车型名称中的数字组合。 据IT之家此前报道，4 月 2 日，蔚来 2026 款 ET5、ET5T、ES6、EC6 正式上市： 2026 款 ET5：整车购买价 29.8 万元起，电池租用方案 19 万元起 2026 款 ET5T：整车购买价 29.8 万元起，电池租用方案 19 万元起 2026 款 ES6：整车购买价 33.8 万元起，电池租用方案 23 万元起 2026 款 EC6：整车购买价 35.8 万元起，电池租用方案 25 万元起 相关阅读： 《 2026 款蔚来 ET",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/df481497-9fb0-4b40-a8dd-4d84e14517cb.jpg",
-      "publishedAt": "2026-11-22T07:35:11.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "细节狂魔：《GTA 6》通信塔极高还原度获专业人士盛赞",
-      "link": "https://www.ithome.com/1/030/595.htm",
-      "summary": "IT之家 11 月 22 日消息，《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）是一款规模庞大的游戏，但如果仔细观察其中的各种细节，就会发现，这个广阔的虚拟世界几乎每个角落都经过了精心打磨。最近，一名曾参与大型通信塔建设和维护工作的内容创作者，就被《GTA 6》中一座通信塔的细节还原程度彻底震撼了。 这名内容创作者名叫 MrMcg92，平时主要游玩第一人称射击游戏和军事模拟游戏。不过，他在现实生活中也曾从事大型通信塔和无线电塔的相关工作，甚至亲自攀爬过这些高塔。 因此，每当他在电子游戏中遇到通信塔时，都会专门进行一次所谓的“通信塔检查”。 此前，他已经检查过《战地》系列、《往日不再》（Days Gone）和《孤岛惊魂》（Far Cry）中的通信塔。虽然这些游戏中的通信塔也有不少不错的细节，但往往存在一些错误，或者缺少现实中真正的通信塔必备的部件。 然而，",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/eae2995f-e563-4bc8-b958-307daed61958.jpg",
-      "publishedAt": "2026-11-22T07:26:36.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "蚂蚁集团 CEO 韩歆毅：人工智能已走到临床很多环节，相信 AI 可以成为连接医患延续照顾的可靠纽带",
-      "link": "https://www.ithome.com/1/030/594.htm",
-      "summary": "IT之家 11 月 22 日消息，据新浪科技今天报道，蚂蚁集团 CEO 韩歆毅今日在 2026 蚂蚁阿福医疗健康生态大会表示， AI 这几年已经走到了临床的很多环节 。 韩歆毅表示：“我们看到从门诊到病房，从随访到科研，其实需要思考一个根本的命题，当 AI 走进了医院，走进了患者的日常生活，到底应该怎样服务医学、服务医生、服务患者。” 这名 CEO 认为，蚂蚁阿福的初心是希望从临床的真实需求出发，帮助医生更好前进，让青年医生更好的成长，让医院也更好地组织医疗服务。 他相信 AI 可以成为连接医患延续照顾的可靠纽带 。 IT之家查询蚂蚁集团官网发现，韩歆毅 2014 年 5 月加入蚂蚁集团，历任资深总监、副总裁、首席财务官。2024 年 3 月，韩歆毅出任蚂蚁集团总裁，2025 年 3 月，出任蚂蚁集团首席执行官。 ▲ 图源：蚂蚁集团 加入蚂蚁集团之前，韩歆毅于 2011 年 9 月加入阿里",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/8/97a08501-97eb-4336-bfe3-11ce37f5b6f2.jpg",
-      "publishedAt": "2026-11-22T07:26:22.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "我国首批可信数据空间创新发展试点取得阶段性进展，已在 13 个城市、22 个行业、28 家企业落地",
-      "link": "https://www.ithome.com/1/030/593.htm",
-      "summary": "IT之家 11 月 22 日消息，据央视新闻报道，作为数据流通利用的新载体， 我国首批可信数据空间创新发展试点取得阶段性进展 。 据介绍，可信数据空间是一类新的数据基础设施，在确保数据安全前提下，重在提升数据流通和开发利用水平，培育安全可信、开放协同、互利共赢的数据开发应用生态。 最新数据显示，我国首批可信数据空间创新发展试点自 2025 年启动以来，现已覆盖工业制造、交通物流、医疗健康等重点行业， 带动形成 457 个高质量数据集、136 个人工智能垂直模型 ，助力物流多式联运、碳足迹核算互认、新材料研发、车桩网协同调度等一批高价值场景落地应用。 IT之家查询获悉，目前， 我国首批可信数据空间创新发展试点已经在 13 个城市、22 个行业、28 家企业落地 ，持续服务产业发展和民生需求。",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/74ab7447-5c85-4032-9af4-12623b8a1a4f.jpg?x-bce-process=image/format,f_auto",
-      "publishedAt": "2026-11-22T07:25:35.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "《以撒的结合：忏悔 +》最新“罪恶城”更新引争议，玩家称游戏音乐系 AI 工具生成",
-      "link": "https://www.ithome.com/1/030/591.htm",
-      "summary": "IT之家 11 月 22 日消息，据外媒 kotaku 报道，《以撒的结合：忏悔 +（The Binding of Isaac: Repentance+）》最新的“罪恶城”免费更新疑似使用了 AI 生成的背景音乐，引发 Steam 玩家集中差评。 具体来看，本次更新主要是为了致敬《GTA6》，玩家在更新游戏后只需在开始挑战前输入代码“V1CE BSMT”，就能进入一个以罪恶城为主题的特别版本，其中包含专属武器和背景音乐。 然而，有玩家发现该特别模式中的音乐疑似由 AI 音乐生成工具 Suno 制作，相应音频文件保留了 Suno 生成工具的元数据，玩家可以通过 VLC 等工具查看文件注释信息，例如名为 drivingsong1.ogg 的文件就包含以下记录： comment: made with suno; created=2026-10-30T17:53:41Z; id= cd5a5b55",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/d89784ee-bb68-42b7-8899-072456c66cae.png",
-      "publishedAt": "2026-11-22T07:23:26.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "柏林艺术中心举办军事 AI 系统发布会引乐迷抗议，场地负责人致歉",
-      "link": "https://www.ithome.com/1/030/590.htm",
-      "summary": "IT之家 11 月 22 日消息，据《卫报》今天报道，德国军工初创企业 Helsing 近期在柏林艺术中心 Kraftwerk Berlin 举办 AI 目标识别系统 Clarity 发布活动，引发当地乐迷、电音社区强烈抗议。 据报道，Kraftwerk Berlin 是一座位于柏林的巨型后工业艺术与音乐文化空间，以粗粝的混凝土建筑和实验电子音乐、装置艺术闻名。这里不仅是实验音乐节 Atonal 的举办地，也与电音俱乐部 Tresor 处于同一个园区。 然而在上周（IT之家注：当地时间 11 月 11 日），这家前卫的场馆被改造成“作战室”。据到场者描述，混凝土墙壁上投射着地图和航拍画面，天花板上悬挂着无人机，身穿防弹衣的保安则带着搜爆犬在场地内巡逻。 Helsing 的 Clarity 系统是由 AI 智能体驱动的情报平台，能够利用无人机、卫星和传感器收集的数据锁定目标，最终打击行动仍由",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/30935703-1a42-4066-8de8-97029238afc5.jpg",
-      "publishedAt": "2026-11-22T07:13:14.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术",
-      "link": "https://www.ithome.com/1/030/589.htm",
-      "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，搭载麒麟 9030S 处理器，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家从华为客户服务获悉， 星芒 OSTA O1 Pro 确认支持华为自研 Wi-Fi 7+ 芯片级协同技术 （Wi-Fi 7+ 是华为在 Wi-Fi 7 标准协议之上，自研的芯片级协同技术，能提升 Wi-Fi 信号较差场景下 Wi-Fi 性能和抗干扰能力，仅 HarmonyOS 6 及以上版本支持 Wi-Fi 7+）。 最新支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机设备清单如下： HUAWEI Mate 90 系列 HUAWEI Mate X7 系列 HUAWEI Mate 80 系列 HUAWEI M",
-      "image": "https://img.ithome.com/newsuploadfiles/2026/11/3ce098ae-82ff-4444-8dc9-6dc462026b7c.jpg?x-bce-process=image/auto-orient,o_1",
-      "publishedAt": "2026-11-22T07:13:14.000Z",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
-      "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
-      "link": "https://www.qbitai.com/2026/11/511904.html",
-      "summary": "用葡萄糖发电控制血糖。",
-      "image": null,
-      "publishedAt": "2026-11-22T06:21:47.000Z",
-      "sourceId": "qbitai",
-      "sourceName": "量子位",
-      "category": "ai",
-      "categoryLabel": "AI"
-    },
-    {
       "title": "Godot 4 入门教程：主角移动进阶、导出注解",
       "link": "https://indienova.com/indie-game-development/liangxie-beginners-guide-to-godot-and-gdscript-part-12/",
       "summary": "凉鞋的Godot 4 入门教程：跟着示例学 Godot & GDScript",
@@ -900,61 +977,6 @@
       "publishedAt": "2026-11-22T06:00:00.000Z",
       "sourceId": "indienova",
       "sourceName": "indienova",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "46 Years Later, the Most Influential Thriller of All Time Is Officially Free on YouTube",
-      "link": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026/",
-      "summary": "The start of Jason Voorhees's story, 'Friday the 13th,' is now available to watch for free.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/m8dfrth_ec020.jpg",
-      "publishedAt": "2026-11-22T04:00:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
-      "link": "https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series/",
-      "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/captain-kirk-og.png",
-      "publishedAt": "2026-11-22T03:59:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
-      "link": "https://www.polygon.com/kite-eating-tree-peanuts/",
-      "summary": "Charlie Brown's only real arch-rival was a malevolent tree. Chomp chomp chomp.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg",
-      "publishedAt": "2026-11-22T03:00:28.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "8 Must-Play JRPGs for People With Real-Life Schedules",
-      "link": "https://www.polygon.com/jrpgs-real-life-schedules/",
-      "summary": "Busy schedule, long JRPG backlog? These eight games fit short sessions with chapter breaks, adjustable battles, and easy saves.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/octopath-traveler-switch-2.jpg",
-      "publishedAt": "2026-11-22T01:00:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
-      "category": "game",
-      "categoryLabel": "游戏"
-    },
-    {
-      "title": "Star Trek Reboot Officially Teased as Crimson Tide Meets Training Day Sci-Fi Thriller",
-      "link": "https://www.polygon.com/star-trek-movie-reboot-crimson-tide-training-day/",
-      "summary": "The next Star Trek movie has writers and a strong pitch: Crimson Tide meets Training Day meets Starfleet.",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/mcdsttr_ec059.jpg",
-      "publishedAt": "2026-11-22T00:40:17.000Z",
-      "sourceId": "polygon",
-      "sourceName": "Polygon",
       "category": "game",
       "categoryLabel": "游戏"
     },
@@ -1657,28 +1679,6 @@
       "summary": "Click Joints is a free extension that cuts a ball and socket or a pin joint into a mesh for 3D printing, with the clearance you set in millimeters.Thijs (Dortus) writes: For a ball joint it measures how far the joint bends in 8 directions before the parts collide, and shows that range on the […] Source",
       "image": null,
       "publishedAt": "2026-11-18T08:35:39.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Blender 5.3 Tutorial",
-      "link": "https://www.blendernation.com/2026/11/16/blender-5-3-tutorial/",
-      "summary": "Let’s explore the latest features of Blender 5.3 and have some fun creating this cinematic scene using gaussian splats, DLSS denoising, online asset libraries and new compositor stack. Source",
-      "image": null,
-      "publishedAt": "2026-11-16T07:31:21.000Z",
-      "sourceId": "blendernation",
-      "sourceName": "BlenderNation",
-      "category": "3d",
-      "categoryLabel": "3D / CG"
-    },
-    {
-      "title": "Charging Animation Tutorial",
-      "link": "https://www.blendernation.com/2026/11/15/charging-animation-tutorial/",
-      "summary": "Let’s practice some hard-surface modeling and shader tricks to create a sci-fi battery charging animation in Blender. Source",
-      "image": null,
-      "publishedAt": "2026-11-15T08:00:38.000Z",
       "sourceId": "blendernation",
       "sourceName": "BlenderNation",
       "category": "3d",
